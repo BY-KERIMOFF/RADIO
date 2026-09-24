@@ -449,12 +449,12 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F1a-oldies.radionetz.de%2F
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F0n-schlagergold.radionetz.de%2F0n-schlagergold.mp3
 #EXTINF:-1 tvg-logo="" group-title="Spain",华夏之声China FM·西班牙马德里FM92.9
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradioserver12.profesionalhosting.com%2Fproxy%2Fpkg152387%2Fstream
+#EXTINF:-1 tvg-logo="https://mrg.fm/img/planethiphop125.jpg" group-title="The United States Of America",Planet HipHop (MRG.fm)
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flisten.mrg.fm%3A8100%2Fstream
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-schlager-gold_600x600.jpg" group-title="Germany",- 0 N - Schlager Gold on Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F0n-schlagergold.radionetz.de%2F0n-schlagergold.aac
 #EXTINF:-1 tvg-logo="" group-title="Other",Oldoldies
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Foldoldies.stream.laut.fm%2Foldoldies
-#EXTINF:-1 tvg-logo="https://mrg.fm/img/planethiphop125.jpg" group-title="The United States Of America",Planet HipHop (MRG.fm)
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flisten.mrg.fm%3A8100%2Fstream
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gdXevHV5vIDttggvGr_Dv3XI_DTnhmLiUJ0VD8OL1tX0s9Dvrkqctbu3GrhKbE-bRiAy=w300" group-title="Germany",SR 3 Saarlandwelle (56 kbit/s)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fsr.audiostream.io%2Fsr%2F1011%2Fmp3%2F56%2Fsr3
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-disco_600x600.jpg" group-title="Germany",- 0 N - Disco on Radio
@@ -671,10 +671,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.0nlineradio.com%2F
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.zeno.fm%2Ft4pj1qaktrwtv
 #EXTINF:-1 tvg-logo="https://www.ostseewelle.de/assets/icons/apple-touch-icon.png" group-title="Germany",Ostseewelle HIT-RADIO - Oldie Hits
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreamosw.ir-media-tec.com%2Foldies%2Fmp3-128
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s91217/images/logod.jpg" group-title="Mexico", LG LA GRANDE 95.5 (León) - 95.5 FM - XHELG-FM - Promomedios - León Guanajuato
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.zeno.fm%2F9ty3tty0ra0uv
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/485/stereo-cien-1001-fm.640ab4a2.jpg" group-title="Mexico", STEREO CIEN 1000 (CDMX) - 1000 AM - XEOY-AM - NRM Comunicaciones - Ciudad de México
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FXHMMFMAAC.aac
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s91217/images/logod.jpg" group-title="Mexico", LG LA GRANDE 95.5 (León) - 95.5 FM - XHELG-FM - Promomedios - León Guanajuato
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.zeno.fm%2F9ty3tty0ra0uv
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5ed68bfa0eb90d6134a362ef" group-title="Mexico",Sounds Of Yesterday (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de México
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FACIR30_s01AAC.aac
 #EXTINF:-1 tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1494/2022/01/21131743/77-WABC-Gold_narrow_4.png" group-title="The United States Of America",WABC 770 AM - NewYork NY
@@ -2453,6 +2453,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.realitatea.group%2F
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradioweb.stream%2Fsinaloa.culiacan%2Fxhcpfw.aac%2Ficecast.audio
 #EXTINF:-1 tvg-logo="" group-title="Germany",WDR 4 Rheinland
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficecast.wdr.de%2Fwdr%2Fwdr4%2Frheinland%2Fmp3%2F128%2Fstream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Germany",WDR 4 Rhein und Ruhr
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficecast.wdr.de%2Fwdr%2Fwdr4%2Frheinruhr%2Fmp3%2F128%2Fstream.mp3
 #EXTINF:-1 tvg-logo="https://2024.orionradio.ro/wp-content/uploads/2023/12/logo-PRO-orion.png" group-title="Romania",Orion FM -Fetești 917 FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fsonic2-rbx.cloud-center.ro%2F8070%2Fstream
 #EXTINF:-1 tvg-logo="https://www.digital2radio.com/assets/digital2-logo-carre.png" group-title="France",DIGITAL2RADIO
