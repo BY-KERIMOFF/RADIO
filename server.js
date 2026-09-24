@@ -77,9 +77,12 @@ async function getStations() {
 app.get('/m3u', async (req, res) => {
   try {
     const stations = await getStations();
-    const country = req.query.country;
-    const genre = req.query.genre;
-    const language = req.query.language;
+    let country = req.query.country;
+    let genre = req.query.genre;
+    let language = req.query.language;
+    try { if (country) country = decodeURIComponent(country); } catch (e) {}
+    try { if (genre) genre = decodeURIComponent(genre); } catch (e) {}
+    try { if (language) language = decodeURIComponent(language); } catch (e) {}
     const codec = req.query.codec;
     const minbitrate = parseInt(req.query.minbitrate) || 0;
     const limit = parseInt(req.query.limit) || stations.length;
