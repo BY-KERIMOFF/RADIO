@@ -73,18 +73,63 @@ async function getStations() {
   throw new Error('Hec bir mirror islemedi');
 }
 
-// M3U - butun radiolar (proxied)
+// M3U - butun dunya radiolari
 app.get('/m3u', async (req, res) => {
   try {
     const stations = await getStations();
     const country = req.query.country;
     const genre = req.query.genre;
+    const language = req.query.language;
+    const codec = req.query.codec;
+    const minbitrate = parseInt(req.query.minbitrate) || 0;
     const limit = parseInt(req.query.limit) || stations.length;
     const raw = req.query.raw === '1';
 
     let filtered = stations;
-    if (country) filtered = filtered.filter(s => s.country && s.country.toLowerCase() === country.toLowerCase());
-    if (genre) filtered = filtered.filter(s => s.tags && s.tags.toLowerCase().includes(genre.toLowerCase()));
+
+    // Olke (vergulle ayrilmis, qismen uygunluq)
+    if (country) {
+      const normalize = (str) => str
+        .toLowerCase()
+        .replace(/ü/g, 'u')
+        .replace(/ö/g, 'o')
+        .replace(/ş/g, 's')
+        .replace(/ğ/g, 'g')
+        .replace(/ı/g, 'i')
+        .replace(/ç/g, 'c')
+        .replace(/ə/g, 'e');
+
+      const countries = country.split(',').map(c => normalize(c.trim())).filter(Boolean);
+      filtered = filtered.filter(s => {
+        if (!s.country) return false;
+        const nc = normalize(s.country);
+        return countries.some(c => nc.includes(c));
+      });
+    }
+
+    // Janr (vergulle)
+    if (genre) {
+      const genres = genre.split(',').map(g => g.trim().toLowerCase()).filter(Boolean);
+      filtered = filtered.filter(s => s.tags && genres.some(g => s.tags.toLowerCase().includes(g)));
+    }
+
+    // Dil
+    if (language) {
+      const languages = language.split(',').map(l => l.trim().toLowerCase()).filter(Boolean);
+      filtered = filtered.filter(s => s.language && languages.some(l => s.language.toLowerCase().includes(l)));
+    }
+
+    // Codec
+    if (codec) {
+      const codecs = codec.split(',').map(c => c.trim().toLowerCase());
+      filtered = filtered.filter(s => s.codec && codecs.includes(s.codec.toLowerCase()));
+    }
+
+    // Minimum bitrate
+    if (minbitrate > 0) {
+      filtered = filtered.filter(s => (s.bitrate || 0) >= minbitrate);
+    }
+
     filtered = filtered.slice(0, limit);
 
     let m3u = '#EXTM3U\n';
@@ -94,12 +139,7 @@ app.get('/m3u', async (req, res) => {
       const logo = st.favicon || '';
       const group = st.country || 'Other';
       const name = (st.name || 'Unknown').replace(/,/g, '');
-      let finalUrl;
-      if (raw) {
-        finalUrl = url;
-      } else {
-        finalUrl = 'https://3bneoplay65.xyz/radio/stream?url=' + encodeURIComponent(url);
-      }
+      const finalUrl = raw ? url : 'https://3bneoplay65.xyz/radio/stream?url=' + encodeURIComponent(url);
       m3u += '#EXTINF:-1 tvg-logo="' + logo + '" group-title="' + group + '",' + name + '\n' + finalUrl + '\n';
     });
 
@@ -110,41 +150,47 @@ app.get('/m3u', async (req, res) => {
   }
 });
 
-// Radio proxy - VPS radionu ozu cekir
-app.get('/stream', async (req, res) => {
-  const streamUrl = req.query.url;
-  if (!streamUrl) return res.status(400).send('url parametri lazimdir');
-
+// Axtaris endpointi
+app.get('/search', async (req, res) => {
   try {
-    const response = await axios({
-      method: 'get',
-      url: streamUrl,
-      responseType: 'stream',
-      timeout: 20000,
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (RadioProxy/1.0)',
-        'Icy-MetaData': '1'
-      },
-      maxRedirects: 5,
-      httpsAgent: new (require('https').Agent)({ rejectUnauthorized: false })
-    });
+    const stations = await getStations();
+    const q = (req.query.q || '').toLowerCase();
+    const limit = parseInt(req.query.limit) || 100;
+    if (!q) return res.json([]);
 
-    res.setHeader('Content-Type', response.headers['content-type'] || 'audio/mpeg');
-    res.setHeader('Access-Control-Allow-Origin', '*');
-    res.setHeader('Cache-Control', 'no-cache');
-    res.setHeader('Connection', 'keep-alive');
-    if (response.headers['icy-name']) res.setHeader('icy-name', response.headers['icy-name']);
-    if (response.headers['icy-genre']) res.setHeader('icy-genre', response.headers['icy-genre']);
-    if (response.headers['icy-br']) res.setHeader('icy-br', response.headers['icy-br']);
+    const results = stations
+      .filter(s => (s.name && s.name.toLowerCase().includes(q)) || (s.tags && s.tags.toLowerCase().includes(q)))
+      .slice(0, limit)
+      .map(s => ({
+        name: s.name,
+        country: s.country,
+        tags: s.tags,
+        url: s.url_resolved || s.url,
+        favicon: s.favicon,
+        bitrate: s.bitrate,
+        codec: s.codec
+      }));
 
-    response.data.pipe(res);
-
-    req.on('close', () => {
-      try { response.data.destroy(); } catch (e) {}
-    });
+    res.json(results);
   } catch (e) {
-    console.log('Stream xeta: ' + streamUrl + ' - ' + e.message);
-    if (!res.headersSent) res.status(502).send('Yayim alinmadi');
+    res.status(500).json({ error: e.message });
+  }
+});
+
+// Top radiolar (ses sayina gore)
+app.get('/top', async (req, res) => {
+  try {
+    const stations = await getStations();
+    const n = parseInt(req.query.n) || 100;
+    const top = stations.slice(0, n).map(s => ({
+      name: s.name,
+      country: s.country,
+      url: s.url_resolved || s.url,
+      votes: s.votes
+    }));
+    res.json(top);
+  } catch (e) {
+    res.status(500).json({ error: e.message });
   }
 });
 
@@ -159,17 +205,51 @@ app.get('/countries', async (req, res) => {
   }
 });
 
-// Statistika
-app.get('/stats', async (req, res) => {
+// Janr siyahisi
+app.get('/genres', async (req, res) => {
   try {
     const stations = await getStations();
-    res.json({ total: stations.length });
+    const tags = new Set();
+    stations.forEach(s => {
+      if (s.tags) s.tags.split(',').forEach(t => tags.add(t.trim()));
+    });
+    res.json([...tags].sort().slice(0, 500));
   } catch (e) {
     res.status(500).json({ error: e.message });
   }
 });
 
-// Cache-i mecburi yenile (cron ucun)
+// Dil siyahisi
+app.get('/languages', async (req, res) => {
+  try {
+    const stations = await getStations();
+    const langs = new Set();
+    stations.forEach(s => {
+      if (s.language) s.language.split(',').forEach(l => langs.add(l.trim()));
+    });
+    res.json([...langs].sort());
+  } catch (e) {
+    res.status(500).json({ error: e.message });
+  }
+});
+
+// Statistika
+app.get('/stats', async (req, res) => {
+  try {
+    const stations = await getStations();
+    const countries = new Set(stations.map(s => s.country).filter(Boolean));
+    const languages = new Set(stations.map(s => s.language).filter(Boolean));
+    res.json({
+      total: stations.length,
+      countries: countries.size,
+      languages: languages.size
+    });
+  } catch (e) {
+    res.status(500).json({ error: e.message });
+  }
+});
+
+// Cache yenile
 app.get('/refresh', async (req, res) => {
   try {
     if (fs.existsSync(CACHE_FILE)) fs.unlinkSync(CACHE_FILE);
@@ -180,15 +260,83 @@ app.get('/refresh', async (req, res) => {
   }
 });
 
+// Radio proxy
+app.get('/stream', async (req, res) => {
+  const streamUrl = req.query.url;
+  if (!streamUrl) return res.status(400).send('url parametri lazimdir');
+
+  try {
+    const https = require('https');
+    const http = require('http');
+    const client = streamUrl.startsWith('https') ? https : http;
+
+    const options = {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+        'Icy-MetaData': '1',
+        'Accept': '*/*'
+      }
+    };
+
+    const proxyReq = client.get(streamUrl, options, (proxyRes) => {
+      if (proxyRes.statusCode >= 300 && proxyRes.statusCode < 400 && proxyRes.headers.location) {
+        return res.redirect('/stream?url=' + encodeURIComponent(proxyRes.headers.location));
+      }
+
+      if (proxyRes.statusCode !== 200) {
+        if (!res.headersSent) res.status(502).send('Upstream: ' + proxyRes.statusCode);
+        return;
+      }
+
+      res.setHeader('Content-Type', proxyRes.headers['content-type'] || 'audio/mpeg');
+      res.setHeader('Access-Control-Allow-Origin', '*');
+      res.setHeader('Cache-Control', 'no-cache');
+      res.setHeader('Connection', 'keep-alive');
+      if (proxyRes.headers['icy-name']) res.setHeader('icy-name', proxyRes.headers['icy-name']);
+      if (proxyRes.headers['icy-genre']) res.setHeader('icy-genre', proxyRes.headers['icy-genre']);
+      if (proxyRes.headers['icy-br']) res.setHeader('icy-br', proxyRes.headers['icy-br']);
+
+      proxyRes.pipe(res);
+      proxyRes.on('error', () => {});
+    });
+
+    proxyReq.on('error', (e) => {
+      if (!res.headersSent) res.status(502).send('Yayim alinmadi');
+    });
+
+    proxyReq.setTimeout(15000, () => {
+      proxyReq.destroy();
+      if (!res.headersSent) res.status(504).send('Timeout');
+    });
+
+    req.on('close', () => {
+      proxyReq.destroy();
+    });
+  } catch (e) {
+    if (!res.headersSent) res.status(500).send('Xeta: ' + e.message);
+  }
+});
+
 // Ana sehife
 app.get('/', (req, res) => {
-  res.send('<h1>Radio API isleyir</h1><ul>' +
+  res.send('<h1>Radio API</h1>' +
+    '<p>50.000+ dunya radiosu</p>' +
+    '<h2>Endpointler</h2>' +
+    '<ul>' +
     '<li><a href="/m3u">/m3u</a> - butun radiolar (proxy)</li>' +
-    '<li><a href="/m3u?raw=1">/m3u?raw=1</a> - birbasa radiolar</li>' +
+    '<li><a href="/m3u?raw=1">/m3u?raw=1</a> - birbasa</li>' +
+    '<li><a href="/m3u?limit=5000">/m3u?limit=5000</a> - ilk 5000</li>' +
     '<li><a href="/m3u?country=Azerbaijan">/m3u?country=Azerbaijan</a></li>' +
-    '<li><a href="/m3u?genre=pop&limit=100">/m3u?genre=pop&limit=100</a></li>' +
-    '<li><a href="/countries">/countries</a></li>' +
-    '<li><a href="/stats">/stats</a></li>' +
+    '<li><a href="/m3u?country=Turkey,Türkiye">/m3u?country=Turkey,Türkiye</a></li>' +
+    '<li><a href="/m3u?genre=pop,rock">/m3u?genre=pop,rock</a></li>' +
+    '<li><a href="/m3u?language=english">/m3u?language=english</a></li>' +
+    '<li><a href="/m3u?minbitrate=128">/m3u?minbitrate=128</a></li>' +
+    '<li><a href="/search?q=bbc">/search?q=bbc</a> - axtaris</li>' +
+    '<li><a href="/top?n=100">/top?n=100</a> - top radiolar</li>' +
+    '<li><a href="/countries">/countries</a> - olke siyahisi</li>' +
+    '<li><a href="/genres">/genres</a> - janr siyahisi</li>' +
+    '<li><a href="/languages">/languages</a> - dil siyahisi</li>' +
+    '<li><a href="/stats">/stats</a> - statistika</li>' +
     '<li><a href="/refresh">/refresh</a> - cache yenile</li>' +
     '</ul>');
 });
