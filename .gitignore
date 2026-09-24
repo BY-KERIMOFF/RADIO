@@ -1,0 +1,5 @@
+node_modules/
+stations.json
+*.log
+.env
+.DS_Store
