@@ -8,12 +8,18 @@ const PORT = 3000;
 const CACHE_FILE = path.join(__dirname, 'stations.json');
 const CACHE_TIME = 6 * 60 * 60 * 1000;
 
+// Radio Garden
+// const RG_FILE = path.join(__dirname, 'radio-garden.json');
+// const RG_CACHE_TIME = 24 * 60 * 60 * 1000;
+
 const MIRRORS = [
   'https://de1.api.radio-browser.info',
   'https://nl1.api.radio-browser.info',
   'https://at1.api.radio-browser.info',
   'https://fi1.api.radio-browser.info'
 ];
+
+// ============ RADIO-BROWSER ============
 
 async function fetchPage(mirror, offset, pageSize) {
   const { data } = await axios.get(mirror + '/json/stations/search', {
@@ -73,7 +79,70 @@ async function getStations() {
   throw new Error('Hec bir mirror islemedi');
 }
 
-// M3U - butun dunya radiolari
+// ============ RADIO GARDEN ============
+
+async function getRadioGardenStations() {
+  if (fs.existsSync(RG_FILE)) {
+    const stat = fs.statSync(RG_FILE);
+    if (Date.now() - stat.mtimeMs < RG_CACHE_TIME) {
+      console.log('Radio Garden cache-den oxunur');
+      return JSON.parse(fs.readFileSync(RG_FILE, 'utf8'));
+    }
+  }
+
+  try {
+    console.log('Radio Garden-den cekilir...');
+    const { data } = await axios.get('https://radio.garden/api/ara/content/places', {
+      headers: { 'User-Agent': 'Mozilla/5.0' },
+      timeout: 30000
+    });
+
+    const places = (data && data.data && data.data.list) || [];
+    console.log('Yerler: ' + places.length);
+
+    const stations = [];
+    const limit = Math.min(places.length, 800);
+
+    for (let i = 0; i < limit; i++) {
+      const place = places[i];
+      try {
+        const { data: page } = await axios.get(
+          'https://radio.garden/api/ara/content/page/' + place.id + '/channels',
+          { headers: { 'User-Agent': 'Mozilla/5.0' }, timeout: 10000 }
+        );
+        const items = (page && page.data && page.data.content && page.data.content[0] && page.data.content[0].items) || [];
+        for (const ch of items) {
+          if (ch.page && ch.page.url && ch.title) {
+            stations.push({
+              stationuuid: 'rg-' + ch.page.url,
+              name: ch.title,
+              url: 'https://radio.garden/api/ara/content/listen/' + ch.page.url + '/channel.mp3',
+              url_resolved: 'https://radio.garden/api/ara/content/listen/' + ch.page.url + '/channel.mp3',
+              favicon: (ch.page && ch.page.logo) || '',
+              country: place.country || place.title || '',
+              tags: 'radio-garden',
+              language: '',
+              codec: 'MP3',
+              bitrate: 128,
+              votes: 0
+            });
+          }
+        }
+        if ((i + 1) % 50 === 0) console.log('  ' + (i + 1) + '/' + limit + ' yer, ' + stations.length + ' radio');
+      } catch (e) {}
+    }
+
+    fs.writeFileSync(RG_FILE, JSON.stringify(stations));
+    console.log('Radio Garden: ' + stations.length + ' radio yuklendi');
+    return stations;
+  } catch (e) {
+    console.log('Radio Garden xeta: ' + e.message);
+    return [];
+  }
+}
+
+// ============ M3U ============
+
 app.get('/m3u', async (req, res) => {
   try {
     const stations = await getStations();
@@ -83,25 +152,25 @@ app.get('/m3u', async (req, res) => {
     try { if (country) country = decodeURIComponent(country); } catch (e) {}
     try { if (genre) genre = decodeURIComponent(genre); } catch (e) {}
     try { if (language) language = decodeURIComponent(language); } catch (e) {}
+
     const codec = req.query.codec;
     const minbitrate = parseInt(req.query.minbitrate) || 0;
     const limit = parseInt(req.query.limit) || stations.length;
     const raw = req.query.raw === '1';
 
-    let filtered = stations;
+    // Radio Garden radioları
+    let rgStations = [];
+    if (req.query.rg === '1' || req.query.source === 'all') {
+      rgStations = await getRadioGardenStations();
+    }
 
-    // Olke (vergulle ayrilmis, qismen uygunluq)
+    let filtered = [...stations, ...rgStations];
+
     if (country) {
-      const normalize = (str) => str
-        .toLowerCase()
-        .replace(/ü/g, 'u')
-        .replace(/ö/g, 'o')
-        .replace(/ş/g, 's')
-        .replace(/ğ/g, 'g')
-        .replace(/ı/g, 'i')
-        .replace(/ç/g, 'c')
+      const normalize = (str) => str.toLowerCase()
+        .replace(/ü/g, 'u').replace(/ö/g, 'o').replace(/ş/g, 's')
+        .replace(/ğ/g, 'g').replace(/ı/g, 'i').replace(/ç/g, 'c')
         .replace(/ə/g, 'e');
-
       const countries = country.split(',').map(c => normalize(c.trim())).filter(Boolean);
       filtered = filtered.filter(s => {
         if (!s.country) return false;
@@ -110,36 +179,33 @@ app.get('/m3u', async (req, res) => {
       });
     }
 
-    // Janr (vergulle)
     if (genre) {
       const genres = genre.split(',').map(g => g.trim().toLowerCase()).filter(Boolean);
       filtered = filtered.filter(s => s.tags && genres.some(g => s.tags.toLowerCase().includes(g)));
     }
 
-    // Dil
     if (language) {
       const languages = language.split(',').map(l => l.trim().toLowerCase()).filter(Boolean);
       filtered = filtered.filter(s => s.language && languages.some(l => s.language.toLowerCase().includes(l)));
     }
 
-    // Codec
     if (codec) {
       const codecs = codec.split(',').map(c => c.trim().toLowerCase());
       filtered = filtered.filter(s => s.codec && codecs.includes(s.codec.toLowerCase()));
     }
 
-    // Minimum bitrate
     if (minbitrate > 0) {
       filtered = filtered.filter(s => (s.bitrate || 0) >= minbitrate);
     }
 
     filtered = filtered.slice(0, limit);
 
+    const DEFAULT_LOGO = 'https://3bneoplay65.xyz/radio/logo.svg';
     let m3u = '#EXTM3U\n';
     filtered.forEach(st => {
       const url = st.url_resolved || st.url;
       if (!url) return;
-      const logo = st.favicon || '';
+      const logo = (st.favicon && st.favicon.trim()) ? st.favicon : DEFAULT_LOGO;
       const group = st.country || 'Other';
       const name = (st.name || 'Unknown').replace(/,/g, '');
       const finalUrl = raw ? url : 'https://3bneoplay65.xyz/radio/stream?url=' + encodeURIComponent(url);
@@ -153,7 +219,8 @@ app.get('/m3u', async (req, res) => {
   }
 });
 
-// Axtaris endpointi
+// ============ SEARCH ============
+
 app.get('/search', async (req, res) => {
   try {
     const stations = await getStations();
@@ -180,7 +247,8 @@ app.get('/search', async (req, res) => {
   }
 });
 
-// Top radiolar (ses sayina gore)
+// ============ TOP ============
+
 app.get('/top', async (req, res) => {
   try {
     const stations = await getStations();
@@ -197,7 +265,8 @@ app.get('/top', async (req, res) => {
   }
 });
 
-// Olke siyahisi
+// ============ COUNTRIES ============
+
 app.get('/countries', async (req, res) => {
   try {
     const stations = await getStations();
@@ -208,7 +277,8 @@ app.get('/countries', async (req, res) => {
   }
 });
 
-// Janr siyahisi
+// ============ GENRES ============
+
 app.get('/genres', async (req, res) => {
   try {
     const stations = await getStations();
@@ -222,7 +292,8 @@ app.get('/genres', async (req, res) => {
   }
 });
 
-// Dil siyahisi
+// ============ LANGUAGES ============
+
 app.get('/languages', async (req, res) => {
   try {
     const stations = await getStations();
@@ -236,23 +307,29 @@ app.get('/languages', async (req, res) => {
   }
 });
 
-// Statistika
+// ============ STATS ============
+
 app.get('/stats', async (req, res) => {
   try {
     const stations = await getStations();
     const countries = new Set(stations.map(s => s.country).filter(Boolean));
     const languages = new Set(stations.map(s => s.language).filter(Boolean));
-    res.json({
+    const result = {
       total: stations.length,
       countries: countries.size,
       languages: languages.size
-    });
+    };
+    if (fs.existsSync(RG_FILE)) {
+      result.radio_garden = JSON.parse(fs.readFileSync(RG_FILE, 'utf8')).length;
+    }
+    res.json(result);
   } catch (e) {
     res.status(500).json({ error: e.message });
   }
 });
 
-// Cache yenile
+// ============ REFRESH ============
+
 app.get('/refresh', async (req, res) => {
   try {
     if (fs.existsSync(CACHE_FILE)) fs.unlinkSync(CACHE_FILE);
@@ -263,7 +340,20 @@ app.get('/refresh', async (req, res) => {
   }
 });
 
-// Radio proxy
+// ============ RADIO GARDEN REFRESH ============
+
+app.get('/refresh-rg', async (req, res) => {
+  try {
+    if (fs.existsSync(RG_FILE)) fs.unlinkSync(RG_FILE);
+    const stations = await getRadioGardenStations();
+    res.json({ status: 'ok', total: stations.length, time: new Date().toISOString() });
+  } catch (e) {
+    res.status(500).json({ error: e.message });
+  }
+});
+
+// ============ STREAM PROXY ============
+
 app.get('/stream', async (req, res) => {
   const streamUrl = req.query.url;
   if (!streamUrl) return res.status(400).send('url parametri lazimdir');
@@ -320,27 +410,33 @@ app.get('/stream', async (req, res) => {
   }
 });
 
-// Ana sehife
+// ============ STATIC ============
+
+app.use(express.static(__dirname));
+
+// ============ HOME ============
+
 app.get('/', (req, res) => {
   res.send('<h1>Radio API</h1>' +
-    '<p>50.000+ dunya radiosu</p>' +
+    '<p>50.000+ dunya radiosu + Radio Garden</p>' +
     '<h2>Endpointler</h2>' +
     '<ul>' +
     '<li><a href="/m3u">/m3u</a> - butun radiolar (proxy)</li>' +
     '<li><a href="/m3u?raw=1">/m3u?raw=1</a> - birbasa</li>' +
-    '<li><a href="/m3u?limit=5000">/m3u?limit=5000</a> - ilk 5000</li>' +
+    '<li><a href="/m3u?limit=5000">/m3u?limit=5000</a></li>' +
+    '<li><a href="/m3u?rg=1&limit=5000">/m3u?rg=1</a> - Radio Garden ile</li>' +
     '<li><a href="/m3u?country=Azerbaijan">/m3u?country=Azerbaijan</a></li>' +
-    '<li><a href="/m3u?country=Turkey,Türkiye">/m3u?country=Turkey,Türkiye</a></li>' +
+    '<li><a href="/m3u?country=turk">/m3u?country=turk</a></li>' +
     '<li><a href="/m3u?genre=pop,rock">/m3u?genre=pop,rock</a></li>' +
-    '<li><a href="/m3u?language=english">/m3u?language=english</a></li>' +
     '<li><a href="/m3u?minbitrate=128">/m3u?minbitrate=128</a></li>' +
-    '<li><a href="/search?q=bbc">/search?q=bbc</a> - axtaris</li>' +
-    '<li><a href="/top?n=100">/top?n=100</a> - top radiolar</li>' +
-    '<li><a href="/countries">/countries</a> - olke siyahisi</li>' +
-    '<li><a href="/genres">/genres</a> - janr siyahisi</li>' +
-    '<li><a href="/languages">/languages</a> - dil siyahisi</li>' +
-    '<li><a href="/stats">/stats</a> - statistika</li>' +
-    '<li><a href="/refresh">/refresh</a> - cache yenile</li>' +
+    '<li><a href="/search?q=bbc">/search?q=bbc</a></li>' +
+    '<li><a href="/top?n=100">/top?n=100</a></li>' +
+    '<li><a href="/countries">/countries</a></li>' +
+    '<li><a href="/genres">/genres</a></li>' +
+    '<li><a href="/languages">/languages</a></li>' +
+    '<li><a href="/stats">/stats</a></li>' +
+    '<li><a href="/refresh">/refresh</a> - Radio-Browser yenile</li>' +
+    '<li><a href="/refresh-rg">/refresh-rg</a> - Radio Garden yenile</li>' +
     '</ul>');
 });
 
