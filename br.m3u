@@ -337,14 +337,14 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.zeno.fm%2Fc5bc53qc
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FBANDNEWSFM_SPAAC
 #EXTINF:-1 tvg-logo="https://metropolitanafm.com.br/assets/imgs/mpb-nova.png" group-title="Brazil",Metropolitana MPB São Paulo
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fice.fabricahost.com.br%2Fmetropolitanampb
+#EXTINF:-1 tvg-logo="null" group-title="Brazil",instrumentales
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fprotvradiostream.com%3A8350%2Flive
 #EXTINF:-1 tvg-logo="https://estilo.fm.br/wp-content/uploads/2023/12/ESTILO-FM-SP-300x300.png" group-title="Brazil",Estilo FM Litoral 93.3 Mhz (Cubatão - SP) (ZYU943)
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fcloud1.cdnseguro.com%3A20492%2Fstream
 #EXTINF:-1 tvg-logo="" group-title="Brazil",Imparsom FM Governador Valadares
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fwz3.dnip.com.br%2Fimparsomhd%2Fimparsomhd.stream%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://www.wix.com/favicon.ico" group-title="Brazil",Radio Amigos do Sertanejo 
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstm10.voxhd.com.br%3A7846%2F
-#EXTINF:-1 tvg-logo="null" group-title="Brazil",instrumentales
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fprotvradiostream.com%3A8350%2Flive
 #EXTINF:-1 tvg-logo="https://radiocidade.fm/favicon.ico" group-title="Brazil",Rádio Cidade
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FRADIOCIDADEAAC.aac
 #EXTINF:-1 tvg-logo="" group-title="Brazil",Rádio Cidade FM 100.1 MHz (Juiz de Fora - MG)
@@ -2203,6 +2203,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fservidor22.brlogic.com%3A
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ff100.fabricahost.com.br%2Fverdeoliva3cor%3Ff%3D1789931883N01M3042307WCWREZ6CH5BK8NFD%26tid%3D01M30423073337V6B4MCT3XJ5H
 #EXTINF:-1 tvg-logo="https://cordeiroplasticos.com.br/sertaneja.jpg" group-title="Brazil",Rádio Sertaneja
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstm5.painelcast.com%3A7584%2Fstream
+#EXTINF:-1 tvg-logo="https://www.radiobateusaudade.com.br/favicon.png" group-title="Brazil",Rádio Bateu Saudade 
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fkauankubaski.stream.laut.fm%2Fkauankubaski
 #EXTINF:-1 tvg-logo="https://cordeiroplasticos.com.br/sombrega1.png" group-title="Brazil",Rádio Som Brega
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstm5.painelcast.com%3A7588%2Fstream
 #EXTINF:-1 tvg-logo="https://www.jambeirofm.com.br/files/2025/02/CARNAVAL-SITE-LOGO.jpg" group-title="Brazil",JAMBEIRO FM 104.9

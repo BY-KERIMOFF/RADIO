@@ -593,6 +593,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamthewo
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FELLENBROOK_RADIOAAC.aac
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - Eric Clapton (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm22.com.au%3A8000%2FCONTAINER106
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h18GrQd/FBI-HEADER-Large-smaller.jpg" group-title="Australia",FBi Radio - Sydney - 94.5 FM (MP3)
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreamer.fbiradio.com%2Fstream
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - Bass House (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm22.com.au%3A8000%2FCONTAINER5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hY3pkB2/402085632-834697345330078-3598418269343824181-n.jpg" group-title="Australia",The Positive Alternative - Gympie (AAC+)
@@ -617,8 +619,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamthewo
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.nightride.fm%2Fnightride.mp3
 #EXTINF:-1 tvg-logo="https://www.4ro.com.au/wp-content/uploads/sites/26/2022/10/cropped-sql_roc_4ro-favicon_4yellow.png?w=180" group-title="Australia",4RO 990 AM Rockhampton
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FROC_4ROAAC.aac
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h18GrQd/FBI-HEADER-Large-smaller.jpg" group-title="Australia",FBi Radio - Sydney - 94.5 FM (MP3)
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreamer.fbiradio.com%2Fstream
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KFk4xZS/80s-2020-om8ty79gyegrgv8rb6tjzm4sl2xy4stdwmhvqpj2ow.png" group-title="Australia",Totally Radio - 80s (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FT_RAD_80S_S01.mp3
 #EXTINF:-1 tvg-logo="https://starterfm.com.au/wp-content/uploads/2020/06/Starter-24-Short-tr-e1726924490144.png" group-title="Australia",Starter FM

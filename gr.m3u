@@ -369,10 +369,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fair-tunein.radioart.com%2F
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fair.radioart.com%2FfViolin_works.mp3
 #EXTINF:-1 tvg-logo="" group-title="Greece",Rythmos FM.GR
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fn01.radiojar.com%2Fg4tyehk5yvduv.mp3
-#EXTINF:-1 tvg-logo="https://radioactivefm.gr/wp-content/uploads/2023/03/icon_512-100x100.png" group-title="Greece",RadioActive
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreamyourdream.org%3A8050%2Fradioactive
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Greece",Radio Art - Jazz Piano
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.radioart.com%2FfJazz_piano.mp3
+#EXTINF:-1 tvg-logo="https://radioactivefm.gr/wp-content/uploads/2023/03/icon_512-100x100.png" group-title="Greece",RadioActive
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreamyourdream.org%3A8050%2Fradioactive
 #EXTINF:-1 tvg-logo="https://1055rock.gr/wp-content/uploads/2021/11/favicon2.jpg" group-title="Greece",1055 Rock - Thessaloniki
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.1055rock.gr%3A31056%2Flive
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Greece",Radio Art - Smooth Bossa Nova
@@ -451,12 +451,12 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fair.radioart.com%2FfPeacef
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Feverest.streams.ovh%3A2390%2F%3B
 #EXTINF:-1 tvg-logo="https://img.sedoparking.com/templates/logos/sedo_logo.png" group-title="Greece",Rock Hard Greece
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fnoc.ezhellas.com%3A44450%2Flive
+#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/f86a8c94-2a69-459b-b545-f1e7addd96e6.jpg" group-title="Greece",Chillout TreePines 
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fn07.radiojar.com%2Fn4dzb3znn3quv.mp3%3Frj-ttl%3D5%26rj-tok%3DAAABhNTTrbwAVrK_m_qtIxI5pQ
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Greece",Radio Art - Ambient
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fair.radioart.com%2FfAmbient.mp3
 #EXTINF:-1 tvg-logo="https://typologies.gr/wp-content/uploads/2019/10/kokkino.jpg" group-title="Greece",Στο κόκκινο 105.5
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fn0a.radiojar.com%2Fkokkino-ath.mp3%3Frj-ttl%3D5%26rj-tok%3DAAABh-0eIcYAVz1x8OviF1g8jw
-#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/f86a8c94-2a69-459b-b545-f1e7addd96e6.jpg" group-title="Greece",Chillout TreePines 
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fn07.radiojar.com%2Fn4dzb3znn3quv.mp3%3Frj-ttl%3D5%26rj-tok%3DAAABhNTTrbwAVrK_m_qtIxI5pQ
 #EXTINF:-1 tvg-logo="" group-title="Greece",I.M. Καστοριάς 97.9
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Feco.onestreaming.com%3A8498%2F
 #EXTINF:-1 tvg-logo="" group-title="Greece",Cavo Paradiso
@@ -1059,6 +1059,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.sugarweb.gr%2F913.aa
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fsolid48.streamupsolutions.com%2Fproxy%2Flhlamody%3Fmp%3D%2Fstream
 #EXTINF:-1 tvg-logo="" group-title="Greece",Μακεδόνισσα 106.4
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnetradio.live24.gr%2Fmakedonissa1064
+#EXTINF:-1 tvg-logo="" group-title="Greece",Aqua Radio The 80s
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fs2.e-resellers.gr%2Fproxy%2Faquadisco80s%2Fstream
 #EXTINF:-1 tvg-logo="" group-title="Greece",Pathos Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fdione.shoutca.st%3A8628%2Fstream%2F%3B
 #EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/d758ae8b-b8d8-479d-8c2b-844663249174.png" group-title="Greece",Greca 99.4
@@ -1073,8 +1075,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fair.radioart.com%2FfRomant
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frpieria.radioca.st%2F%3B
 #EXTINF:-1 tvg-logo="" group-title="Greece",Ηχόραμα 100.8
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fsp2.streams.ovh%3A8084%2Fstream%3Ftype%3Dhttp%26nocache%3D114
-#EXTINF:-1 tvg-logo="" group-title="Greece",Aqua Radio The 80s
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fs2.e-resellers.gr%2Fproxy%2Faquadisco80s%2Fstream
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Greece",Radio Art - Smooth Lounge
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fair.radioart.com%2FfSmooth_lounge.mp3
 #EXTINF:-1 tvg-logo="" group-title="Greece",Energy 88.3
@@ -2655,6 +2655,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fxroma985.live24.gr%2Fxrom
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frdst.win%3A59888%2Flive
 #EXTINF:-1 tvg-logo="" group-title="Greece",molonoti radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fmolonotiradio.gr%3A8000%2Fmolonoti-radio-stream
+#EXTINF:-1 tvg-logo="https://resources.live24.gr/resources/images/stations/3323d2dd-03e4-45ec-8eaa-db84a5b487ed.png" group-title="Greece",Μουσικό Κανάλι Ρεθύμνου 101.3
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fhotsoft.net.gr%3A9102%2Findex.html%3Fsid%3D1
 #EXTINF:-1 tvg-logo="https://live24.gr/resrc/styles/custom-popups/loveradio/header-loveradio-new.png" group-title="Greece",Love 97.5
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Floveradio.live24.gr%2Floveradio-1000
 #EXTINF:-1 tvg-logo="" group-title="Greece",Volos 98.6
@@ -2741,8 +2743,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fsp3.streams.ovh%2F8026%2F
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fduthradio.ddns.net%3A8000%2Fradio.mp3%3Frefresh%3D1723580064779
 #EXTINF:-1 tvg-logo="https://blueswave.radio/wp-content/uploads/2021/01/BluesWave.Radio_.logo_.300X300.png" group-title="Greece",BluesWave Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fblueswave.radio%3A8100%2Ficyblues
-#EXTINF:-1 tvg-logo="https://resources.live24.gr/resources/images/stations/3323d2dd-03e4-45ec-8eaa-db84a5b487ed.png" group-title="Greece",Μουσικό Κανάλι Ρεθύμνου 101.3
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fhotsoft.net.gr%3A9102%2Findex.html%3Fsid%3D1
 #EXTINF:-1 tvg-logo="" group-title="Greece",Σήμαντρο 93.1
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F65.108.133.10%3A8050%2F%3B
 #EXTINF:-1 tvg-logo="" group-title="Greece",Έρωτας 92
@@ -3543,5 +3543,3 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fsc2.streamwithq.com%3A200
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fs6.e-resellers.gr%3A8092%2F%3B
 #EXTINF:-1 tvg-logo="https://resources.live24.gr/resources/images/stations/612f52e5-818f-4db1-b84e-8d23fb5814f2.png" group-title="Greece",Dim Radio GR
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Faphrodite.freespirits.gr%3A8010%2Fradio.mp3
-#EXTINF:-1 tvg-logo="https://grooveradio.ovh/wp-content/uploads/groovefav.png" group-title="Greece",Groove Radio Hits
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fcast.magicstreams.gr%2Fic%2Fgrooveradio%2Fhits

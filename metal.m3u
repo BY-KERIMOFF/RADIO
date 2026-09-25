@@ -583,12 +583,12 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fidobihowl.idobi.com%2F%3Bs
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8000%2Fpaganmetal
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/metal-400.png" group-title="The United States Of America",SomaFM Metal Detector (64k AAC)
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fice5.somafm.com%2Fmetal-64-aac
+#EXTINF:-1 tvg-logo="https://www.rockantenne.bayern/logos/station-rock-antenne-bayern/station.svg" group-title="Germany",Rock Antenne Bayern
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.rockantenne.bayern%2Frockantenne-bayern%2Fstream%2Fmp3
 #EXTINF:-1 tvg-logo="" group-title="The Russian Federation",Radio Maximum - Heavy Monday
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fheavymonday.hostingradio.ru%2Fheavymonday96.aacp
 #EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-rock_600x600.jpg" group-title="Germany",- 1 A - Rock von 1A Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F1a-rock.radionetz.de%2F1a-rock.aac
-#EXTINF:-1 tvg-logo="https://www.rockantenne.bayern/logos/station-rock-antenne-bayern/station.svg" group-title="Germany",Rock Antenne Bayern
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.rockantenne.bayern%2Frockantenne-bayern%2Fstream%2Fmp3
 #EXTINF:-1 tvg-logo="" group-title="The Russian Federation",Radio Caprice - Rock / Metal Ballads
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8002%2Frockballads
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",RadCap - New Wave Of British Heavy Metal
@@ -955,6 +955,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive-bauerno.sharp-stream
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A8004%2Fgroovemetal
 #EXTINF:-1 tvg-logo="https://www.lagrosseradio.com/wp-content/uploads/2025/03/LGR_Metal_carre-3.png" group-title="France",La Grosse Radio METAL - 192 kbit/s
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fhd.lagrosseradio.info%2Flagrosseradio-metal-192.mp3
+#EXTINF:-1 tvg-logo="https://radio.softshell-octatonic.ts.net/logo.jpg" group-title="Portugal",Radio Rock Pirata
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.softshell-octatonic.ts.net%2Fstream
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BHvtSRJb/Li-STNR-Square-Tile-3000x3000-HARD-N-HEAVY.jpg" group-title="Australia",LiSTNR - Hard N Heavy (HLS)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fsa46.scastream.com.au%2Flive%2F2hardnheavy_128.stream%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://juankissradio.com/assets/icono.png" group-title="Colombia",JuanKiss Radio
@@ -969,8 +971,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fusa14.fastcast4u.com%3A525
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnashe1.hostingradio.ru%2Fultra-256
 #EXTINF:-1 tvg-logo="" group-title="The Russian Federation",RadCap - Sludge Metal (48)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8002%2Fsludgemetal
-#EXTINF:-1 tvg-logo="https://radio.softshell-octatonic.ts.net/logo.jpg" group-title="Portugal",Radio Rock Pirata
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.softshell-octatonic.ts.net%2Fstream
 #EXTINF:-1 tvg-logo="" group-title="The Russian Federation",RadCap - Oriental Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8004%2Forientalmetal
 #EXTINF:-1 tvg-logo="https://image.atsw.de/atsw/production/2025-04/festival-radio-600x600.jpg" group-title="Germany",FESTIVAL RADIO
