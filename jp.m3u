@@ -121,10 +121,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fkathy.torontocast.com%3A3
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fquincy.torontocast.com%3A2070%2Fstream.mp3
 #EXTINF:-1 tvg-logo="https://www.publicsante.com/BIENVENU/LOGO REPLAY NEWS-JA.png" group-title="Japan",REPLAY NEWS - 日本語 5分ごとのニュースラジオ
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Freplaynewsja.ice.infomaniak.ch%2Freplaynewsja-128.mp3
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Japan", Kamakura FM
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.laut.fm%2Fkamakura
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Japan",Otaku Music Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fkathy.torontocast.com%3A2880%2F%3B%3Ftype%3Dhttp%26nocache%3D1606748882
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Japan", Kamakura FM
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.laut.fm%2Fkamakura
 #EXTINF:-1 tvg-logo="http://cyberforest.nenv.k.u-tokyo.ac.jp/image/otohama3.jpg" group-title="Japan",otohama Coastal Soundscape from The University of Tokyo International Coastal Research Center (Otsuchi Iwate)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fmp3s.nc.u-tokyo.ac.jp%2FOTSUCHI_CyberForest.mp3
 #EXTINF:-1 tvg-logo="https://plaza.one/icons/apple-touch-icon.png" group-title="Japan",Nightwave Plaza (Opus 64)

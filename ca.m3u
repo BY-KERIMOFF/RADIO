@@ -463,10 +463,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Frogers-hls.leanstream.co%2
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fs2.ssl-stream.com%2Fradio%2F8200%2Fradio.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",J-Pop Powerplay Kawaii
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fkathy.torontocast.com%3A3060%2F%3B
-#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/607/61d88c5633e8d.png" group-title="Canada",CJSD 94.3 "Rock 94" Thunder Bay ON
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fcjsd.streamon.fm%2Fstream%2FCJSD-32k.aac
 #EXTINF:-1 tvg-logo="https://ici.radio-canada.ca/favicon.ico" group-title="Canada",ICI Musique Classique (Alberta)
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frcavliveaudio.akamaized.net%2Fhls%2Flive%2F2007000%2FMUSE%2Fmaster.m3u8
+#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/607/61d88c5633e8d.png" group-title="Canada",CJSD 94.3 "Rock 94" Thunder Bay ON
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fcjsd.streamon.fm%2Fstream%2FCJSD-32k.aac
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.899kic.com/wp-content/uploads/2015/06/cropped-Logo-kkic75.png?fit=270%2C270" group-title="Canada",CKKI 89.9 "KIC Country" Montreal QC
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fandromeda.shoutca.st%3A8221%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",The Oasis Modern Easy Listening
@@ -2027,6 +2027,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frogers-hls.leanstream.co%
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flisten.uturnradio.com%2Felectro_house
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ICI_Radio-Canada_Premi%C3%A8re.svg/200px-ICI_Radio-Canada_Premi%C3%A8re.svg.png" group-title="Canada",Radio Canada Ici Première (Nouvelle-Écosse Terre-Neuve-et-Labrador) Halifax NS
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frcavliveaudio.akamaized.net%2Fhls%2Flive%2F2006950%2FP-2EMCT2_HAL%2Fmaster.m3u8
+#EXTINF:-1 tvg-logo="https://media.bpmsports.ca/2023/05/BPM_Sports_logo_main.svg" group-title="Canada",BPM Sport 91.9
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.bpmsports.ca%2Fcklx.mp3
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/606223c5a3e51e606f6dd231/2e83305a-1049-42ca-b76a-130798f33473/CIDI_ReBrand_Web_LogoBox_v1.png" group-title="Canada",CIDI-FM 99.1 Knowlton QC
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fs2.radioservers.biz%3A9998%2F%3Bstream
 #EXTINF:-1 tvg-logo="https://steinbachonline.com/assets/steinbach/apple-icon-120x120-6767276e47057473b84ed93a19287bbfb4e07d804c11e3f550ec628ac6aa7159.png" group-title="Canada",CILT-FM "Mix 96.7" SteinbachMB
@@ -2067,8 +2069,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fvistaradio.streamb.live%2
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fvistaradio.streamb.live%2FSB00071
 #EXTINF:-1 tvg-logo="null" group-title="Canada",Nickelback
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.pcradio.ru%2Fnickelback-hi
-#EXTINF:-1 tvg-logo="https://media.bpmsports.ca/2023/05/BPM_Sports_logo_main.svg" group-title="Canada",BPM Sport 91.9
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.bpmsports.ca%2Fcklx.mp3
 #EXTINF:-1 tvg-logo="https://www.mountainfm.com/wp-content/uploads/sites/33/2016/05/cropped-mountainfm-logo-frequency-270x270.png" group-title="Canada",CISQ 107.1 "Mountain FM" Squamish BC
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frogers-hls.leanstream.co%2Frogers%2Fsqu1071.stream%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",CFUZ-FM 88.7 "Peach City Radio" Penticton BC
