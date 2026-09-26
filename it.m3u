@@ -185,10 +185,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fwma01.fluidstream.net%2Fpi
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.unitedradio.it%2Fr101_mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Padova
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstr01.fluidstream.net%3A6020%2Flisten.pls
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",RDS Relax
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.rds.radio%2Faudio%2Frdsrelax.stream_aac%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Venice Classic Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fuk2.streamingpulse.com%2Fssl%2Fvcr1
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",RDS Relax
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.rds.radio%2Faudio%2Frdsrelax.stream_aac%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",RMC Romantic Rock
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fedge.radiomontecarlo.net%2Frmcweb015
 #EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/favicon_1.ico?v=1722509813463" group-title="Italy",RMC Marine
@@ -298,7 +298,7 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fwma08.fluidstream.net%3A80
 #EXTINF:-1 tvg-logo="https://www.veniceclassicradio.eu/player/new/image/l.png" group-title="Italy",Venice Classic Radio *LIVE
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F116.202.241.212%3A8020%2F
 #EXTINF:-1 tvg-logo="https://www.radionapoli.it/favicon.ico" group-title="Italy",Radio Napoli
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fice08.fluidstream.net%2FRadioNapoli.aac%3FFLID%3D6
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fice06.fluidstream.net%2FRadioNapoli.mp3%3FFLID%3D6
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Delta 1
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fonair15.xdevel.com%3A8942%2F%3Bstream.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Rai Radio 2
@@ -367,12 +367,12 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficy.unitedradio.it%2FMusic
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.radioholiday.it%3A8000%2F
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Rai Alto Adige
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradiobzlive.rai.it%2FRAI_AltoAdige
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Gamma Radio - Golden Hits
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frn2.fluidstream.eu%2Fgammaradio.mp3%3FFLID%3D1%26type%3D.mp3
 #EXTINF:-1 tvg-logo="http://www.mitology.it/favicon.ico" group-title="Italy",Radio Mitology
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fonair15.xdevel.com%3A9120%2F%3Bstream.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio 105 - Hits
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficy.unitedradio.it%2F105Hits.mp3
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Gamma Radio - Golden Hits
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frn2.fluidstream.eu%2Fgammaradio.mp3%3FFLID%3D1%26type%3D.mp3
 #EXTINF:-1 tvg-logo="https://www.italyclassicalradio.it/player/template/img/logo.jpg" group-title="Italy",Italy Classical Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fphilae.shoutca.st%3A8204%2F%3B
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s129888d.png" group-title="Italy",Radio Dancefloor 90s
@@ -455,28 +455,28 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficestreaming.rai.it%2F13.m
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fs3.mediastreaming.it%3A7568%2F%3B
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/8b/5e/8b5ec10decf33621fcb663bc67d8bf83.jpg" group-title="Italy",Antenna 1 FM 107.1 Roma
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fa1-it.newradio.it%2Fstream
-#EXTINF:-1 tvg-logo="https://www.radioradicale.it/sites/www.radioradicale.it/files/favicon_0.ico" group-title="Italy",Radio Radicale
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.radioradicale.it%2Flive.mp3
 #EXTINF:-1 tvg-logo="https://www.reteradioazzurra.it/" group-title="Italy",rete radio azzurra
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Freteradioazzurra.radioca.st%2Fstream
+#EXTINF:-1 tvg-logo="https://www.radioradicale.it/sites/www.radioradicale.it/files/favicon_0.ico" group-title="Italy",Radio Radicale
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.radioradicale.it%2Flive.mp3
 #EXTINF:-1 tvg-logo="https://www.raicom.rai.it/wp-content/uploads/2021/12/RADIO2-1024x1024.jpg" group-title="Italy",Rai Radio 2
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficestreaming.rai.it%2F2.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",RMC Music Star Pino Daniele
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficy.unitedradio.it%2FDaniele.mp3
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio 105 - Trap
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.unitedradio.it%2F105Trap.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Montecarlo
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.unitedradio.it%2FRMC.mp3
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Virgin Radio Rock 2K
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficy.unitedradio.it%2FVirgin_02.mp3
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio 105 - Trap
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.unitedradio.it%2F105Trap.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",ITALIA Amore
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficy.unitedradio.it%2Fum012.mp3
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Virgin Radio Rock 2K
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficy.unitedradio.it%2FVirgin_02.mp3
+#EXTINF:-1 tvg-logo="https://www.deejay.it/favicon.ico" group-title="Italy",Deejay 80
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F4c4b867c89244861ac216426883d1ad0.msvdn.net%2Fwebradio%2Fdeejay80%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Party Groove
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream15.top-ix.org%2Fpartygroove
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Music Star Franco Battiato
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficy.unitedradio.it%2Fum057.mp3
-#EXTINF:-1 tvg-logo="https://www.deejay.it/favicon.ico" group-title="Italy",Deejay 80
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F4c4b867c89244861ac216426883d1ad0.msvdn.net%2Fwebradio%2Fdeejay80%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radioimmagine.it/wp-content/uploads/2022/06/cropped-favico_i_gialla-180x180.png" group-title="Italy",Radio Latina
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnr8.newradio.it%3A9097%2F%3B
 #EXTINF:-1 tvg-logo="https://www.radioitalia.it/images/logo-webradio-sanremo.png" group-title="Italy",Radio Italia Sanremo
@@ -622,7 +622,7 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fonair15.xdevel.com%3A8658%
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",RMC Music Star Coldplay
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficy.unitedradio.it%2FColdPlay.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio 19
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Frn1.fluidstream.eu%2Fradio19.mp3%3FFLID%3D6
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Frn1.fluidstream.eu%2Fradio19.aac%3FFLID%3D6
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/brand/icon_192x192.png" group-title="Italy",Radio Amore Napoli
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fonair20.xdevel.com%3A8346%2F%3B
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Monte Carlo Jazz
@@ -677,12 +677,12 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F4c4b867c89244861ac2164268
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.laut.fm%2Fforever70
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Onda d'urto
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fhochimin.urtostream.org%3A8443%2Fradiondadurto.mp3
+#EXTINF:-1 tvg-logo="https://funky.radio/wp-content/uploads/2023/10/7080discofunk_logo_600.png" group-title="Italy",70s 80s Disco Funk ModernSoul Boogie
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fmy.streamingmedia.it%3A8020%2Fplay
 #EXTINF:-1 tvg-logo="https://www.capital.it/wp-content/themes/network-capital/favicon.ico" group-title="Italy",GEDI - Radio Capital Funky Town
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreamcdnr11-4c4b867c89244861ac216426883d1ad0.msvdn.net%2Fradiocapitalfunkytown%2Fradiocapitalfunkytown%2Fplay1.m3u8
 #EXTINF:-1 tvg-logo="https://www.raiplaysound.it/assets/img/canali/logo-raiisoradio.svg" group-title="Italy",Rai Isoradio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net%2FicecastRelay%2FS3822289%2F9T4F68Q3TT4m%2Ficecast
-#EXTINF:-1 tvg-logo="https://funky.radio/wp-content/uploads/2023/10/7080discofunk_logo_600.png" group-title="Italy",70s 80s Disco Funk ModernSoul Boogie
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fmy.streamingmedia.it%3A8020%2Fplay
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio 105 - Coldplay
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficy.unitedradio.it%2FColdPlay.mp3
 #EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/radio-italo-disco.png" group-title="Italy",Italo Disco
@@ -761,10 +761,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdd782ed59e2a4e86aabf6fc50
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.discoradio.radio%2Faudio%2Fdisco.stream_aac64%2Fchunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rai_Radio_3_-_Logo_2017.svg/2880px-Rai_Radio_3_-_Logo_2017.svg.png" group-title="Italy",Rai Radio Classica (322 kb/s)
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradiotreclassica-live.akamaized.net%2Fhls%2Flive%2F2032595%2Fradiotreclassica%2Fradiotreclassica%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",United Music Cinema
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficy.unitedradio.it%2Fum058.mp3
 #EXTINF:-1 tvg-logo="https://www.lifegate.it/app/themes/lifegate-2020/dist/images/apple-touch-icon.png" group-title="Italy",LifeGate Radio Blues
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frouter.xdevel.com%2Faudio3s975809-348%2Fstream%2Ficecast.audio
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",United Music Cinema
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficy.unitedradio.it%2Fum058.mp3
 #EXTINF:-1 tvg-logo="https://www.raiplaysound.it/radio3" group-title="Italy",Rai Radio 3
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net%2FicecastRelay%2FS56630579%2FyEbkcBtIoSwd%2Ficecast
 #EXTINF:-1 tvg-logo="https://www.radiointernationalstore.it/wp-content/uploads/2021/01/cropped-74939-television-media-youtube-streaming-live-broadcasting-radio-180x180.png" group-title="Italy",Radio International
@@ -900,7 +900,7 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fnr8.newradio.it%2Fproxy%2
 #EXTINF:-1 tvg-logo="https://www.cusanomediaplay.it/apple-icon-120x120.png" group-title="Italy",Radio Laziale 
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frouter.xdevel.com%2Fvideo5s975363-2398%2Fstream%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="http://www.rcsnetwork.net/favicon.ico" group-title="Italy",RCS Story
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fice09.fluidstream.net%2Ffluid9116.aac
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fice12.fluidstream.net%2Ffluid1202.mp3
 #EXTINF:-1 tvg-logo="http://www.radiogelosa.it/favicon.ico" group-title="Italy",Radio Gelosa
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fice02.fluidstream.net%2Fgelosa
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",FOREVER 80-POP
@@ -929,6 +929,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreamcdnb3-8e7439fdb1694
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.laut.fm%2Fradioazzurra
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Record
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fwma02.fluidstream.net%3A9030%2F
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radioradio
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fsr6.inmystream.it%2Fproxy%2Frrshout%3Fmp%3D%2Fstream
 #EXTINF:-1 tvg-logo="https://radiolegends.com/wp-content/uploads/2022/10/cropped-radiolegends-logo-150x150.png" group-title="Italy",Radio Legends
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fssl.audio1.meway.tv%2Fproxy%2Fradiolegends%3Fmp%3D%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",StudioRadio - The Vintage Station
@@ -939,8 +941,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fonair15.xdevel.com%3A8062%
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frblive.it%3A8110%2F%2Fradio.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",INmyradio - Network Satellite
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fsr2.inmystream.info%3A8123%2F%3B
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radioradio
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fsr6.inmystream.it%2Fproxy%2Frrshout%3Fmp%3D%2Fstream
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s293541/images/logod.png?t=637001730450000000" group-title="Italy",Radio Musica Tutta Napoli
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F195.201.166.244%3A8327%2F
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",RMC Music Star Franco Battiato
@@ -948,7 +948,7 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficy.unitedradio.it%2Fum05
 #EXTINF:-1 tvg-logo="https://radiorock.it/wp-content/uploads/2017/01/diretta-copia-370x370.jpg" group-title="Italy",Radio Rock 106.6
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frrock.fluidstream.eu%2Fradiorock.aac
 #EXTINF:-1 tvg-logo="http://players.fluidstream.it/studioemme/images/logo320.png" group-title="Italy",Radio Studio Emme
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fice09.fluidstream.net%2Ffluid0901.aac%3FFLID%3D6
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fice05.fluidstream.net%2Ffluid0505.mp3%3FFLID%3D6
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Bergamo 
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstr04.fluidstream.net%2Fbergamo.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Punto Zero Tre Venezie
@@ -1015,6 +1015,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fedge.radiomontecarlo.net%2
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.radiomusic.net%3A8120%2F%3B
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Stella Toscana
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream4.xdevel.com%2Faudio0s975906-620%2Fstream%2Ficecast.audio
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Number One
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frn1.fluidstream.eu%2Frn1.mp3
 #EXTINF:-1 tvg-logo="https://radiohitfm.it/favicon.ico" group-title="Italy",Radio Hit FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream1.xdevel.com%2Faudio0s975632-244%2Fstream%2Ficecast.audio
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0d/50/65/0d5065ff-33dc-b8e1-0bb5-468c9ec29fc5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="Italy",Rai News 24
@@ -1023,10 +1025,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreamcdnb3-8e7439fdb1694
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frrock.fluidstream.eu%2Fradiorock.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Verona
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fwma02.fluidstream.net%3A9980%2F
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Number One
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frn1.fluidstream.eu%2Frn1.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Fred Film Radio(italiano)
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fs10.webradio-hosting.com%2Fproxy%2Ffredradioit%2Fstream
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",DJ Osso Radio
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.rcs.revma.com%2Fx3ab37sgn7uvv
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Skyline Jazz
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frblive.it%3A8030%2Fradio.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Catanzaro RTC
@@ -1143,6 +1145,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F45.32.238.139%3A8000%2Fstr
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Feu8.fastcast4u.com%2Fproxy%2Ftimedancefm%3Fmp%3D%2F1
 #EXTINF:-1 tvg-logo="https://www.deejay.it/favicon.ico" group-title="Italy",Radio Deejay
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F4c4b867c89244861ac216426883d1ad0.msvdn.net%2Fradiodeejay%2Fradiodeejay%2Fplay1.m3u8
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Capital TiVù
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F4c4b867c89244861ac216426883d1ad0.msvdn.net%2Flive%2FS35394734%2FZ6U2wGoDYANk%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.gelestatic.it/capital/sites/2/2016/11/webradio-soft-320x320.jpg" group-title="Italy",Radio Capital Soft
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F4c4b867c89244861ac216426883d1ad0.msvdn.net%2Fwebradio%2Fcapitalsoft%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Bruno Top 40
@@ -1168,7 +1172,7 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficy.unitedradio.it%2FR101L
 #EXTINF:-1 tvg-logo="http://www.radiobari.net/favicon.ico" group-title="Italy",Radio Bari
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fs6.mediastreaming.it%3A9062%2F%3B
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",AFN 360 Aviano
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F25553.live.streamtheworld.com%3A3690%2FAFNE_AVN_SC
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F22183.live.streamtheworld.com%3A3690%2FAFNE_AVN_SC
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Rai Radio 1
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficestreaming.rai.it%2F1.mp3
 #EXTINF:-1 tvg-logo="https://www.raiplaysound.it/assets/img/canali/logo-rairadio1.svg" group-title="Italy",RadioUno
@@ -1389,6 +1393,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fpantano.ovh%3A8444%2Fpant
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.zeno.fm%2Fcyau14bgqd0uv
 #EXTINF:-1 tvg-logo="https://cdn.gelestatic.it/deejay/sites/2/2015/05/webradio_deejay_time-320x320.png" group-title="Italy",Deejay Time
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreamcdnr5-4c4b867c89244861ac216426883d1ad0.msvdn.net%2Fwebradio%2Fdeejaytime%2Flive.m3u8
+#EXTINF:-1 tvg-logo="https://img-api.cloud.mediaset.net/api/images/rd/v1/ita/aHR0cHM6Ly93d3cudmlyZ2lucmFkaW8uaXQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMTEvV2VicmFkaW8tVmlyZ2luLTIwMjAtQ2xhc3NpY1JvY2stMTU4ODA2Mjg4NDQwNHBuZy12aXJnaW5fcmFkaW9fY2xhc3NpY19yb2NrLnBuZw/-/0/0?r=36ee12a896d44f5b06621d7b44323ae1" group-title="Italy",Virgin Radio Classic Rock
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficy.unitedradio.it%2FVirginRockClassics.mp3
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b9d036_d21d18b1eff34d019064204ad012c786~mv2.png" group-title="Italy",m2o originals radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.laut.fm%2Fm2o-originals-radio
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio24 Il Sole 24 Ore
@@ -1401,8 +1407,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnr8.newradio.it%3A9574%2Fs
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnr6.newradio.it%3A9158%2F
 #EXTINF:-1 tvg-logo="https://www.radiosupersound.it/wp-content/uploads/2019/03/radio_super_sound_logo_200px.png" group-title="Italy",Radio Super Sound
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F51.254.76.66%3A8010%2F%3Bstream.mp3
-#EXTINF:-1 tvg-logo="https://img-api.cloud.mediaset.net/api/images/rd/v1/ita/aHR0cHM6Ly93d3cudmlyZ2lucmFkaW8uaXQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMTEvV2VicmFkaW8tVmlyZ2luLTIwMjAtQ2xhc3NpY1JvY2stMTU4ODA2Mjg4NDQwNHBuZy12aXJnaW5fcmFkaW9fY2xhc3NpY19yb2NrLnBuZw/-/0/0?r=36ee12a896d44f5b06621d7b44323ae1" group-title="Italy",Virgin Radio Classic Rock
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficy.unitedradio.it%2FVirginRockClassics.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Sonica
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fsr6.inmystream.it%3A8052%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Bombo
@@ -1411,6 +1415,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F178.32.137.180%3A8749%2Fst
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fsphera.fluidstream.eu%2Feasy_jazz.mp3
 #EXTINF:-1 tvg-logo="https://giornaleradio.fm/images/DOCSITO/Giornale_Radio_Dolce_La_vita_150.webp" group-title="Italy",GR Dolce Vita
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fgr.fluidstream.eu%2Fgr7.mp3
+#EXTINF:-1 tvg-logo="https://www.djossoradio.it/wp-content/uploads/2025/02/LOGO_512-370x370.png" group-title="Italy",Dj Osso Radio
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.rcs.revma.com%2Fx3ab37sgn7uvv
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Nexus-IBA Italian Radio Relay Service
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fmp3.nexus.org%3A8000%2Firn.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Quar
@@ -1423,8 +1429,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frblive.it%3A8130%2Fradio.
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fcontattoradio.radioca.st%2Fstream%3Ftype%3Dhttps%26nocache%3D1%3Fver%3D572863
 #EXTINF:-1 tvg-logo="https://www.youngradio.it/nuovosito/wp-content/uploads/2019/03/cropped-favicon-1-95x95-180x180.png" group-title="Italy",Young Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F178.32.138.88%3A8050%2F%3Bstream.mp3
-#EXTINF:-1 tvg-logo="https://www.djossoradio.it/wp-content/uploads/2025/02/LOGO_512-370x370.png" group-title="Italy",Dj Osso Radio
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.rcs.revma.com%2Fx3ab37sgn7uvv
 #EXTINF:-1 tvg-logo="https://cdn.gelestatic.it/deejay/sites/2/2015/05/webradio_deejay_on_the_road-320x320.png" group-title="Italy",Deejay On The Road
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F4c4b867c89244861ac216426883d1ad0.msvdn.net%2Fwebradio%2Fdeejayontheroad%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiofiesta.it/favicon.ico" group-title="Italy",Radio Fiesta (Massa Carrara)
@@ -1450,7 +1454,7 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fs6.mediastreaming.it%3A906
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Maria Italy
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdreamsiteradiocp4.com%2Fproxy%2Frmitaliamontecarlo%3Fmp%3D%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",AFN 360 Sigonella
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F28513.live.streamtheworld.com%2FAFNE_SIG_SC
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F23543.live.streamtheworld.com%3A3690%2FAFNE_SIG_SC
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Stella Piemonte
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnr6.newradio.it%3A9315%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Popizz
@@ -1473,10 +1477,14 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fonair15.xdevel.com%3A9082%
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fonair15.xdevel.com%3A9256%2F%3Bstream.mp3
 #EXTINF:-1 tvg-logo="http://www.modena90.it/apple-icon-120x120.png" group-title="Italy",Radio Modena 90
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fonair15.xdevel.com%3A8502%2F%3Bstream.mp3
+#EXTINF:-1 tvg-logo="https://radio-streaming.it/assets/image/radio/180/logo_con_scritta.jpg" group-title="Italy",Radio Underground Italia 
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fnr14.newradio.it%3A8707%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio TGnorba24
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fonair11.xdevel.com%3A7970%2F%3B
 #EXTINF:-1 tvg-logo="https://cdn.gelestatic.it/deejay/sites/2/2015/05/webradio_one_two-320x320.png" group-title="Italy",Deejay One Two One Two
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F4c4b867c89244861ac216426883d1ad0.msvdn.net%2Fwebradio%2Fdeejayonetwoonetwo%2Fplaylist.m3u8
+#EXTINF:-1 tvg-logo="https://armisa.it/assets/favicon/android-chrome-512x512.png" group-title="Italy",Radio Armisa
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fonair.armisa.it%2Flisten%2Farmisa%2Fradio.mp3
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s93546q.png" group-title="Italy",Radio Ufita
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fonair15.xdevel.com%3A8516%2F%3Bstream.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",GEDI - Radio Capital Classic Rock
@@ -1485,8 +1493,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreamcdnr3-4c4b867c89244
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficy.unitedradio.it%2FVirgin_06.mp3
 #EXTINF:-1 tvg-logo="https://www.radiogrp.it/wp-content/uploads/2018/01/cropped-favicon_512-180x180.png" group-title="Italy",Giornale Radio Piemonte Tre
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fonair15.xdevel.com%3A8228%2F
-#EXTINF:-1 tvg-logo="https://radio-streaming.it/assets/image/radio/180/logo_con_scritta.jpg" group-title="Italy",Radio Underground Italia 
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fnr14.newradio.it%3A8707%2Fstream
 #EXTINF:-1 tvg-logo="https://www.deejay.it/favicon.ico" group-title="Italy",Deejay 4 Christmas
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F4c4b867c89244861ac216426883d1ad0.msvdn.net%2Fwebradio%2Fdeejay80%2Flive.m3u8
 #EXTINF:-1 tvg-logo="https://radiolina.it/wp-content/uploads/2021/10/cropped-Radiolina150x150-192x192.png" group-title="Italy",Radiolina
@@ -1536,7 +1542,7 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F585b674743bbb.streamlock.
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",FOREVER ROCK
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.laut.fm%2Fforeverrock
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Climbing Radio
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstr01.fluidstream.net%2Ffluid1_04.mp3%3FFLID%3D6
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fice12.fluidstream.net%2Ffluid2306.aac%3FFLID%3D6
 #EXTINF:-1 tvg-logo="https://www.rete94.it/wp-content/uploads/2024/03/cropped-rete-94-nero-180x180.png" group-title="Italy",Rete 94
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fdreamsiteradiocp3.com%3A8110%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Kolbe Melfi
@@ -1704,7 +1710,7 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flisten.mrg.fm%3A8000%2Fstr
 #EXTINF:-1 tvg-logo="http://radionbc.it/favicon.ico" group-title="Italy",Radio NBC Rete Regione Bolzano
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Faudio1.meway.tv%3A8016%2F%3B
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s187491q.png" group-title="Italy",Radio SeiSei
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fice05.fluidstream.net%2Ffluid0508.mp3%3FFLID%3D6
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fice02.fluidstream.net%2Ffluid02_8360.aac%3FFLID%3D6
 #EXTINF:-1 tvg-logo="https://www.radiocittafujiko.it/wp-content/uploads/2019/09/logo_quadro_fondo_bianco_x600_53ce3a61a3ca7d6763e94a5372f74e98.jpg" group-title="Italy",Radio Città Fujiko
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.radiocittafujiko.it%3A8000%2Frcf.ogg
 #EXTINF:-1 tvg-logo="http://www.radiololgiata.net/images/iconaiphone.ico" group-title="Italy",Radio l'Olgiata
@@ -1897,6 +1903,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fonair11.xdevel.com%3A10020
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fglobo.newradio.it%2Fgloborm64
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",RADIO SICILIA EXPRESS
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fssl3.azotosolutions.com%3A1052%2Fstream
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Rete Kappa Top 100
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F94.23.67.172%3A9375%2Fstream
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s63699q.png" group-title="Italy",Radio Empire
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fonair11.xdevel.com%3A9996%2F%3Bstream.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio del Golfo
@@ -2039,6 +2047,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmambo.newradio.it%2Fstrea
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F4c4b867c89244861ac216426883d1ad0.msvdn.net%2Fwebradio%2Fdeejay80%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s93425g.png" group-title="Italy",Radio Valbelluna
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstr01.fluidstream.net%2Frvb.mp3
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",BreakSpace.FM
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fbreakspace.fm%3A9000%2FGive-Me-A-Fucking-BreakBeat
 #EXTINF:-1 tvg-logo="https://www.facebook.com/favicon.ico" group-title="Italy",Radio Alto Jonio - RAJ
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream1.xdevel.com%2Faudio0s975781-332%2Fstream%2Ficecast.audio
 #EXTINF:-1 tvg-logo="https://www.radiogrp.it/wp-content/uploads/2018/01/cropped-favicon_512-180x180.png" group-title="Italy",Radio GRP
@@ -2067,8 +2077,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fonair18.xdevel.com%3A8136%
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fs3.voscast.com%3A8598%2Fstream
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/5KrSzoZr_NAOVEyFYZZsJReMw_GOY1gjFo3US-qQ75QXWVUNKWmEDJ9O-AZabZUu0g=s256" group-title="Italy",Radio Studio Star
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnr5.newradio.it%3A8520%2F
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",BreakSpace.FM
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fbreakspace.fm%3A9000%2FGive-Me-A-Fucking-BreakBeat
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Linea Drive
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frblive.it%3A8100%2F%2Fradio.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Compilation
@@ -2166,7 +2174,7 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Felectrolounge.stream.laut
 #EXTINF:-1 tvg-logo="https://www.radio.it/assets/fav/apple-touch-icon.png" group-title="Italy",Radio Mitology
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fonair15.xdevel.com%3A9120%2F%3B
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Iride
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fsphera.fluidstream.eu%2Frpd.mp3%3FFLID%3D6
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fsphera.fluidstream.eu%2Frpd.aac%3FFLID%3D6
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Ratio Frinquello
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnl1.streamingpulse.com%3A8046%2Fstream
 #EXTINF:-1 tvg-logo="https://radiocrossoverdisco.com/wp-content/uploads/2024/02/logo-senza-sfondo.png?w=559" group-title="Italy",RADIO CROSSOVER DISCO
@@ -2196,7 +2204,7 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F84.33.83.98%3A8000%2Fstrea
 #EXTINF:-1 tvg-logo="https://www.rnc.it/web/wp-content/uploads/2022/12/cropped-xdevel-1-192x192.png" group-title="Italy",Radio Nuoro Centrale
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fonair15.xdevel.com%3A8048%2F%3Bstream%2F1.mp3
 #EXTINF:-1 tvg-logo="http://www.radionuova.com/favicon.ico" group-title="Italy",Radio Nuova
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fice09.fluidstream.net%2Ffluid0903.mp3%3FFLID%3DE
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fice05.fluidstream.net%2Ffluid0504.aac%3FFLID%3DE
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a5ca5f_fde7ab34944343c68fee99cbfdee8c51%7emv2.jpg/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/a5ca5f_fde7ab34944343c68fee99cbfdee8c51%7emv2.jpg" group-title="Italy",Radio Gioventù
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F178.32.139.167%3A8254%2F
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Purple Piper - Progressive Rock
@@ -2205,6 +2213,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fs2.shoutitaly.com%3A8030%2
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnr7.newradio.it%3A9425%2F%3B
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio 6.75
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnr5.newradio.it%3A8819%2Fstream
+#EXTINF:-1 tvg-logo="https://i0.wp.com/yesmagazine.it/wp-content/uploads/2020/04/image3.jpeg" group-title="Italy",Radio YES
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream1.aswifi.it%2Fradioyes%2Flive%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Ananas
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fice43.fluidstream.net%2Ffluid04.mp3%3FFLID%3D6
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Alba
@@ -2445,6 +2455,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnr5.newradio.it%3A8819%2Fs
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreamsrv2.nets-sr.com%3A8004%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Spazio Blu
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fonair15.xdevel.com%3A8478%2F
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Yacht Sunsation - Always Summer
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fsr12.inmystream.it%3A2020%2Fstream%2Fradioyacht
 #EXTINF:-1 tvg-logo="https://radiocolor.it/favicon.ico" group-title="Italy",Radio Color
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnr1.newradio.it%3A9193%2Fstream
 #EXTINF:-1 tvg-logo="https://www.iwebradio.fm/favicon.ico" group-title="Italy",iWebRadio
@@ -2485,8 +2497,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream15.top-ix.org%3A8000
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fwww.shoutcastitalia.com%2Fproxy%2Ffusion%3Fmp%3D%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Mongrando Radio Italia
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fa7.asurahosting.com%3A7000%2Fradio.mp3
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Yacht Sunsation - Always Summer
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fsr12.inmystream.it%3A2020%2Fstream%2Fradioyacht
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Mach 5
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F94.23.6.107%3A8183%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Antenna Sud
@@ -2543,8 +2553,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fs3.mediastreaming.it%3A900
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Feu10.fastcast4u.com%3A5880%2F
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUNck0qCUWRgX6NjY9HtAlGOOODLDRFUMlxpP2TxjqFQ&s=10" group-title="Italy",Radio Cuore Palermo
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream-287.surfernetwork.com%2Fbpsrkyx86p8uv%3Fzt%3DeyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJicHNya3l4ODZwOHV2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJsMHRydUhmX1JZT1ZMeTQxczRRSnBBIiwiaWF0IjoxNzgyMjA3OTIwLCJleHAiOjE3ODIyMDc5ODB9.NFiyY9vBRiZ--kPT4KdkfYYJRLkG5p6hKcEhaM0TTXE
-#EXTINF:-1 tvg-logo="https://radiogamefirenze.altervista.org/favicon.ico" group-title="Italy",Radio Game Firenze
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradiogame.radioca.st%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio al Serv della Divina Misericordia
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fnr9.newradio.it%2Fproxy%2Fmpalmisa%3Fmp%3D%2Fstream%3Fext%3D.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio 7 Asiago
@@ -2609,10 +2617,14 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.indivia.net%3A8000%
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fs2.shoutitaly.com%3A8030%2Fradio.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Alfa Lombardia HD 
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flive.radioalfalombardia.it%3A9871%2F
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Babboleo
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.rcs.revma.com%2Fabxzruqqv6bwv
 #EXTINF:-1 tvg-logo="https://www.reteradioazzurra.it/" group-title="Italy",Rete Radio 
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Freteradioazzurra.radioca.st%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Rai Radio Tutta Italiana
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net%2FicecastRelay%2FS2444220%2FHM9xhFhA0riM%2Ficecast
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",radioscintillablog
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdreamsiteradiocp3.com%2Fproxy%2Fradioscintilla%3Fmp%3D%2F
 #EXTINF:-1 tvg-logo="https://www.radiomedua.it/radiomedua/wp-content/uploads/2020/05/Logo-Radio-Medua.png" group-title="Italy",Radio Medua
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fssl1.azotosolutions.com%3A1030%2F1
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Circuito Solare
@@ -2653,6 +2665,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnr8.newradio.it%3A9165%2Fs
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fac3xradio.com%2Fliveaac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Oltrepo Pavese
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fsr10.inmystream.info%3A8212%2F%3B
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",SMC Radio
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnrf1.newradio.it%3A10346%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Frejus
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F195.201.31.54%3A8000%2F%3B
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio New Sound
@@ -2795,8 +2809,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fnr14.newradio.it%3A8775%2
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fnr6.newradio.it%2Fproxy%2Fradiomar%3Fmp%3D%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Riccardo Cioni Dee Jay Full Time Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fdjft.radioca.st%3A8152%2Fstream
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyjNvwslwuWxlTCt9hLXyxoa2xZLOLUO3fHARoNSywmg&s=10" group-title="Italy",Radio Sicilia Avola
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fcast4.asurahosting.com%3A7837%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Errevi
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnr8.newradio.it%3A9727%2Fstream
 #EXTINF:-1 tvg-logo="https://radiotreviso.it/images/favicons/favicon-32x32.png" group-title="Italy",Radio Treviso
@@ -2868,7 +2880,7 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.mediacp.eu%2Fstream
 #EXTINF:-1 tvg-logo="https://www.google.com/search?sca_esv=2c719d755bc25006&rlz=1C1FHFK_itIT1098IT1098&sxsrf=APpeQnvci-brFeHmzOz1zzfrmz8a_Sq2vg:1785411008431&udm=2&fbs=ABfTbFWgwlc2MNw7uknLQP9cFo05YtUSpNgn2klEDQSYENClc9rC8PvVvFW40kjRYlUQHR37384hyYA0WqP36o5C6UG5e7u0MFn5nI6jP7g9cX32Yf2dZNj42X5O_8nkT3W-I4SlelDgfTcOPG2WFR6jRXDJuqHb_SoY88M-JD0-XWKtqpQhoDqs23gLZfXNa586dnkYpwWZy4UPiUV0lRY1eAhGDWK7XQ&q=chillout+zone+radio&sa=X&ved=2ahUKEwicy72npvqVAxWYh_0HHYFuL14QtKgLegQIFxAB" group-title="Italy",Chill Out Zone
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.laut.fm%2Fchilloutzone
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",16Radio
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F16radio.stream.laut.fm%2F16radio%3Fuuid%3D45e149ee-1f4c-5427-e976-01be3299d3ae%26t302%3D2026-09-21_14-05-13
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F16radio.stream.laut.fm%2F16radio%3Fuuid%3D7ae6fe5e-3751-09ea-4281-6d2a73c83029%26t302%3D2026-09-26_14-07-25
 #EXTINF:-1 tvg-logo="https://www.rmc2.net/wp-content/uploads/2022/02/PR.jpg" group-title="Italy",Planet Rock Channel
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.rcs.revma.com%2Fw66qp4pp81uvv.xspf
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",RadiogrAMma
@@ -2913,6 +2925,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnr5.newradio.it%3A8731%2Fs
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fice17.fluidstream.net%2Fconselve.mp3%3FFLID%3DM
 #EXTINF:-1 tvg-logo="https://www.radiosieve.it/wp-content/uploads/2021/11/Logo-Radio-3d-scontornato-trasparente-e1637348038385.png" group-title="Italy",Radio Sieve
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fns3156088.ip-51-89-96.eu%3A8126%2F
+#EXTINF:-1 tvg-logo="https://www.radioquadrifoglio.com/img/logo_copertina.jpg" group-title="Italy",Radio Quadrifoglio
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Faudio.nemostream.tv%2Fproxy%2Fquadrifoglio%2Fstream
 #EXTINF:-1 tvg-logo="https://www.radiosole.eu/images/favicon_radiosole.png" group-title="Italy",sole
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradiosole-fellini.radioca.st%2F
 #EXTINF:-1 tvg-logo="https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2018/01/favicon.png" group-title="Italy",Radio Metropolis
@@ -2983,6 +2997,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fsr14.inmystream.it%2Fstre
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnr9.newradio.it%3A9368%2Fstream
 #EXTINF:-1 tvg-logo="https://www.radiomelody.net/wp-content/uploads/2026/05/melody.png" group-title="Italy",Radio Melody Next generation
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fde4.streamingpulse.com%2Fstream%2Flanfranc
+#EXTINF:-1 tvg-logo="https://6023.it/wp-content/uploads/2021/07/WhatsApp-Image-2021-07-04-at-16.44.19.jpeg" group-title="Italy",Radio 6023
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream12.top-ix.org%2Fradio6023
 #EXTINF:-1 tvg-logo="https://www.radiostudioone.it/favicon.ico" group-title="Italy",Radio Studio One
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fbe.server89.com%3A10998%2Fstream
 #EXTINF:-1 tvg-logo="http://www.radiomargherita.com/favicon.ico" group-title="Italy",Radio Margherita
@@ -3117,3 +3133,13 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream3.xdevel.com%2Faudi
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradioarya.it%2Flisten%2Fradio_arya%2Fradio.mp3
 #EXTINF:-1 tvg-logo="https://www.rsi-tv.eu/512x512.png" group-title="Italy",Radio Italysongs
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.rsi-tv.eu%2Flisten%2Fradio_italysongs%2Fradio.mp3
+#EXTINF:-1 tvg-logo="https://rtl.it/favicon-96x96.png" group-title="Italy",RTL 102.5 [Mobile 48kbps]
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreamingv2.shoutcast.com%2Frtl-1025_48.aac
+#EXTINF:-1 tvg-logo="https://rtl.it/favicon-96x96.png" group-title="Italy",RTL 102.5 Disco [Mobile 48kbps]
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreamingv2.shoutcast.com%2Frtl-1025-doc_48.aac
+#EXTINF:-1 tvg-logo="https://radiocalabria.it/wp-content/uploads/2026/02/radio-calabria-logo-768x768.png" group-title="Italy",Radio Calabria 27
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.zeno.fm%2Frtndtqysyq5tv
+#EXTINF:-1 tvg-logo="https://www.radiovanessa.it/images/Logo-Radio-Vanessa-G1.png" group-title="Italy",Radio Vanessa
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fsr7.inmystream.it%2Fproxy%2Fvanessa%3Fmp%3D%2Fstream%261769754430506
+#EXTINF:-1 tvg-logo="https://www.ria60.it/wp-content/uploads/2024/06/Logo-RIA60-1-1.png" group-title="Italy",Radio Italia Anni 60 Sardegna
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fice12.fluidstream.net%2Fria60_ca.aac

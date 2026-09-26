@@ -93,6 +93,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream10.as.amplifystreami
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Faudio.joy.org.au%2Fproxy%2Fjoy949%2Flive
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - Michael Jackson (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm21.com.au%3A8000%2FCONTAINER144
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Australia",Pure Hits RETRO
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream10.as.amplifystreaming.com%2Fradio%2F8010%2Fretro_128.aac
 #EXTINF:-1 tvg-logo="https://hit.listnr.com/wp-content/uploads/2024/04/cropped-hit-favicon-180x180.png" group-title="Australia",2Day FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flegacy.scahw.com.au%2F2day_32
 #EXTINF:-1 tvg-logo="https://www.mix1023.com.au/wp-content/themes/arn/assets/favicons/favicon_1023/apple-touch-icon.png" group-title="Australia",Mix 102.3
@@ -311,10 +313,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamthewo
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm22.com.au%3A8000%2FCONTAINER174
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Australia",Big Hits Radio QLD Townsville North Queensland 20220701
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fonlineradiobox.com%2Fjson%2Fau%2Fbighits%2Fplay%3Fplatform%3Dweb
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/H8C4F9yENt.png" group-title="Australia",ABC Radio National QLD HLS
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmediaserviceslive.akamaized.net%2Fhls%2Flive%2F2038353%2Frnqld%2Findex.m3u8
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - Bollywood - Classic (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm21.com.au%3A8000%2FCONTAINER115
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/H8C4F9yENt.png" group-title="Australia",ABC Radio National QLD HLS
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmediaserviceslive.akamaized.net%2Fhls%2Flive%2F2038353%2Frnqld%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Australia",sa rock radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fsarock.radioca.st%2Fstream
 #EXTINF:-1 tvg-logo="https://www.abc.net.au/core-assets/core/touchicon-core.png" group-title="Australia",ABC News Radio MP3
@@ -339,10 +341,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F165.228.181.146%3A88%2Fbro
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmediaserviceslive.akamaized.net%2Fhls%2Flive%2F2038318%2Frnnsw%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/604ac622c7c4d49969798402" group-title="Australia",96FM - Perth - 96.1 FM (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FARN_96FM.mp3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YdTtjqS/622af9292c11ab8ba9319c8c.webp" group-title="Australia",Fraser Coast FM - Hervey Bay - 107.5 FM (AAC+)
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2F4FCRAAC.aac
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6NPhshr/Greatest-Hits-nyk46f2soysmrldxnkzzl8qh2zory0vr1jt3u3nbkw.png" group-title="Australia",Totally Radio - Greatest Hits (AAC+)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FT_RAD_GRTST_HITS_S01AAC.aac
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YdTtjqS/622af9292c11ab8ba9319c8c.webp" group-title="Australia",Fraser Coast FM - Hervey Bay - 107.5 FM (AAC+)
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2F4FCRAAC.aac
 #EXTINF:-1 tvg-logo="https://3mbs.org.au/favicon.ico" group-title="Australia",3MBS - Melbourne 103.5 MHz FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2F3MBS_DAB
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - Israeli Music (MP3)
@@ -371,6 +373,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flegacy.scahw.com.au%2F5mm
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm21.com.au%3A8000%2FCONTAINER46
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - Dance Hits of 2024 (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm22.com.au%3A8000%2FCONTAINER186
+#EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - ABBA
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm21.com.au%3A8000%2FCONTAINER150
 #EXTINF:-1 tvg-logo="https://vision.org.au/wp-content/uploads/2022/06/VCR_Logo_RGB.svg" group-title="Australia",Vision Christian Radio (MP3)
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreams2.vision.org.au%2Fvision128.mp3
 #EXTINF:-1 tvg-logo="https://www.2gb.com/wp-content/uploads/sites/2/2023/01/2GB-1.png" group-title="Australia",2GB - Sydney - 873 AM (MP3)
@@ -379,8 +383,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamthewo
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.zeno.fm%2Fmkc0e9ymnchvv
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - Afro House (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm22.com.au%3A8000%2FCONTAINER53
-#EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - ABBA
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm21.com.au%3A8000%2FCONTAINER150
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/H8C4F9yENt.png" group-title="Australia",ABC Radio National SA HLS
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmediaserviceslive.akamaized.net%2Fhls%2Flive%2F2038333%2Frnsa%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zQj4rYr/b0bbd1d1-1f81-4ee8-8220-e5f163046dde.jpg" group-title="Australia",iHeartCountry Australia (MP3)
@@ -549,26 +551,28 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm21.com.au%3A8000%2FCONT
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2F3CR.mp3
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - AC/DC
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm21.com.au%3A8000%2FCONTAINER170
+#EXTINF:-1 tvg-logo="https://www.2mbsfinemusicsydney.com/wp-content/uploads/2024/11/cropped-242703-2mbs-fine-music-sydney_2mbs-app-670df87165b0-270x270.png" group-title="Australia",2MBS Fine Music Sydney AAC 256
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio12.shoutcast.net.au%3A2020%2Fstream%2F2MBS-ICE
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TB1T9j8d/Li-STNR-Square-Tile-3000x3000-80s-NEW-WAVE.jpg" group-title="Australia",LiSTNR - 80s New Wave (HLS)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fsa46.scastream.com.au%2Flive%2F780snewwave_128.stream%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - 1970s Alternative (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm21.com.au%3A8000%2FCONTAINER83
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - Progressive House (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm22.com.au%3A8000%2FCONTAINER49
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6XzsXRG/Yacht-Rock.png" group-title="Australia",LiSTNR - Yacht Rock (HLS)
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fsa47.scastream.com.au%2Flive%2F7yachtrock_128.stream%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://www.abc.net.au/core-assets/local/favicon-32x32.png" group-title="Australia",ABC Radio South West WA
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabc.streamguys1.com%2Flive%2Flocalsouthwestwa%2Ficecast.audio
 #EXTINF:-1 tvg-logo="https://i.ibb.co/grcrgKZ/4630-85684166268-7669579-n.jpg" group-title="Australia",Triple R - Melbourne - 102.7 FM (AAC)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fondemand.rrr.org.au%2Fgetstream
+#EXTINF:-1 tvg-logo="https://ac878.com.au/wp-content/uploads/2025/02/1024x1024.png" group-title="Australia",AC878 澳洲华语FM电台
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream4.rcast.net%2F71937%2F%23%3F.mp3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sy6S99B/image.jpg" group-title="Australia",Classic Radio NSW - 1900s to 1950s (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.zeno.fm%2Fwbb1hramzd0uv
-#EXTINF:-1 tvg-logo="https://www.2mbsfinemusicsydney.com/wp-content/uploads/2024/11/cropped-242703-2mbs-fine-music-sydney_2mbs-app-670df87165b0-270x270.png" group-title="Australia",2MBS Fine Music Sydney AAC 256
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio12.shoutcast.net.au%3A2020%2Fstream%2F2MBS-ICE
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - 1960s Pop Number 1s (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm21.com.au%3A8000%2FCONTAINER77
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - Eurobeat (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm22.com.au%3A8000%2FCONTAINER26
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6XzsXRG/Yacht-Rock.png" group-title="Australia",LiSTNR - Yacht Rock (HLS)
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fsa47.scastream.com.au%2Flive%2F7yachtrock_128.stream%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - Bon Jovi (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm22.com.au%3A8000%2FCONTAINER100
 #EXTINF:-1 tvg-logo="https://aspradio.au/static/uploads/browser_icon/original.1709873524.png" group-title="Australia",ASP Radio
@@ -579,8 +583,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fs18.myradiostream.com%3A44
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fs9.viastreaming.net%3A9645%2Flisten.mp3
 #EXTINF:-1 tvg-logo="https://vision.org.au/wp-content/uploads/2022/07/cropped-V_Logo-1-1-192x192.png" group-title="Australia",Vision Christian Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreams3.vision.org.au%2Fvision128.mp3%3F_%3D1
-#EXTINF:-1 tvg-logo="https://ac878.com.au/wp-content/uploads/2025/02/1024x1024.png" group-title="Australia",AC878 澳洲华语FM电台
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream4.rcast.net%2F71937%2F%23%3F.mp3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h18GrQd/FBI-HEADER-Large-smaller.jpg" group-title="Australia",FBi Radio - Sydney - 94.5 FM (MP3)
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreamer.fbiradio.com%2Fstream
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - The Eagles (MP3)
@@ -657,6 +659,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Faudio-edge-fp8o9.yyz.d.ra
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fs10.myradiostream.com%2F15272%2F%3B
 #EXTINF:-1 tvg-logo="https://www.4ca.com.au/wp-content/uploads/sites/14/2022/10/cropped-nql_cns_4ca-512x512-favicon.png?w=180" group-title="Australia",4CA 846 AM CAIRNS ONLINE
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FCAI_4CAAAC.aac
+#EXTINF:-1 tvg-logo="https://www.abc.net.au/favicon.ico" group-title="Australia",ABC NewsRadio
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmediaserviceslive.akamaized.net%2Fhls%2Flive%2F2038311%2Fnewsradio%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://irp-cdn.multiscreensite.com/8d7137b6/site_favicon_16_1566347915047.ico" group-title="Australia",TEABBA RADIO
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ffirstnationsmedia.stream%2F8014%2Fstream
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - New 1960s Style (MP3)
@@ -665,8 +669,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm21.com.au%3A8000%2FCONT
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmedia-ssl.musicradio.com%2FSmoothChill
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Australia",Radio Great Southern - AM 1422 Wagin WA
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fprocyon.shoutca.st%3A8377%2Fstream
-#EXTINF:-1 tvg-logo="https://www.abc.net.au/favicon.ico" group-title="Australia",ABC NewsRadio
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmediaserviceslive.akamaized.net%2Fhls%2Flive%2F2038311%2Fnewsradio%2Findex.m3u8
+#EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - Joy Division (MP3)
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm22.com.au%3A8000%2FCONTAINER85
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - Comedy Channel - Music (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm21.com.au%3A8000%2FCONTAINER130
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4sf2VtL/300351188-127081350061367-3496605637001018922-n.jpg" group-title="Australia",Smooth FM Brisbane (AAC+ 128k)
@@ -675,8 +679,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamthewo
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmediaserviceslive.akamaized.net%2Fhls%2Flive%2F2038251%2Flocalcapricornia%2Fmasterhq.m3u8
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - Justin Bieber (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm22.com.au%3A8000%2FCONTAINER115
-#EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - Joy Division (MP3)
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm22.com.au%3A8000%2FCONTAINER85
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/aY2FRNaBQT.jpeg" group-title="Australia",ArtSound FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.artsound.fm%2Fmp3
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - Old School Rap (MP3)
@@ -717,6 +719,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fais-arn.streamguys1.com%2
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm22.com.au%3A8000%2FCONTAINER107
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - 24/7 News (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm22.com.au%3A8000%2FCONTAINER169
+#EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - Elton John (MP3)
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm21.com.au%3A8000%2FCONTAINER146
 #EXTINF:-1 tvg-logo="https://www.abc.net.au/core-assets/local/favicon-32x32.png" group-title="Australia",ABC Riverina
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabc.streamguys1.com%2Flive%2Flocalriverina%2Ficecast.audio
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Australia",Magic 87.6
@@ -737,8 +741,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ftls1.coastdev.net%2Fcoast
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm22.com.au%3A8000%2FCONTAINER88
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Australia",2NURFM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2F2NURFM.mp3
-#EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - Elton John (MP3)
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm21.com.au%3A8000%2FCONTAINER146
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/550b5c_b0c1b364d0ad4a86a0137bcb512e0fbc~mv2.png/v1/crop/x_0,y_366,w_1500,h_768/fill/w_205,h_105,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/png_20221107_153533_0000%20(1).png" group-title="Australia",Sport FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.lava.net.au%2Fau_wa_6wsm_sportfm
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - Film Music (MP3)
@@ -979,6 +981,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm22.com.au%3A8000%2FCONT
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm22.com.au%3A8000%2FCONTAINER46
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Australia",KIIS 97.3 - Brisbane - 97.3 FM (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FARN_973FM.mp3
+#EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - Big Beat (MP3)
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm22.com.au%3A8000%2FCONTAINER7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hXM4wC3/652741b2f702ccd6ae1831d1.jpg" group-title="Australia",iHeartDance Australia (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FARN_IHRT7.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/ABC_Radio_Adelaide_logo.png" group-title="Australia",ABC Radio Adelaide
@@ -1009,8 +1013,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fsystrum.net%3A8443%2FSSR1
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fsa46.scastream.com.au%2Flive%2Fsoul-disco.stream%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fY3CYR6J/Li-STNR-Square-Tile-3000x3000-Girl-POWER.jpg" group-title="Australia",LiSTNR - Girl Power (HLS)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fsa46.scastream.com.au%2Flive%2F7girlpower_128.stream%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - Big Beat (MP3)
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm22.com.au%3A8000%2FCONTAINER7
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - Def Leppard (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm22.com.au%3A8000%2FCONTAINER101
 #EXTINF:-1 tvg-logo="https://3mbs.org.au/apple-touch-icon-120x120.png" group-title="Australia",3MBS - Melbourne 103.5 MHz FM
@@ -1357,6 +1359,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fs7.viastreaming.net%3A8880
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm22.com.au%3A8000%2FCONTAINER25
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wrFRWxV8/67c4f8a8d93c99fd1cda00b2.webp" group-title="Australia",Great Southern FM - Albany - 100.9 FM (AAC+)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2F6CRAAAC.aac
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RG4YwYMq/c385cabc-3ed9-43d3-8c28-8ba56cf5a0e0.webp" group-title="Australia",Cruise 1323 - Adelaide - 1323 AM (MP3)
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FARN_CRUISE1323.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Australia",96five Brisbane
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream1.cnmns.net%2F96five
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9mKQ2fqX/Li-STNR-Square-Tile-3000x3000-2010s-DANCE.jpg" group-title="Australia",LiSTNR - 2010s Dance (HLS)
@@ -1415,8 +1419,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm22.com.au%3A8000%2FCONT
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fwww.miblradio.com.au%2Fmibl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dwwgg1z8/Li-STNR-Square-Tile-3000x3000-RAP-REVOLUTION.jpg" group-title="Australia",LiSTNR - Rap Revolution
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fworldradio.online%2Fproxy%2F%3Fq%3Dhttp%3A%2F%2Fwz0liw.scahw.com.au%2Flive%2Frap-revolution.stream%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RG4YwYMq/c385cabc-3ed9-43d3-8c28-8ba56cf5a0e0.webp" group-title="Australia",Cruise 1323 - Adelaide - 1323 AM (MP3)
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FARN_CRUISE1323.mp3
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - The Monkees (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm21.com.au%3A8000%2FCONTAINER161
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0hqCjWF/smoothvintage.png" group-title="Australia",Smooth Vintage Australia (AAC+ 128k)
@@ -1446,7 +1448,7 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.sigile.net%2Fwowfm
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - Guns N' Roses (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm22.com.au%3A8000%2FCONTAINER109
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Australia",Radio 4YOU 98.5 FM 
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F23193.live.streamtheworld.com%2F4YOUAAC_SC
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F28863.live.streamtheworld.com%3A3690%2F4YOUAAC_SC
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - Easy Vocal (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm21.com.au%3A8000%2FCONTAINER120
 #EXTINF:-1 tvg-logo="https://happyfm.org.au/webimages/happyfm_loop1.gif" group-title="Australia",90.1 Happy Fm
@@ -1833,6 +1835,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fsa46.scastream.com.au%2Fli
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2F2CCRAAC.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Australia",3ZZZ - Melbourne - 92.3 FM (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2F3ZZZ.mp3
+#EXTINF:-1 tvg-logo="https://d1cce5idf8ce8i.cloudfront.net/wp-content/themes/woo/images/favicon.jpg" group-title="Australia",2CR
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream1.rcast.net%2F68855
 #EXTINF:-1 tvg-logo="http://www.radioperth.com.au/favicon.ico" group-title="Australia",Australian Digital Radio Network - Radio Perth (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm22.com.au%3A8000%2FCONTAINER139
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Australia",Golden Days Radio
@@ -1989,6 +1993,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamthewo
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FSMOOTH953_AAC48.aac
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - Dance Hits of 2022 (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm22.com.au%3A8000%2FCONTAINER180
+#EXTINF:-1 tvg-logo="https://live-production.wcms.abc-cdn.net.au/7e54f885c81cb93e2f248a49423c4369" group-title="Australia",774 ABC Melbourne
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.abc-cdn.net.au%2Faudio%2Fhls%2Flocalmelbourne.m3u8%3Fsource%3Dweb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PZjJ6Vkv/Li-STNR-Square-Tile-3000x3000-NOUGHTIES.jpg" group-title="Australia",LiSTNR - 2000s Noughties (HLS)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fsa46.scastream.com.au%2Flive%2F7noughties_128.stream%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xqMmC5Js/429578801-955669969442306-6041824550738386823-n.jpg" group-title="Australia",FIVEAA - Adelaide - 1395 AM (AAC+ 320k)
@@ -2111,6 +2117,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamthewo
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm21.com.au%3A8000%2FCONTAINER57
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VT5FPnD/61ea5b74dcdc455f530c0451.jpg" group-title="Australia",7HOFM - Hobart - 101.7 FM (AAC)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FHOB_7HOAAC.aac
+#EXTINF:-1 tvg-logo="https://eastsidefm.org/static/es-logo-4a529e665bcd97923bf372326f4bdd5d.png" group-title="Australia",Eastside Radio 89.7FM
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreamer.eastsidefm.org%2Fstream
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Hp35xdtx/Li-STNR-UAC-1200x1200-RUN-CLUB.jpg" group-title="Australia",LiSTNR - Run Club
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fwz0liw.scahw.com.au%2Flive%2Frun-club.stream%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - Usher (MP3)
@@ -2159,8 +2167,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.swifthosting.com.a
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm22.com.au%3A8000%2FCONTAINER52
 #EXTINF:-1 tvg-logo="http://www.radiodarwin.com.au/favicon.ico" group-title="Australia",Australian Digital Radio Network - Radio Darwin (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm22.com.au%3A8000%2FCONTAINER134
-#EXTINF:-1 tvg-logo="https://live-production.wcms.abc-cdn.net.au/7e54f885c81cb93e2f248a49423c4369" group-title="Australia",774 ABC Melbourne
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.abc-cdn.net.au%2Faudio%2Fhls%2Flocalmelbourne.m3u8%3Fsource%3Dweb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bXbqwz9/BBFM-logo-K.jpg" group-title="Australia",Byron BayFM - Byron Bay - 99.9 FM (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2F2BAY_FM999.mp3
 #EXTINF:-1 tvg-logo="https://starterfm.com.au/favicon.ico" group-title="Australia",Starter FM
@@ -2291,8 +2297,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fc17.radioboss.fm%3A18193%2
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fwz0liw.scahw.com.au%2Flive%2Fbillion-streams.stream%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Australia",CMS FM - Canberra - 91.1 FM (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fc13.radioboss.fm%3A18190%2Fstream
-#EXTINF:-1 tvg-logo="https://eastsidefm.org/static/es-logo-4a529e665bcd97923bf372326f4bdd5d.png" group-title="Australia",Eastside Radio 89.7FM
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreamer.eastsidefm.org%2Fstream
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Hp35xdtx/Li-STNR-UAC-1200x1200-RUN-CLUB.jpg" group-title="Australia",LiSTNR - Run Club
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fworldradio.online%2Fproxy%2F%3Fq%3Dhttp%3A%2F%2Fwz0liw.scahw.com.au%2Flive%2Frun-club.stream%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://play.listnr.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fyxg7lydfj6tc%2F1wjt2HBrp3iGM56pFIegGJ%2F5a03c7dcae35c29b24d0b4cfd4954402%2FLiSTNR-Square-Tile_3000x3000_INDIE_POP.jpg%3Fw%3D320%26h%3D320%26fit%3Dfill&w=640&q=75" group-title="Australia",Indie Pop
@@ -2845,3 +2849,7 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fsohcan.out.airtime.pro%3A
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FTOW_POWER100.mp3
 #EXTINF:-1 tvg-logo="null" group-title="Australia",Gin Gin's Own 104.9
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fginginsown1049.out.airtime.pro%2Fginginsown1049_a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n6jJk2m/Brand-Tile-N1069.png" group-title="Australia",Nova 106.9 - Brisbane - 106.9 FM (AAC+ 128k)
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FNOVA_1069_AAC128.aac
+#EXTINF:-1 tvg-logo="https://www.mix1049.com.au/wp-content/uploads/sites/12/2022/10/300x150-fullcolour-NQL_DRW_MIX.png" group-title="Australia",Mix 104.9 - Darwin - 104.9 FM (MP3)
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FDAR_MIX1049.mp3

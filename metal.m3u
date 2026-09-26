@@ -35,8 +35,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.exclusive.radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flisten.181fm.com%2F181-hairband_128k.mp3
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s236876q.png" group-title="Greece",Stone Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Feu4.fastcast4u.com%3A5248%2F%3Bstream.mp3
-#EXTINF:-1 tvg-logo="https://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Thrash Metal
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A9101%2F
 #EXTINF:-1 tvg-logo="https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xBBCR6.png" group-title="The United Kingdom Of Great Britain And Northern Ireland",BBC Radio 6 Music
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fas-hls-ww-live.akamaized.net%2Fpool_81827798%2Flive%2Fww%2Fbbc_6music%2Fbbc_6music.isml%2Fbbc_6music-audio%253d320000.norewind.m3u8
 #EXTINF:-1 tvg-logo="https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png" group-title="Germany",ROCKANTENNE Heavy Metal (64 kbps AAC)
@@ -107,10 +105,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F67.249.184.45%3A8015%2F
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8002%2Fmelodicdeath
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Other",Radio Caprice - Nu Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A8002%2Fnumetal
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The United Arab Emirates",Exclusively Deep Purple
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.exclusive.radio%2Fer%2Fdeeppurple%2Ficecast.audio
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Ukraine",True Black Metal Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ftrueblackmetalradio.com%3A666%2Fradio
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The United Arab Emirates",Exclusively Deep Purple
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.exclusive.radio%2Fer%2Fdeeppurple%2Ficecast.audio
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Hungary",Rocker Rádió
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Frockerradio.online%2Flive.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Progressive Metal
@@ -118,7 +116,7 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8000%2Fprog
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",Blown
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fais-sa2.cdnstream1.com%2F1370_128
 #EXTINF:-1 tvg-logo="http://www.fluxfm.de/assets/favicons/apple-icon-120x120.png" group-title="Germany",FluxFM - MetalFM
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ffluxfm.streamabc.net%2Fflx-metalfm-mp3-320-9154971%3FsABC%3D6no10qq5%25230%2523r30o443r1929r059s085628511796n57%2523enqvbqr%26aw_0_1st.playerid%3Dradiode%26amsparams%3Dplayerid%3Aradiode%3Bskey%3A1789988309
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ffluxfm.streamabc.net%2Fflx-metalfm-mp3-320-9154971%3FsABC%3D6no7n62s%25230%2523r30o443r1929r059s085628511796n57%2523enqvbqr%26aw_0_1st.playerid%3Dradiode%26amsparams%3Dplayerid%3Aradiode%3Bskey%3A1790420527
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",CORE Radio!
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F194.58.97.117%3A8000%2Fcoreradio
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Heavy Metal
@@ -151,6 +149,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fwr03-ice.stream.khz.se%2Fw
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreams.radiobob.de%2Fbob-hartesaite%2Fmp3-192%2Fstreams.radiobob.de%2F
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Melodic Heavy Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8000%2Fmelodicheavy
+#EXTINF:-1 tvg-logo="https://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Depressive Black Metal
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A9011%2F%3B
 #EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/symphonicmetal-c.jpg" group-title="The Russian Federation",Radio Caprice - Symponic Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8004%2Fsymphometal
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Power Metal
@@ -173,16 +173,16 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F0n-rock.radionetz.de%2F0n
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8000%2Fmelodicdeath
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Metal Invasion Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.metal-invasion.fr%2Fradio%2F8000%2Fstream96
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",Hazzard of Darkness
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fhazzardstream.de%3A7777%2Flisten1
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="Other",Radio Caprice - Melodic Metalcore
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A8002%2Fmelodicmetalcore
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",Hazzard of Darkness
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fhazzardstream.de%3A7777%2Flisten1
 #EXTINF:-1 tvg-logo="https://stream.radiosar.pl/logo.png" group-title="Poland",Radio SAR - Studencka Agencja Radiowa
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radiosar.pl%2Fhdmain.mp3
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/b8qjdagwc9d8.png" group-title="The Russian Federation",Radio Caprice - Symphonic Power Metal
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8000%2Fsymphopower
 #EXTINF:-1 tvg-logo="https://image.atsw.de/atsw/production/2024-05/rockfm_metal_600x600.jpg" group-title="Germany",ROCK FM METAL
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.regenbogen2.de%2Fmetal%2Fmp3-128
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/b8qjdagwc9d8.png" group-title="The Russian Federation",Radio Caprice - Symphonic Power Metal
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8000%2Fsymphopower
 #EXTINF:-1 tvg-logo="https://www.radiofrance.fr/s3/cruiser-production/2022/07/160994f8-296b-4cd8-97a0-34c9111cdd9d/400x400_fip-metal-20222x_2.webp" group-title="France",FIP Metal
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficecast.radiofrance.fr%2Ffipmetal-hifi.aac%3Fid%3Dradiofrance
 #EXTINF:-1 tvg-logo="http://www.rtbf.be/favicon.ico" group-title="Belgium",RTBF Classic 21 - Metal
@@ -219,10 +219,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ffluxfm.streamabc.net%2Fflx
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8000%2Fbrutaldeathmetal
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The United Arab Emirates",Exclusively - Metallica
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.exclusive.radio%2Fer%2Fmetallica%2Ficecast.audio
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",RADIO BOB - 70er Rock [mp3 | 192 kbps]
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreams.radiobob.de%2F70errock%2Fmp3-192%2Fstreams.radiobob.de%2F
 #EXTINF:-1 tvg-logo="http://aggregatorservice.loverad.io/wp-content/uploads/2018/07/radiobob-streamicon_wacken.png" group-title="Germany",RADIO BOB! BOBs Wacken Nonstop (192kbit)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreams.radiobob.de%2Fbob-wacken%2Fmp3-192%2Fstreams.radiobob.de%2F
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",RADIO BOB - 70er Rock [mp3 | 192 kbps]
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreams.radiobob.de%2F70errock%2Fmp3-192%2Fstreams.radiobob.de%2F
 #EXTINF:-1 tvg-logo="https://www.christianhardrock.net/apple-touch-icon.png" group-title="The United States Of America",CRnet Hard Rock (128)
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fshoutcast.christianrock.net%2Fstream%2F3%2F
 #EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/abm4.jpg" group-title="The Russian Federation",Radio Caprice - Atmospheric/Ambient Black Metal
@@ -239,10 +239,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.rockantenne.de%2Fmo
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8000%2Fmelodicpower
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Rock Ballads
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8000%2Frockballads
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",Punk4all
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fpunk4all.stream.laut.fm%2Fpunk4all
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Progressive Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8002%2Fprogmetal
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",Punk4all
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fpunk4all.stream.laut.fm%2Fpunk4all
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Folk Black Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.12.130%3A8002%2Ffolkblackmet
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The United States Of America",HardRadio [AAC+]
@@ -250,7 +250,7 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F3634.cloudrad.io%2Fstream%
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",DrGnu - Gothic
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreams.radiobob.de%2Fgothic%2Fmp3-192%2Fmediaplayer
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/metal-400.png" group-title="The United States Of America",SomaFM Metal Detector (32k AAC)
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fice5.somafm.com%2Fmetal-32-aac
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fice2.somafm.com%2Fmetal-32-aac
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/radcaplogo.png" group-title="The Russian Federation",Thrash Heavy Metal - Caprice Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8000%2Fthrashheavy
 #EXTINF:-1 tvg-logo="https://image.atsw.de/atsw/production/2024-05/rockfm_metallica_600x600.jpg" group-title="Germany",ROCK FM METALLICA
@@ -279,10 +279,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F91.232.4.33%3A9073%2Fstrea
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F12punks-high.rautemusik.fm%2F%3Fref%3Dradiobrowser
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="Other",Radio Caprice - Black / Blackened Doom Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8002%2Fblackdoom
-#EXTINF:-1 tvg-logo="https://img.sedoparking.com/templates/logos/sedo_logo.png" group-title="Serbia",UnderGRAND Radio
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.zeno.fm%2Frp1swb5pgzzuv
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Folk Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A8000%2Ffolkmetal
+#EXTINF:-1 tvg-logo="https://img.sedoparking.com/templates/logos/sedo_logo.png" group-title="Serbia",UnderGRAND Radio
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.zeno.fm%2Frp1swb5pgzzuv
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Netherlands",Pinguin Aardschok
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreams.pinguinradio.com%2FAardschok192.mp3
 #EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-rock_600x600.jpg" group-title="Germany",- 1 A - Rock von 1A Radio
@@ -307,10 +307,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.1055rock.gr%3A31056
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.laut.fm%2Ffantasyradio
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="Germany",__ROCK__ by rautemusik (rm.fm)
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frock-high.rautemusik.fm%2F%3Fref%3Dradiobrowser
-#EXTINF:-1 tvg-logo="https://images.radiobob.de/files/2024-01/bob_stream-tile_nu-metal.jpg?fm=jpg&w=180&h=180&dpr=2" group-title="Germany",Radio BOB - Nu Metal (mp3 192)
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreams.radiobob.de%2Fnumetal%2Fmp3-192%2F
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Other",Polygon.FM - Loud Russian (fastcast)
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Feu6.fastcast4u.com%2Fproxy%2Flrm%3Fmp%3D%2Fstream
+#EXTINF:-1 tvg-logo="https://images.radiobob.de/files/2024-01/bob_stream-tile_nu-metal.jpg?fm=jpg&w=180&h=180&dpr=2" group-title="Germany",Radio BOB - Nu Metal (mp3 192)
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreams.radiobob.de%2Fnumetal%2Fmp3-192%2F
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-heavymetal_600x600.jpg" group-title="Germany",- 0 N - Heavy Metal on Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F0n-heavymetal.radionetz.de%2F0n-heavymetal.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",DrGnu - Classic Rock
@@ -319,10 +319,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreams.radiobob.de%2Fbob-
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radiofrance.fr%2Ffipmetal%2Ffipmetal_hifi.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Radyo ODTU - Rock
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.radyoodtu.com.tr%2Frock
-#EXTINF:-1 tvg-logo="https://zeno.fm/favicon.ico" group-title="China",夜愿电台Nightwish Radio
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.zeno.fm%2F98wt67yfky8uv
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/b8qjdagwc9d8.png" group-title="The Russian Federation",Radio Caprice - Viking Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A8000%2Fvikingmetal
+#EXTINF:-1 tvg-logo="https://zeno.fm/favicon.ico" group-title="China",夜愿电台Nightwish Radio
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.zeno.fm%2F98wt67yfky8uv
 #EXTINF:-1 tvg-logo="https://radiotangra.com/wp-content/uploads/2023/02/Vector-Smart-Object.svg" group-title="Bulgaria",Tangra Mega Rock
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream-bg-01.radiotangra.com%3A8000%2FTangra.ogg
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",laut.fm Schwarze Szene
@@ -335,10 +335,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flagerfeuermetal.stream.la
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fvirage-radio-metal.ice.infomaniak.ch%2Fvirage-radio-metal.aac%3Fi%3D65804
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldM8wDn.jpeg" group-title="Indonesia", Mosh Head Black Metal ID
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmoshhead-blackmetal.stream.laut.fm%2Fmoshhead-blackmetal
-#EXTINF:-1 tvg-logo="https://www.rtbf.be/favicon.ico" group-title="Belgium",RTBF Classic 21 - Live
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradios.rtbf.be%2Fwr-c21-live-128.mp3
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/b8qjdagwc9d8.png" group-title="The Russian Federation",Radio Caprice - Thrash Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8000%2Fthrashmetal
+#EXTINF:-1 tvg-logo="https://www.rtbf.be/favicon.ico" group-title="Belgium",RTBF Classic 21 - Live
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradios.rtbf.be%2Fwr-c21-live-128.mp3
 #EXTINF:-1 tvg-logo="https://www.phonostar.de/images/auto_created/bandit_metal2184x184.png" group-title="Sweden",Bandit Metal
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fwr03-ice.stream.khz.se%2Fwr03_mp3
 #EXTINF:-1 tvg-logo="http://aggregatorservice.loverad.io/wp-content/uploads/2018/07/radiobob-streamicon_harte-saite-1.png" group-title="Germany",RADIO BOB! BOBs Harte Saite
@@ -353,12 +353,12 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreams.radiobob.de%2Fbob-
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.laut.fm%2Fbeatdownx
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",RadCap - Thrash Black Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8004%2Fthrashblack
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/De_Tijdloze.png" group-title="Belgium",De Tijdloze
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.vrtcdn.be%2Fstubru_tijdloze-high.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS68I_D2ZIAam8GPJ6BQoiPg26ApOJeMkcHfQ&usqp=CAU" group-title="Greece",METAL ZONE
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fneos.win%3A48282%2Fstream
 #EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/9f9e3c8f-59ee-47dd-ab88-32bbd1547223.png" group-title="The United Arab Emirates",Rock The World - Heavy Metal
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdrive.uber.radio%2Fuber%2Frtwheavymetal%2Ficecast.audio
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/De_Tijdloze.png" group-title="Belgium",De Tijdloze
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.vrtcdn.be%2Fstubru_tijdloze-high.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Bolivia",El Fin del Silencio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fservidor24-1.brlogic.com%3A7302%2Flive
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",RadioBOB Metalcore (64 kbps AAC)
@@ -371,18 +371,18 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F37.59.82.8%3A8344%2F
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radiofrance.fr%2Ffipmetal%2Ffipmetal_hifi.m3u8%3Fid%3Dradiofrance
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Other",laut.fm - Dark Sound United
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.laut.fm%2Fdark-sound-united
-#EXTINF:-1 tvg-logo="https://www.gnuradio.org/favicon.ico" group-title="Switzerland",Gnu Radio - Metal FM
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ffluxfm.streamabc.net%2Fflx-metalfm-mp3-320-9154971%3FsABC%3D61s83r32%25230%252389nqs1p1q8rrq2q126260sp7877or6oo%2523fgernzf.syhksz.qr%26amsparams%3Dplayerid%3Astreams.fluxfm.de%3Bskey%3A1643658802
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Epic Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8000%2Fepicmetal
+#EXTINF:-1 tvg-logo="https://www.gnuradio.org/favicon.ico" group-title="Switzerland",Gnu Radio - Metal FM
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ffluxfm.streamabc.net%2Fflx-metalfm-mp3-320-9154971%3FsABC%3D61s83r32%25230%252389nqs1p1q8rrq2q126260sp7877or6oo%2523fgernzf.syhksz.qr%26amsparams%3Dplayerid%3Astreams.fluxfm.de%3Bskey%3A1643658802
 #EXTINF:-1 tvg-logo="https://upload.deltaradio.de/production/static/1718010612769/icons/icon_64.800a00w0080.png" group-title="Germany",delta radio Föhnfrisur
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreams.deltaradio.de%2Fdelta-foehnfrisur%2Fmp3-192%2Fmediaplayerdeltaradio
 #EXTINF:-1 tvg-logo="https://www.fluxfm.de/assets/favicons/apple-icon-120x120.png" group-title="Germany",DrGnu - 70th Rock
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ffluxfm.streamabc.net%2Fflx-70er-mp3-320-4383769%3FsABC%3D6202qr25%25230%25237osorqnn86p8nnp979o1124290qqo247%2523fgernzf.syhksz.qr%26amsparams%3Dplayerid%3Astreams.fluxfm.de%3Bskey%3A1644355109
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",Altrockmetal-Radiogirls
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.laut.fm%2Faltrockmetal-radiogirls
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Athmospheric Doom Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8002%2Fatmosphericdoom
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",Altrockmetal-Radiogirls
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.laut.fm%2Faltrockmetal-radiogirls
 #EXTINF:-1 tvg-logo="https://www.fluxfm.de/assets/favicons/apple-icon-120x120.png" group-title="Germany",DrGnu - 80th Rock II
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ffluxfm.streamabc.net%2Fflx-80er-mp3-320-9596107%3FsABC%3D6202qrr6%25230%2523sorr1p583723p06268o324o2ps5n399q%2523fgernzf.syhksz.qr%26amsparams%3Dplayerid%3Astreams.fluxfm.de%3Bskey%3A1644355302
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/645295e48320086d02de7ca3" group-title="The United States Of America",Nu Metal Radio
@@ -397,10 +397,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8002%2Fds
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.laut.fm%2Fprogalley
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/94775.v6.png" group-title="Brazil",BR - The Classic Rock
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.zeno.fm%2Fnbq1aq62gd0uv
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",DrGnu - Metalcore 1
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreams.radiobob.de%2Fmetalcore%2Fmp3-192%2Fmediaplayer
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Folk Death Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.12.130%3A8000%2Ffolkdeathmet
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",DrGnu - Metalcore 1
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreams.radiobob.de%2Fmetalcore%2Fmp3-192%2Fmediaplayer
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Slovakia",METALSCENA netRADIO
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.radioking.com%2Fradio%2F263218%2Fstream%2F308365
 #EXTINF:-1 tvg-logo="https://i0.wp.com/metallagi.com/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-31-at-11.44.37.jpeg?w=720" group-title="Indonesia",Bandung Death Metal Syndicate
@@ -419,12 +419,12 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreams.radiobob.de%2Fbob-
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.rockantenne.de%2Fmodern-metal%2Fstream%2Fmp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",RadCap - Symphonic Death Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8000%2Fsymphodeath
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/metal-400.png" group-title="The United States Of America",SomaFM Metal Detector (128k MP3)
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fice6.somafm.com%2Fmetal-128-mp3
-#EXTINF:-1 tvg-logo="https://japanradio.de/wp-content/uploads/2020/05/japanradiodeR01.png" group-title="Germany",Japanradio.de
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.japanradio.de%2Flive
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Pagan Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8000%2Fpaganmetal
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/metal-400.png" group-title="The United States Of America",SomaFM Metal Detector (128k MP3)
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fice2.somafm.com%2Fmetal-128-mp3
+#EXTINF:-1 tvg-logo="https://japanradio.de/wp-content/uploads/2020/05/japanradiodeR01.png" group-title="Germany",Japanradio.de
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.japanradio.de%2Flive
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9cCXgx8.png" group-title="The United States Of America",80s Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fbigrradio-edge1.cdnstream.com%2F5146_128
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",RadioBOB Metal (64 kbps AAC)
@@ -452,7 +452,7 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreams.radiobob.de%2Fbob-
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The United States Of America",Dead2Self Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fpuma.streemlion.com%3A1580%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",R.SA Rockzirkus
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Frsa.streamabc.net%2Fregc-rsasachsenrockzirkus8440598-mp3-192-3220659%3FsABC%3D6no135q4%25230%2523r30o443r1929r059s085628511796n57%2523fgernzf.efn-fnpufra.qr%26aw_0_1st.playerid%3Dstreams.rsa-sachsen.de%26amsparams%3Dplayerid%3Astreams.rsa-sachsen.de%3Bskey%3A1789998548
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Frsa.streamabc.net%2Fregc-rsasachsenrockzirkus8440598-mp3-192-3220659%3FsABC%3D6no7pq90%25230%2523r30o443r1929r059s085628511796n57%2523fgernzf.efn-fnpufra.qr%26aw_0_1st.playerid%3Dstreams.rsa-sachsen.de%26amsparams%3Dplayerid%3Astreams.rsa-sachsen.de%3Bskey%3A1790430608
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",RadCap - Atmospheric Ambient Black Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A8004%2Faabmds
 #EXTINF:-1 tvg-logo="https://www.metalzone.gr/favicon.ico" group-title="Greece",Metalzone 
@@ -473,10 +473,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.laut.fm%2Fstone-pro
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A8000%2Fglam
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",DrGnu - Rock Hits
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreams.radiobob.de%2Fbob-rockhits%2Fmp3-192%2Fmediaplayer
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",RADIO BOB! Livestream
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreams.radiobob.de%2Fbob-national%2Fmp3-192%2Fmediaplayer
 #EXTINF:-1 tvg-logo="https://techno-eremit.de/wp-content/uploads/2022/06/Logo-klein.png" group-title="Germany",METAL ONLY - http://www.metal-only.deMETAL ONLY - http://www.metal-only.de - 24h Black Death Heavy Metal Rock und mehr!
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmetal-only.sp.radio.fm%2Fstream
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",RADIO BOB! Livestream
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreams.radiobob.de%2Fbob-national%2Fmp3-192%2Fmediaplayer
 #EXTINF:-1 tvg-logo="https://zeno.fm/favicon.ico" group-title="The Russian Federation",Monsters of Rock USSR
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream-51.zeno.fm%2F6nbz7p2w908uv
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Switzerland",Traxx FM - Rock
@@ -491,20 +491,20 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio21.streamabc.net%2Fr
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.radioking.com%2Fradio%2F119653%2Fstream%2F159127
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",DrGnu - Rock Party
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreams.radiobob.de%2Frockparty%2Fmp3-192%2Fmediaplayer%2F
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/b8qjdagwc9d8.png" group-title="The Russian Federation",Radio Caprice - Neue Deutsche Härte
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8000%2Fndh
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",RADIO BOB - 70er Rock [aac | 64 kbps]
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreams.radiobob.de%2F70errock%2Faac-64%2Fstreams.radiobob.de%2F
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",Roger Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Frogerradio.theholyroger.com%2Flive
 #EXTINF:-1 tvg-logo="https://www.express-fm.co.za/image/catalog/express_fm_logo_in_colour.png" group-title="South Africa",Express-FM Digital
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F198.7.59.28%3A34235%2Fstream
+#EXTINF:-1 tvg-logo="http://www.radiounderground.org/favicon.png" group-title="Poland",Radio Underground
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fs1.slotex.pl%3A7604%2F
 #EXTINF:-1 tvg-logo="https://www.radiobloodstream.com/favicon.ico" group-title="The United Kingdom Of Great Britain And Northern Ireland",Radio Bloodstream
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fuk1.internet-radio.com%2Fproxy%2Fbloodstream%3Fmp%3D%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Austria",UP THE IRONS
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fuptheirons.stream.laut.fm%2Fup_the_irons
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/b8qjdagwc9d8.png" group-title="The Russian Federation",Radio Caprice - Neue Deutsche Härte
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8000%2Fndh
-#EXTINF:-1 tvg-logo="http://www.radiounderground.org/favicon.png" group-title="Poland",Radio Underground
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fs1.slotex.pl%3A7604%2F
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",100Rock
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F100rock.stream.laut.fm%2F100rock%3Fuuid%3D6330308f-6bcb-9740-44a1-ebc7f0754036%26t302%3D2026-09-21_18-32-37
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="New Zealand",The Generator
@@ -582,29 +582,29 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fidobihowl.idobi.com%2F%3Bs
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",http://79.111.119.111:8000/paganmetal.m3u
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8000%2Fpaganmetal
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/metal-400.png" group-title="The United States Of America",SomaFM Metal Detector (64k AAC)
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fice5.somafm.com%2Fmetal-64-aac
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fice6.somafm.com%2Fmetal-64-aac
 #EXTINF:-1 tvg-logo="https://www.rockantenne.bayern/logos/station-rock-antenne-bayern/station.svg" group-title="Germany",Rock Antenne Bayern
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.rockantenne.bayern%2Frockantenne-bayern%2Fstream%2Fmp3
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Rock / Metal Ballads
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8002%2Frockballads
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Maximum - Heavy Monday
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fheavymonday.hostingradio.ru%2Fheavymonday96.aacp
 #EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-rock_600x600.jpg" group-title="Germany",- 1 A - Rock von 1A Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F1a-rock.radionetz.de%2F1a-rock.aac
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Rock / Metal Ballads
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8002%2Frockballads
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",RadCap - New Wave Of British Heavy Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.12.130%3A8002%2Fnwobhm
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",RadCap - Speed Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A9107%2F%3B
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",RadCap - Avantgarde Black Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A8004%2Favantblackmet
+#EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/orientalmetal-c.jpg" group-title="The Russian Federation",Radio Caprice - Oriental Metal
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8000%2Forientalmetal
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",Laut.FM Bang! Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.laut.fm%2Fbang
 #EXTINF:-1 tvg-logo="https://zeno.fm/favicon.ico" group-title="Mexico",Radioactivo 98.5
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream-56.zeno.fm%2F0dede0adz4zuv%3Fzs%3DWpqFDnSvSbCny4nEZvQHJA
 #EXTINF:-1 tvg-logo="http://dzed-bardaitis.com/favicon.png" group-title="Other",Dzed Bardaitis Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fsamcloud.spacial.com%2Fapi%2Flisten%3Fsid%3D113442%26m%3Dsc%26rid%3D195031
-#EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/orientalmetal-c.jpg" group-title="The Russian Federation",Radio Caprice - Oriental Metal
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8000%2Forientalmetal
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Other",Ad Infinitum
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.laut.fm%2Fad_infinitum
 #EXTINF:-1 tvg-logo="https://zerockradio.com/favicon.ico" group-title="Israel",Ze Rock Radio
@@ -702,7 +702,7 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fmediaserv68.live-streams.n
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",RadCap - Metalcore
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A8004%2Fmetalcore
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",R.SA LIVE Dresden
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Frsa.streamabc.net%2Fregc-rsalivesnddn-mp3-192-4941659%3FsABC%3D6no0o5r0%25230%2523r30o443r1929r059s085628511796n57%2523fgernzf.efn-fnpufra.qr%26aw_0_1st.playerid%3Dstreams.rsa-sachsen.de%26amsparams%3Dplayerid%3Astreams.rsa-sachsen.de%3Bskey%3A1789965792
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Frsa.streamabc.net%2Fregc-rsalivesnddn-mp3-192-4941659%3FsABC%3D6no74qsr%25230%2523r30o443r1929r059s085628511796n57%2523fgernzf.efn-fnpufra.qr%26aw_0_1st.playerid%3Dstreams.rsa-sachsen.de%26amsparams%3Dplayerid%3Astreams.rsa-sachsen.de%3Bskey%3A1790397950
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The United States Of America",Tattoo metal
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fusa14.fastcast4u.com%2Fproxy%2Ftattoometal%3Fmp%3D%2F1
 #EXTINF:-1 tvg-logo="http://radcap.ru/favicon.ico" group-title="The Russian Federation",Radio Caprice - Funk Rock / Metal
@@ -733,6 +733,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.laut.fm%2Fendzeitfm
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio-drachenblut.ch%3A8443%2Flisten.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Furgoncino
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radiojar.com%2Fsf65dpxy9vzuv
+#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",RadCap - Symphonic Metal
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A9097%2F%3B
 #EXTINF:-1 tvg-logo="https://truetaosradio.com/favicon.ico" group-title="The United States Of America",KNCE 93.5 True Taos Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fshoutcast.brownrice.com%3A8002%2Fstream
 #EXTINF:-1 tvg-logo="https://femmetal.net/favicon.ico" group-title="The United States Of America",Femmetal Classics Radio
@@ -761,12 +763,12 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreams.deltaradio.de%2Fd
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fouifm2.ice.infomaniak.ch%2Fouifm2.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Austria",Metal Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radiotechnikum.at%3A80%2FMETALRadio
+#EXTINF:-1 tvg-logo="https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-bruut/v4/color.svg" group-title="Belgium",Studio Brussel Zware Gitaren
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.vrtcdn.be%2Fstubru_bruut-high.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",RadCap - Female Vocal in Metal 
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A8004%2Ffemalemetal
 #EXTINF:-1 tvg-logo="http://www.radioquebec.biz/images/header3.jpg" group-title="Canada",Radio Bizzz
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fcast1.my-control-panel.com%3A7551%2Fstream%3Ftype%3Dhttp%26nocache%3D8
-#EXTINF:-1 tvg-logo="https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-bruut/v4/color.svg" group-title="Belgium",Studio Brussel Zware Gitaren
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.vrtcdn.be%2Fstubru_bruut-high.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",bizarre Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.laut.fm%2Fbizarre-radio
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",REGENBOGEN 2 - METAL
@@ -817,12 +819,12 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.zeno.fm%2Fapph08p9h
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fcentova.radioservers.biz%2Fproxy%2Fprogrock%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Other",Radio FRM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast1.play.cz%2Ffajnrock128.mp3
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Funk Rock / Metal
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8002%2Ffunkrock
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",ODINSMETALROCKCLUB
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fodinsmetalrockclub.stream.laut.fm%2Fodinsmetalrockclub
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="Australia",Australian Digital Radio Network - Punk and Metal Mix (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fabm21.com.au%3A8000%2FCONTAINER18
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Funk Rock / Metal
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8002%2Ffunkrock
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The United Kingdom Of Great Britain And Northern Ireland",SD Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmystation.micast.media%2Fradio%2F8020%2Fradio.mp3
 #EXTINF:-1 tvg-logo="https://radio-sunshine.de/images/favicon/favicon-32x32.png" group-title="Germany",Radio-Sunshine
@@ -925,16 +927,18 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.laut.fm%2Fstreetfi
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.pcradio.app%2FMetallica-hi
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The United States Of America",The Bear - South Bend 103.9
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F17993.live.streamtheworld.com%2FWRBRFMAAC_SC%3Fdist%3Dtg%26pname%3DTDSdk
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Post Metal
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A8000%2Fpostmetal
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Spain",Rock Radioo
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fa10.asurahosting.com%3A7570%2Fradio.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",RadCap - Pagan Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A9069%2F%3B
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Portugal",Radio Metal On: Toxic
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradiometalon.com%2Flisten%2Fradio_metal_on_toxic%2Fradio.mp3
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Post Metal
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A8000%2Fpostmetal
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",RadCap - Viking Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A9077%2F%3B
+#EXTINF:-1 tvg-logo="https://radio.softshell-octatonic.ts.net/logo.jpg" group-title="Portugal",Radio Rock Pirata
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.softshell-octatonic.ts.net%2Fstream
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZ3tfbZG/Banana1015.png" group-title="The United States Of America",Banana 101.5
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.amperwave.net%2Fmanifest%2Ftownsquare-wwbnfmaac-hlsc3.m3u8
 #EXTINF:-1 tvg-logo="https://www.express-fm.co.za/image/catalog/express_fm_logo_in_colour.png" group-title="South Africa",Express 106.6FM
@@ -943,8 +947,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F198.7.59.28%3A34235%2Fstre
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8004%2Ffunkrock
 #EXTINF:-1 tvg-logo="https://fonlord.github.io/Virtualni-basnik/radio-fonlord-logo-512.png" group-title="Czechia",Radio Fonlord
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fa5.asurahosting.com%3A6530%2Fradio.mp3
-#EXTINF:-1 tvg-logo="https://radio.softshell-octatonic.ts.net/logo.jpg" group-title="Portugal",Radio Rock Pirata
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.softshell-octatonic.ts.net%2Fstream
 #EXTINF:-1 tvg-logo="https://www.radio.net/300/nrjlinkinpark.jpeg?version=9ec7666b0204107fd6befaf6e99299f6a38aaff9" group-title="France",NRJ LINKIN PARK
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.nrjaudio.fm%2Fouvfbfoarp52
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",RadCap - Funeral Doom Metal
@@ -998,7 +1000,7 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.zeno.fm%2F8j4omrwr
 #EXTINF:-1 tvg-logo="https://pihota.fm/imgs/default-cover.png" group-title="Ukraine",РАДІОПІХОТА
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fonline.pihota.fm%2Flisten%2Fradio%2Faac64
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Austria",Rockantenne Österreich live
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fs8-webradio.rockantenne.at%2Frockantenne-oesterreich%2Fstream%2Faacp
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fs5-webradio.rockantenne.at%2Frockantenne-oesterreich%2Fstream%2Faacp
 #EXTINF:-1 tvg-logo="https://images.radiobob.de/files/2025-05/metallica_stream_schrift.jpg" group-title="Germany",BOB! Metallica
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreams.radiobob.de%2Fmetallica%2Fmp3-192%2Fhomepage%2F
 #EXTINF:-1 tvg-logo="https://turkrockfm.com/wp-content/uploads/2023/01/turkrockfm-small-logo.png" group-title="Türkiye",Türk Rock FM
@@ -1065,6 +1067,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fn10as.radiocult.fm%2Fstre
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmetallica.hostingradio.ru%2Fmetallica96.aacp
 #EXTINF:-1 tvg-logo="https://cdn.hotmixradio.com/hotmix-hard_rock-en-mp3.jpg" group-title="France",Hotmix Hard Rock
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.hotmixradio.com%2Fhotmix-hard-rock-en-mp3%3Fprovider%3Dradiobrowser
+#EXTINF:-1 tvg-logo="http://radcap.ru/graf2/radcaplogo.png" group-title="The Russian Federation",Radio Caprice - Heavy Power Metal
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.12.130%3A8002%2Fheavypowermetal
 #EXTINF:-1 tvg-logo="https://you.radio/cdn-cgi/image/width=100,quality=80/https://manager.uber.radio/static/uploads/brand/1a60ce33-a8ba-4c3f-a9c1-48e384364f3c.png" group-title="Germany",Exclusive - Scorpions
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.exclusive.radio%2Fer%2Fscorpions%2Ficecast.audio
 #EXTINF:-1 tvg-logo="https://szentkoronaradio.com/wp-content/uploads/2024/06/cropped-szkrlogo-270x270.png" group-title="Hungary",Szent Korona Rádió
@@ -1093,8 +1097,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fwz0liw.scahw.com.au%2Flive
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreams.radiobob.de%2Fbob-hartesaite%2Fmp3-192%2Fstreams.radiobob.de%2F
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/63f9116c52398de39f539db6" group-title="The United States Of America",Q 103.3 - Rockin' the Temecula Valley!
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.revma.ihrhls.com%2Fzc5130%2Fhls.m3u8
-#EXTINF:-1 tvg-logo="http://radcap.ru/graf2/radcaplogo.png" group-title="The Russian Federation",Radio Caprice - Heavy Power Metal
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.12.130%3A8002%2Fheavypowermetal
 #EXTINF:-1 tvg-logo="https://assets.laut.fm/3641622a81ec067eb7c3508ffde0e069" group-title="Indonesia",Metal Hammer
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmetal-hammer.stream.laut.fm%2Fmetal-hammer
 #EXTINF:-1 tvg-logo="null" group-title="The Russian Federation",Коррозия металла
