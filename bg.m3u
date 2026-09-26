@@ -189,10 +189,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplay.onlinedjradio.com%3A
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplay.global.audio%2Fveronika64
 #EXTINF:-1 tvg-logo="https://radiocyberfolk.com/cyberfolk.png" group-title="Bulgaria",Radio Cyberfolk
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F91.227.77.124%2Fcyberfolk
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Bulgaria",Metro Love 80s
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Feu1.reliastream.com%2Fproxy%2Flove80%3Fmp%3D%2FMLR80S
 #EXTINF:-1 tvg-logo="https://www.radioplay.bg/assets/logos/cityrab.png" group-title="Bulgaria",City HipHop RaB
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplay.global.audio%2Fcityrab.aac
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Bulgaria",Metro Love 80s
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Feu1.reliastream.com%2Fproxy%2Flove80%3Fmp%3D%2FMLR80S
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Bulgaria",Bg Estrada
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FBG_ESTRADAAAC_L.aac%3Fdist%3Donlineradiobox
 #EXTINF:-1 tvg-logo="https://www.badrockradio.net/wp-content/uploads/2024/06/960x0-100x100.webp" group-title="Bulgaria",BadRock Radio
@@ -307,8 +307,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F83.97.65.98%3A9000%2F
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F149.13.0.80%2Fradio1128
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Bulgaria",EILO Trance Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Feilo.org%2Fstreamer.php%3Fch%3Dtrance
-#EXTINF:-1 tvg-logo="https://kef.fm/keffm.png" group-title="Bulgaria",kef.fm
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F91.227.77.124%2Fkeffm
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Bulgaria",Bad Rock Radio-Classic Rock
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.jump.bg%3A7489%2Flive
 #EXTINF:-1 tvg-logo="https://xraydio.net/wp-content/uploads/2024/03/2.jpg" group-title="Bulgaria",XRaydio 2 – Your Vintage Jukebox

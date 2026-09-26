@@ -37,6 +37,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.laut.fm%2Fsound
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.radioking.com%2Fradio%2F10713%2Fstream%2F224413
 #EXTINF:-1 tvg-logo="https://cdn.website-editor.net/189da74ea8ed49719227b9e0808c29e5/site_favicon_16_1656198201979.ico" group-title="The United States Of America",All Blues Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fequinox.shoutca.st%3A8788%2F%3B
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Радио Эрмитаж
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fhermitage.hostingradio.ru%2Fhermitage128.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Isle Of Man",Alive - Live Music Radio around the clock (24h Blues Rock Pop)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.laut.fm%2Falive
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",Laut.FM BluesRockCafe
@@ -269,10 +271,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fcast3.radiohost.ovh%3A8352
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flive.1chi.si%2Fzica
 #EXTINF:-1 tvg-logo="https://ici.radio-canada.ca/favicon.ico" group-title="Canada",Radio Canada Ici Musique  - Québec City QC
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frcavliveaudio.akamaized.net%2Fhls%2Flive%2F2006650%2FM-7QQUE0_QUE%2Fmaster.m3u8
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Brazil",Lightness of Rock
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.zeno.fm%2Fn0dt87vrnd0uv
 #EXTINF:-1 tvg-logo="null" group-title="The Russian Federation",Радио Эрмитаж Санкт-Петербург 90.1 FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fhermitage.hostingradio.ru%2Fhermitage128.mp3
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Brazil",Lightness of Rock
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.zeno.fm%2Fn0dt87vrnd0uv
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",Blues Club - Laut.FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.laut.fm%2Fbluesclub
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Switzerland",GRRIF
@@ -281,12 +283,12 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frjb.ice.infomaniak.ch%2Fr
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreamer.radio.co%2Fsf662f27c0%2Flisten
 #EXTINF:-1 tvg-logo="https://kmhd.org/favicon.ico" group-title="The United States Of America",KMHD Adaptive AAC
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fais-sa3.cdnstream1.com%2F2442_128.aac%2Fplaylist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cbc.ca/favicon.ico" group-title="Canada",CBC Music Pacific (Vancouver) MP3 Stream
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F26183.live.streamtheworld.com%2FCBUFM_CBC_SC
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",DrGnu - Rock Party
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreams.radiobob.de%2Frockparty%2Fmp3-192%2Fmediaplayer%2F
 #EXTINF:-1 tvg-logo="https://www.express-fm.co.za/image/catalog/express_fm_logo_in_colour.png" group-title="South Africa",Express-FM Digital
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F198.7.59.28%3A34235%2Fstream
-#EXTINF:-1 tvg-logo="https://www.cbc.ca/favicon.ico" group-title="Canada",CBC Music Pacific (Vancouver) MP3 Stream
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F26183.live.streamtheworld.com%2FCBUFM_CBC_SC
 #EXTINF:-1 tvg-logo="https://wbrh.org/wp-content/uploads/2023/03/favicon2-100x100.gif" group-title="The United States Of America",KBRH AM 1260
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fwbrh.streamguys1.com%2Fkbrh-mp3
 #EXTINF:-1 tvg-logo="https://www.radioswissjazz.ch/_nuxt/img/rsj-logo-claim-desktop.beb322c.png" group-title="Switzerland",Radio Suisse Jazz
@@ -321,9 +323,9 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fliverd102fm.rbsdirect.com
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.laut.fm%2Fghostdog
 #EXTINF:-1 tvg-logo="https://www.radio.net/300/topblues.png" group-title="The United States Of America",TopBlues
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fus3.internet-radio.com%3A8342%2F
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice Piano Blues Boogie Woogie
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A8002%2Fpianoblues
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hSP42CX.jpg" group-title="The Russian Federation",Radio Caprice Piano Blues / Boogie-Woogie
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A8002%2Fpianoblues
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice Piano Blues Boogie Woogie
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A8002%2Fpianoblues
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",DrGnu - Wacken Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreams.radiobob.de%2Fbob-wacken%2Fmp3-192%2Fmediaplayer
@@ -497,6 +499,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fs30.myradiostream.com%3A31
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fconectperu.com%3A7003%2Fstream%3Ficy%3Dhttp
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The United States Of America",KOZT The Coast FM HLS
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.amperwave.net%2Fmanifest%2Fcaradio-koztfmaac-hlsc3.m3u8
+#EXTINF:-1 tvg-logo="https://www.controradio.it/wp-content/uploads/2021/09/cropped-favicon-32x32.png" group-title="Italy",Controradio
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fs4.yesstreaming.net%3A17199%2Fstream
 #EXTINF:-1 tvg-logo="https://oxv3e3.p3cdn2.secureserver.net/wp-content/themes/wumb/images/favicon.png" group-title="The United States Of America",WUMB Blues 24/7 Music Stream
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fwumb.streamguys1.com%2Fwumb919st
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice Texas Blues
@@ -505,8 +509,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A8002%2Ftexa
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fs5.radio.co%2Fsd515b7b34%2Flisten
 #EXTINF:-1 tvg-logo="https://radionw.gr/favicon.ico" group-title="Greece",Nowhere
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fi.streams.ovh%3A9364%2Fstream
-#EXTINF:-1 tvg-logo="https://www.controradio.it/wp-content/uploads/2021/09/cropped-favicon-32x32.png" group-title="Italy",Controradio
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fs4.yesstreaming.net%3A17199%2Fstream
 #EXTINF:-1 tvg-logo="https://candilradio.com/wp-content/uploads/2019/12/roundlogo.gif" group-title="Spain",Candil Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fcandilradio.com%2Fliveradio%2Fcandil%2Flive.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ici_Musique_logo.svg/220px-Ici_Musique_logo.svg.png" group-title="Canada",Radio Canada Ici Musique (Colombie-Britannique-Yukon Grand Nord) Vancouver BC
@@ -527,8 +529,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.canstream.co.uk%3A8
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Feu10.fastcast4u.com%2Fsampotaz
 #EXTINF:-1 tvg-logo="https://www.radio.de/images/broadcasts/e6/e2/25726/c300.png" group-title="Germany",Radio Home of Rock
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fserver24094.streamplus.de%2Fstream.mp3
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The United States Of America",WJAB 90.9 Huntsville AL
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fwjab.streamguys.net%2Flive
 #EXTINF:-1 tvg-logo="http://wesm913.org/apple-touch-icon.png" group-title="The United States Of America",WESM 91.3 Princess Anne MD
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F18123.live.streamtheworld.com%2FWESMFM_SC
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s23389/images/logog.png?t=1656370789000" group-title="The United States Of America",WUMB Blues
@@ -668,7 +668,7 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.live365.com%2Fa
 #EXTINF:-1 tvg-logo="https://wcuw.org/wp-content/uploads/2018/05/wcuw-logo-small4.png" group-title="The United States Of America",WCUW
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fperidot.streamguys.com%3A5490%2Flive
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",furry radio by laut.fm
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ffurryradio.stream.laut.fm%2Ffurryradio%3Fuuid%3D176862c7-18c2-5803-54ac-9167ab083a29%26t302%3D2026-09-21_00-30-00
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ffurryradio.stream.laut.fm%2Ffurryradio%3Ft302%3D2026-09-26_00-32-19%26uuid%3Dfb8b9d5e-92a6-697f-b8d1-cbeb19013b27
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The United States Of America",WSDL 90.7 Rhythm & News
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F26153.live.streamtheworld.com%2FWSDLFM.mp3
 #EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden",Blues

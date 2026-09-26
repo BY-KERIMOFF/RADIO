@@ -61,3 +61,7 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F5.191.241.101%3A8000%2Frah
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.livetv.az%2Fmediamugam
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Azerbaijan",Media fm jazz
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.livetv.az%2Fmediajazz
+#EXTINF:-1 tvg-logo="https://yurdfm.az/logo.png" group-title="Azerbaijan",Yurd fm
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.livetv.az%2Fyurdfm
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s354857/images/logod.jpg?t=639109095420000000" group-title="Azerbaijan",Baku Jazz Radio
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fa9.asurahosting.com%2Flisten%2Fbakujazzredio%2Fradio.mp3
