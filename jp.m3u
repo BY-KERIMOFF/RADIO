@@ -153,10 +153,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradio.jphip.com%3A8800%2F
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flisten.nekonetwork.moe%3A8400%2Fanime.mp3
 #EXTINF:-1 tvg-logo="https://stream.gensokyoradio.net/images/logo.png" group-title="Japan",Gensokyo Radio (Enhanced)
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.gensokyoradio.net%2F3
-#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="Japan",NHK WORLD RADIO 11
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmaster.nhkworld.jp%2Fnhkworld-radio%2Fplaylist%2Fgs2%2Flive.m3u8
 #EXTINF:-1 tvg-logo="https://www.stereoanime.com/favicon.ico" group-title="Japan",stereo anime
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.stereoanime.com%2Flisten%2Fstereoanime%2F128
+#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="Japan",NHK WORLD RADIO 11
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmaster.nhkworld.jp%2Fnhkworld-radio%2Fplaylist%2Fgs2%2Flive.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Japan",Kawaii Anime Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F158.69.227.214%3A8137%2Fstream
 #EXTINF:-1 tvg-logo="https://stream.gensokyoradio.net/images/logo.png" group-title="Japan",Gensokyo Radio (OGG)

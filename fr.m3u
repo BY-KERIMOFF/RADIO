@@ -109,10 +109,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Feurope2.lmn.fm%2Feurope2.m
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Faudio.bfmtv.com%2Fbfmradio_128.mp3
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="France",Jazz Radio Piano Jazz
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fjzr-piano.ice.infomaniak.ch%2Fjzr-piano.mp3
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/urbanhit/images/favicon.vnd.microsoft.icon" group-title="France",Urban Hit Maroc
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Furbanhitrai.ice.infomaniak.ch%2Furbanhitrai.mp3
 #EXTINF:-1 tvg-logo="https://www.morow.com/favicon.ico" group-title="France",Morow Prog Rock Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.fr.morow.com%3A8080%2Fmorow_hi.aacp
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/urbanhit/images/favicon.vnd.microsoft.icon" group-title="France",Urban Hit Maroc
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Furbanhitrai.ice.infomaniak.ch%2Furbanhitrai.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Chante France 70's
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.chantefrance.com%2Fcf-70
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/France_Inter_logo.svg" group-title="France",France Inter
@@ -283,10 +283,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Feurope2.lmn.fm%2Feurope2-
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fice.creacast.com%2Fradio-courtoisie
 #EXTINF:-1 tvg-logo="http://www.beurfm.net/favicon.ico" group-title="France",Beur FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fbroadcast.infomaniak.ch%2Fbeurfm-high.aac
-#EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="France",Jazz Radio Contemporary Jazz
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fjazz-wr05.ice.infomaniak.ch%2Fjazz-wr05-128.mp3
 #EXTINF:-1 tvg-logo="http://ecouter.lesindesradios.fr/logos/orange207.png" group-title="France",Vibration 80's
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fvibration80s.ice.infomaniak.ch%2Fvibration80s.mp3
+#EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="France",Jazz Radio Contemporary Jazz
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fjazz-wr05.ice.infomaniak.ch%2Fjazz-wr05-128.mp3
 #EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="France",Allzic Radio Chill Out
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fallzic53.ice.infomaniak.ch%2Fallzic53.mp3
 #EXTINF:-1 tvg-logo="https://www.radiofrance.fr/s3/cruiser-production/2023/03/3a1422a4-6f1f-4e17-874c-bad21e67f39b/300x300_sc_fip-avatar.jpg" group-title="France",FIP (no pub)
@@ -331,10 +331,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fallzic43.ice.infomaniak.ch
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fmfm.ice.infomaniak.ch%2Fmfm-128.mp3
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="France",Jazz Radio Jazzy French
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fjazz-wr18.ice.infomaniak.ch%2Fjazz-wr18-128.mp3
-#EXTINF:-1 tvg-logo="http://cdn-rfm.lanmedia.fr/apple-touch-icon-120x120.png" group-title="France",RFM - La Radio Couleur
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.rfm.fr%2Frfm-wr3.aac
 #EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="France",Allzic Radio Blues
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fallzic09.ice.infomaniak.ch%2Fallzic09.mp3
+#EXTINF:-1 tvg-logo="http://cdn-rfm.lanmedia.fr/apple-touch-icon-120x120.png" group-title="France",RFM - La Radio Couleur
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.rfm.fr%2Frfm-wr3.aac
 #EXTINF:-1 tvg-logo="http://galaxie-radio1.radio-website.com/upload/578f3bce151616.43092430.ico" group-title="France",Galaxie New Wave
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fwww.radioking.com%2Fplay%2Fgalaxienewwave
 #EXTINF:-1 tvg-logo="https://www.rfi.fr/apple-touch-icon.png" group-title="France",RFI Tieng Viet
@@ -537,10 +537,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radiofrance.fr%2Ff
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplay.radioking.io%2Ffm80funkymusic%2F523739
 #EXTINF:-1 tvg-logo="https://www.allzicradio.com/favicon.ico" group-title="France",Allzic Radio 50s
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fallzic29.ice.infomaniak.ch%2Fallzic29.mp3
-#EXTINF:-1 tvg-logo="https://generations.fr/apple-touch-icon-120x120.png" group-title="France",Generations Rap U.S
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fgenerationfm-underground.ice.infomaniak.ch%2Fgenerationfm-underground-high.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Radio Espérance Louange
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fesperance.streamakaci.com%2Flouange.mp3
+#EXTINF:-1 tvg-logo="https://generations.fr/apple-touch-icon-120x120.png" group-title="France",Generations Rap U.S
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fgenerationfm-underground.ice.infomaniak.ch%2Fgenerationfm-underground-high.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Tonic radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fhit-sport.ice.infomaniak.ch%2Fhit-sport-high.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Crooner Radio Legends
@@ -557,12 +557,12 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fesperance.streamakaci.com
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradioscooplyon.ice.infomaniak.ch%2Fradioscoop-lyon-128.mp3
 #EXTINF:-1 tvg-logo="https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/apple-icon-114x114.png" group-title="France",Radio Vaticana Francais
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.vaticannews.va%2Fstream-fr
+#EXTINF:-1 tvg-logo="https://img.nrj.fr/J6jlakQsQ2siRzCzCI_2IDCQj1E=/80x80/https%3A%2F%2Fplayers.nrjaudio.fm%2Flive-metadata%2Fplayer%2Fimg%2Fplayer-files%2Fnosta%2Flogos%2F640x640%2FP_Nostalgie_Premium_Logo_2023.png" group-title="France",Nostalgie HQ
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.nrjaudio.fm%2Foua8a3w2dqao%3Forigine%3Dplayernostalgie%26aw_0_req.userConsentV2%3D%26aw_0_1st.station%3D
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/oui-fm/images/favicon.ico" group-title="France",OUI FM ROCK INDÉ
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fouifm5.ice.infomaniak.ch%2Fouifm5.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",France Musique La B.O.
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.radiofrance.fr%2Ffrancemusiquelabo-hifi.aac
-#EXTINF:-1 tvg-logo="https://img.nrj.fr/J6jlakQsQ2siRzCzCI_2IDCQj1E=/80x80/https%3A%2F%2Fplayers.nrjaudio.fm%2Flive-metadata%2Fplayer%2Fimg%2Fplayer-files%2Fnosta%2Flogos%2F640x640%2FP_Nostalgie_Premium_Logo_2023.png" group-title="France",Nostalgie HQ
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.nrjaudio.fm%2Foua8a3w2dqao%3Forigine%3Dplayernostalgie%26aw_0_req.userConsentV2%3D%26aw_0_1st.station%3D
 #EXTINF:-1 tvg-logo="https://www.radioespace.com/apple-touch-icon-120x120.png" group-title="France",Espace Dance 90
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fespace-disco.ice.infomaniak.ch%2Fespace-disco-high.aac
 #EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="France",Allzic Jazz Lounge
@@ -573,10 +573,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fgene-wr11.ice.infomaniak.c
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fwebradio1.ice.infomaniak.ch%2Fwebradio4-128.mp3
 #EXTINF:-1 tvg-logo="https://www.rfi.fr/apple-touch-icon.png" group-title="France",RFI Russia
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frfiukraine.ice.infomaniak.ch%2Frfiukraine-96.mp3
-#EXTINF:-1 tvg-logo="https://www.jazzradio.fr/media/radio/thumb/180x180_electro-swing.png" group-title="France",Jazz Radio Electro Swing
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fjazz-wr04.ice.infomaniak.ch%2Fjazz-wr04-64.aac%3Fi%3D67090
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/urbanhit/images/favicon.vnd.microsoft.icon" group-title="France",Urban afro
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Furbanhitblack.ice.infomaniak.ch%2Furbanhitblack128.mp3
+#EXTINF:-1 tvg-logo="https://www.jazzradio.fr/media/radio/thumb/180x180_electro-swing.png" group-title="France",Jazz Radio Electro Swing
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fjazz-wr04.ice.infomaniak.ch%2Fjazz-wr04-64.aac%3Fi%3D67090
 #EXTINF:-1 tvg-logo="https://www.francetvinfo.fr/assets/common/images/pwa/ios/120-5487caf3.png" group-title="France",France Info
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.radiofrance.fr%2Ffranceinfo-hifi.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",VIRGIN RADIO FRANCE La Rock Station
@@ -611,10 +611,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficecast.rtl.fr%2Frtl2-1-4
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fouifmrock90s.ice.infomaniak.ch%2Fouifmnineties.mp3
 #EXTINF:-1 tvg-logo="https://www.france24.com/favicon-194x194.png" group-title="France",France24 Français
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstatic.france24.com%2Flive%2FF24_FR_LO_HLS%2Flive_audio.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s262538/images/logod.png?t=636966437370000000" group-title="France",Fip Monde
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fdirect.fipradio.fr%2Flive%2Ffipworld-hifi.aac
 #EXTINF:-1 tvg-logo="http://www.radio6.fr/images/apple-touch-icon.png" group-title="France",Radio 6 Calais
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradio6-calais.ice.infomaniak.ch%2Fradio6-calais-128.mp3
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s262538/images/logod.png?t=636966437370000000" group-title="France",Fip Monde
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fdirect.fipradio.fr%2Flive%2Ffipworld-hifi.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Canal Breizh
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fcast.canalbreizh.bzh%2Fcanalbreizh-hd-mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",B4B CLUB DANCE OFFICIAL
@@ -683,12 +683,12 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Feurope2.lmn.fm%2Fvr-wr2.m
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio4.vip-radios.fm%3A18054%2Fstream-128kmp3-BuddhaBeach
 #EXTINF:-1 tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" group-title="France",M Radio 100% Céline Dion
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fmfmwr-023.ice.infomaniak.ch%2Fmfmwr-023.mp3
+#EXTINF:-1 tvg-logo="https://api2.frequence3.net/static/img/stations/horizontal/frequence3gold.png" group-title="France",Frequence 3 Gold FLAC
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ffrequence3.net-radio.fr%2Ffrequence3gold.flac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",VIP-Radios - Relax Zone
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F178.32.111.41%3A8045%2Fstream-128kmp3-RelaxZone
 #EXTINF:-1 tvg-logo="https://www.croonerradio.fr/favicon.ico" group-title="France",Crooner Radio Swing 
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fcroonerradio_swing.ice.infomaniak.ch%2Fcroonerradio-swing-midfi.mp3
-#EXTINF:-1 tvg-logo="https://api2.frequence3.net/static/img/stations/horizontal/frequence3gold.png" group-title="France",Frequence 3 Gold FLAC
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ffrequence3.net-radio.fr%2Ffrequence3gold.flac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Radio Neptune
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.infini.fr%3A8000%2Fneptune
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",432hz Radio
@@ -799,10 +799,12 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fallzic41.ice.infomaniak.ch
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Frva.ice.infomaniak.ch%2Frva-high.mp3
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/favicons/apple-touch-icon-180x180.png" group-title="France",France Bleu Loire Océan
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fdirect.francebleu.fr%2Flive%2Ffbloireocean-midfi.mp3
-#EXTINF:-1 tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" group-title="France",mfm nouvelle scène
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fmfmwr-005.ice.infomaniak.ch%2Fmfmwr-005.mp3
 #EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange326.png" group-title="France",Latina love
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flatinalove.ice.infomaniak.ch%2Flatinalove.mp3
+#EXTINF:-1 tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" group-title="France",mfm nouvelle scène
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fmfmwr-005.ice.infomaniak.ch%2Fmfmwr-005.mp3
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",FREQUENCE 3 - DANCE FLAC [Powered by IKOULA] - M2 Club
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fonair.net-radio.fr%2Ffrequence3dance.flac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Classic FM France
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fclassicfm.ice.infomaniak.ch%2Fclassic-fm.mp3
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/oui-fm/images/favicon.ico" group-title="France",OUI FM CLASSIC ROCK
@@ -811,8 +813,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fouifm3.ice.infomaniak.ch%
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fdirect.fipradio.fr%2Flive%2Ffipelectro-hifi.aac
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/France_Inter_logo_2021.svg" group-title="France",France Inter
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficecast.radiofrance.fr%2Ffranceinter-hifi.aac
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",FREQUENCE 3 - DANCE FLAC [Powered by IKOULA] - M2 Club
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fonair.net-radio.fr%2Ffrequence3dance.flac
 #EXTINF:-1 tvg-logo="http://ecouter.lesindesradios.fr/logos/orange206.png" group-title="France",Vibration 2000
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fvibration2000.ice.infomaniak.ch%2Fvibration2000.mp3
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/vibration/images/favicon.vnd.microsoft.icon" group-title="France",Vibration 90's
@@ -859,10 +859,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradioespace.ice.infomaniak
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmbs.ice.infomaniak.ch%2Fmbs-128.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Radio Espérance Musique Sacrée
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fesperance.streamakaci.com%2Fmusique.mp3
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Bide et Musique
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frelay2.bide-et-musique.com%3A9143%2F
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",MOROW [AAC+ 64k]
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.fr.morow.com%3A8080%2Fmorow_med.aacp
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Bide et Musique
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frelay2.bide-et-musique.com%3A9143%2F
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Crooner Radio American
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fcroonerradio_american.ice.infomaniak.ch%2Fcroonerradio-american-midfi.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",JAZZ RADIO Blues
@@ -897,10 +897,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fallzic04.ice.infomaniak.ch
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradios.topymedia.com%3A8052%2Fstream%2F%3B.mp3
 #EXTINF:-1 tvg-logo="https://www.croonerradio.fr/favicon.ico" group-title="France",Crooner Radio Lounge
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fcroonerradio_lounge.ice.infomaniak.ch%2Fcroonerradio-lounge-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.virageradio.com/apple-touch-icon-120x120.png" group-title="France",Virage Radio
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fvirageradio.ice.infomaniak.ch%2Fvirageradio-high.mp3
 #EXTINF:-1 tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" group-title="France",M Radio 100% Enfoirés
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fmfmwr-011.ice.infomaniak.ch%2Fmfmwr-011.mp3
+#EXTINF:-1 tvg-logo="https://www.virageradio.com/apple-touch-icon-120x120.png" group-title="France",Virage Radio
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fvirageradio.ice.infomaniak.ch%2Fvirageradio-high.mp3
 #EXTINF:-1 tvg-logo="https://www.virageradio.com/apple-touch-icon-120x120.png" group-title="France",Virage Radio Metal
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fvirage-radio-metal.ice.infomaniak.ch%2Fvirage-radio-metal.aac%3Fi%3D65804
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Sud Radio
@@ -909,14 +909,14 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fice.creacast.com%2Fsudradi
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fjazzblues.ice.infomaniak.ch%2Fjazzblues-high.mp3
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/favicons/apple-touch-icon-180x180.png" group-title="France",France Bleu Auxerre
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fdirect.francebleu.fr%2Flive%2Ffbauxerre-midfi.mp3
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",FRANCE INFO
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.radiofrance.fr%2Ffranceinfo-hifi.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",France Bleu Armorique
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fdirect.francebleu.fr%2Flive%2Ffbarmorique-midfi.mp3
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/favicons/apple-touch-icon-180x180.png" group-title="France",France Bleu Lorraine Nord
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fdirect.francebleu.fr%2Flive%2Ffblorrainenord-midfi.mp3
 #EXTINF:-1 tvg-logo="http://www.radio74.org/p/imgs/favicon.ico" group-title="France",Radio74 88.8 MHz
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradio74.ice.infomaniak.ch%2Fradio74.aac
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",FRANCE INFO
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.radiofrance.fr%2Ffranceinfo-hifi.aac
 #EXTINF:-1 tvg-logo="https://www.rootslegacy.fr/images/logo.webp" group-title="France",Roots Legacy Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fl.rootslegacy.fr%2F%3B
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/oui-fm/images/favicon.ico" group-title="France",OUI FM ROCK 60's
@@ -965,12 +965,14 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fallzic21.ice.infomaniak.ch
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fdirect.francebleu.fr%2Flive%2Ffbfrequenzamora-midfi.mp3
 #EXTINF:-1 tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" group-title="France",M Radio French Touch
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fmfmwr-003.ice.infomaniak.ch%2Fmfmwr-003.mp3
+#EXTINF:-1 tvg-logo="https://www.lesentreprisesdupaysage.fr/content/uploads/2022/03/france_inter_logo_2021-svg-1024x1024.png" group-title="France",France Inter
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radiofrance.fr%2Ffranceinter%2Ffranceinter_hifi.m3u8
+#EXTINF:-1 tvg-logo="https://www.radiorva.com/apple-touch-icon-120x120.png" group-title="France",RVA radio
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frva.ice.infomaniak.ch%2Frva-high.mp3
 #EXTINF:-1 tvg-logo="http://galaxie-radio1.radio-website.com/upload/578f3bce151616.43092430.ico" group-title="France",Galaxie Vintage
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fwww.radioking.com%2Fplay%2Fgalaxievintage
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Radio VINCI Autoroutes 107.7 Côte d'Azur
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstr0.creacast.com%2Fradio_vinci_autoroutes_7
-#EXTINF:-1 tvg-logo="https://www.radiorva.com/apple-touch-icon-120x120.png" group-title="France",RVA radio
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frva.ice.infomaniak.ch%2Frva-high.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Radio grenouille
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.radiogrenouille.com%3A8443%2Flive
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Kohina
@@ -981,8 +983,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.radiofrance.fr%2Ff
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fallzic25.ice.infomaniak.ch%2Fallzic25.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Radio Zinzine
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radiozinzine.org%3A8443%2F3
-#EXTINF:-1 tvg-logo="https://www.lesentreprisesdupaysage.fr/content/uploads/2022/03/france_inter_logo_2021-svg-1024x1024.png" group-title="France",France Inter
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radiofrance.fr%2Ffranceinter%2Ffranceinter_hifi.m3u8
 #EXTINF:-1 tvg-logo="https://generations.fr/apple-touch-icon-120x120.png" group-title="France",Generations Booba
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fgenerations-booba.ice.infomaniak.ch%2Fgenerations-booba.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Puls Radio
@@ -1021,10 +1021,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fallzic35.ice.infomaniak.ch
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fdirect.mouv.fr%2Flive%2Fmouv-midfi.mp3
 #EXTINF:-1 tvg-logo="https://www.newmorning.com/images/apple-touch-icon-114x114.png" group-title="France",New Morning Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flisten.radioking.com%2Fradio%2F605%2Fstream%2F2195
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rnb.png" group-title="France",Generations R&B
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fgenerationfm-slowjam.ice.infomaniak.ch%2Fgenerationfm-slowjam-high.aac
 #EXTINF:-1 tvg-logo="https://www.lesonunique.com/datasun/images_flux/logos/SD/classique.png" group-title="France",SUN Classique
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdiffusion.lafrap.fr%2Fsun-classique.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rnb.png" group-title="France",Generations R&B
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fgenerationfm-slowjam.ice.infomaniak.ch%2Fgenerationfm-slowjam-high.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Fun Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficecast.funradio.fr%2Ffun-1-44-128
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/favicons/apple-touch-icon-180x180.png" group-title="France",France Bleu Vaucluse
@@ -1055,18 +1055,18 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fcroonerradio_elvispresley.
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.rjrradio.fr%2Frjr.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",COMALA Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fwww.radioking.com%2Fplay%2Fsupag
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Europe1
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.europe1.fr%2Feurope1.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",RTL2
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.rtl2.fr%2Frtl2-1-44-128%3Flisten%3DwebCwsBCggNCQgLDQUGBAcGBg
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Europe1
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.europe1.fr%2Feurope1.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Fréquence 3 - World FLAC
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ffrequence3.net-radio.fr%2Ffrequence3world.flac
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="France",Jazz Radio Reprises
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Freprises.ice.infomaniak.ch%2Freprises-high.mp3
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/73528.v11.png" group-title="France",Blues Café Radio
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmanager4.streamradio.fr%2Fbluescaferadio%3Fx%3D1693763714913
 #EXTINF:-1 tvg-logo="https://www.radiofrance.fr/dist/favicons/logo-120.png" group-title="France",Fip Groove
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fdirect.fipradio.fr%2Flive%2Ffipgroove-hifi.aac
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/73528.v11.png" group-title="France",Blues Café Radio
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmanager4.streamradio.fr%2Fbluescaferadio%3Fx%3D1693763714913
 #EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-freestyle-logo-smartphone.jpg" group-title="France",Generations Freestyle
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fgene-wr09.ice.infomaniak.ch%2Fgene-wr09.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Morow Progressive Rock Radio
@@ -1103,6 +1103,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Faudio.opensky.radio%3A808
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fvir-wr01.ice.infomaniak.ch%2Fvir-wr01.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Impact FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fimpactfm.ice.infomaniak.ch%2Fimpactfm-128.mp3
+#EXTINF:-1 tvg-logo="https://media.info/l/o/6/6812.1503485369.png" group-title="France",Chérie FM
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fcdnradio.streamakaci.com%2Fcheriefm1.mp3
 #EXTINF:-1 tvg-logo="https://www.croonerradio.fr/favicon.ico" group-title="France",Crooner Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdirect.croonerradio.fr%2Fcroonerradio-midfi.mp3
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/favicons/apple-touch-icon-180x180.png" group-title="France",France Bleu Elsass
@@ -1111,12 +1113,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fdirect.francebleu.fr%2Fliv
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream10.xdevel.com%2Faudio12s976748-1798%2Fstream%2Ficecast.audio
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Radio ItaloPower!
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.radioitalopower.com%3A10018%2Fitalopower
-#EXTINF:-1 tvg-logo="https://media.info/l/o/6/6812.1503485369.png" group-title="France",Chérie FM
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fcdnradio.streamakaci.com%2Fcheriefm1.mp3
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.superloustic.com/wp-content/uploads/logo500-2-.png?fit=180%2c180&#038;ssl=1" group-title="France",Superloustic
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fwww.superloustic.com%2Flisten
 #EXTINF:-1 tvg-logo="https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/06/2eb99120-ff28-414d-a805-c354c3967edf/300x300_sc_fi-webradio-c3b2.jpg" group-title="France",France Inter La musique d'Inter Hifi
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficecast.radiofrance.fr%2Ffranceinterlamusiqueinter-hifi.aac
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.superloustic.com/wp-content/uploads/logo500-2-.png?fit=180%2c180&#038;ssl=1" group-title="France",Superloustic
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fwww.superloustic.com%2Flisten
 #EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-newjack-logo-smartphone.png" group-title="France",Generations NewJack
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fgenerations-njs.ice.infomaniak.ch%2Fgenerations-njs.mp3
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s221218q.png" group-title="France",Big Cactus Classic Rock
@@ -1147,10 +1147,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fmontagnefm.ice.infomaniak.
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radiolarzac.org%2Fhls%2Fmaster.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Europe 2 Hits
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Feurope2.lmn.fm%2Fvr-wr4.mp3%3Faw_0_1st.playerid%3DlagardereappVirgin
-#EXTINF:-1 tvg-logo="http://fip.fr/dist/favicons/logo-120.png" group-title="France",Fip Bordeaux
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.radiofrance.fr%2Ffipbordeaux-midfi.mp3%3FID%3D76zqey582k
 #EXTINF:-1 tvg-logo="https://madein80.fr/wp-content/uploads/2020/12/Logo-Made-in-80-V2-blanc-400-ssslog.png" group-title="France",Made in 80
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmadein80.leswebradios.fr%2F
+#EXTINF:-1 tvg-logo="http://fip.fr/dist/favicons/logo-120.png" group-title="France",Fip Bordeaux
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.radiofrance.fr%2Ffipbordeaux-midfi.mp3%3FID%3D76zqey582k
 #EXTINF:-1 tvg-logo="https://www.radioitalopower.com/__ovh/common/img/favicon.ico" group-title="France",Radio ITALOPOWER!
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.deevaradio.net%3A10443%2Fitalopower
 #EXTINF:-1 tvg-logo="https://radiobarbouillots.com/__ovh/common/img/favicon.ico" group-title="France",Radio Barbouillots
@@ -1165,6 +1165,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fsrv2.streaming-ingenierie.
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream9.xdevel.com%2Faudio1s976748-1515%2Fstream%2Ficecast.audio
 #EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/uploads/sites/2/2020/10/NOVACLASSICS_CARD_HD.png?resize=560%2C664&quality=75" group-title="France",RADIO NOVA CLASSICS
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnova-vnt.ice.infomaniak.ch%2Fnova-vnt-128.mp3
+#EXTINF:-1 tvg-logo="https://images.lesindesradios.fr/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/adofm/images/logo_ly42bXnqql.png" group-title="France",Ado
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstart-adofm.ice.infomaniak.ch%2Fstart-adofm-high.mp3
 #EXTINF:-1 tvg-logo="https://www.fm80.fr/wafx_res/Images/0-230-FM80_LogoSite_230x801.png" group-title="France",FM 80 FUNKY MUSIC
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplay.radioking.io%2Ffm80funkymusic
 #EXTINF:-1 tvg-logo="http://www.allzicradio.com/favicon.ico" group-title="France",Allzic Radio Enfoirés
@@ -1173,14 +1175,12 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fallzic12.ice.infomaniak.ch
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficecast.radiofrance.fr%2Ffip-hifi.aac
 #EXTINF:-1 tvg-logo="http://www.radiogalere.org/favicon.ico" group-title="France",Radio Galère
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fwww.radiogalere.org%3A8080%2Fgalere.mp3
-#EXTINF:-1 tvg-logo="https://images.lesindesradios.fr/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/adofm/images/logo_ly42bXnqql.png" group-title="France",Ado
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstart-adofm.ice.infomaniak.ch%2Fstart-adofm-high.mp3
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Rock&Folk Radio
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frockfolk.ice.infomaniak.ch%2Frockfolk.mp3%3Ft%3D1641651522250
 #EXTINF:-1 tvg-logo="https://www.frequence-radio.com/favicon.ico" group-title="France",adofm
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstart-adofm.ice.infomaniak.ch%2Fstart-adofm-high.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Radio Sud Plus
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fsrv1.coollabel-productions.com%3A8040%2F%3B
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Rock&Folk Radio
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frockfolk.ice.infomaniak.ch%2Frockfolk.mp3%3Ft%3D1641651522250
 #EXTINF:-1 tvg-logo="https://generations.fr/apple-touch-icon-120x120.png" group-title="France",Generations Rohff
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fgeneration-rohff.ice.infomaniak.ch%2Fgeneration-rohff.aac
 #EXTINF:-1 tvg-logo="https://waveradio.fm/wp-content/themes/waveradio/img/favicons/apple-icon-120x120.png" group-title="France",WAVE RADIO 89.8 Hossegor
@@ -1229,12 +1229,12 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ffrequenceplus71.ice.infoma
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fgene-wr09.ice.infomaniak.ch%2Fgene-wr09.mp3
 #EXTINF:-1 tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" group-title="France",M Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fmfm.ice.infomaniak.ch%2Fmfm-128.mp3
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/44175.v11.png" group-title="France",CINEMIX
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fkathy.torontocast.com%3A1825%2Fstream
 #EXTINF:-1 tvg-logo="https://www.odsradio.com/apple-touch-icon-120x120.png" group-title="France",ODS Radio Années 80
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fods-wr01.ice.infomaniak.ch%2Fods-wr01.mp3
 #EXTINF:-1 tvg-logo="https://www.c-lab.fr/apple-icon-120x120.png" group-title="France",C Lab
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.c-lab.fr%3A8001%2Fc-lab
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/44175.v11.png" group-title="France",CINEMIX
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fkathy.torontocast.com%3A1825%2Fstream
 #EXTINF:-1 tvg-logo="https://radiobazarnaom.com/wp-content/uploads/2022/02/cropped-radio-bazarnaom-logo-08-180x180.png" group-title="France",Radio Bazarnaom
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstr20.creacast.com%2Fbazarnaom
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Radio Courtoisie 
@@ -1253,12 +1253,12 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fallzic48.ice.infomaniak.ch
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fdirect.francebleu.fr%2Flive%2Ffbarmorique-midfi.mp3
 #EXTINF:-1 tvg-logo="https://www.le-grigri.com/favicon.ico" group-title="France",Le Grigri
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fwww.radioking.com%2Fplay%2Flegrigri%2F273715
+#EXTINF:-1 tvg-logo="http://www.radio-ihaveadream.com//img/favicon.ico" group-title="France",Radio I Have A Dream
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fwww.radio-ihaveadream.com%3A8000%2F%3Bstream%2F1
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Pulsradio.com/
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast1.pulsradio.com%3A8080%2FpulstranceHD.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Starsystem FM (MAX)
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradiosurle.net%3A8765%2Fstarsystemfm
-#EXTINF:-1 tvg-logo="http://www.radio-ihaveadream.com//img/favicon.ico" group-title="France",Radio I Have A Dream
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fwww.radio-ihaveadream.com%3A8000%2F%3Bstream%2F1
 #EXTINF:-1 tvg-logo="https://www.ouest-track.com/upload/design/5f48d750a06ae6.63157840.png" group-title="France",Ouest Track Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.ouest-track.com%3A9030%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Rire et Chansons Sketches
@@ -1285,26 +1285,26 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flive.radiocampus.org%3A800
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fouifmrockfrancais.ice.infomaniak.ch%2Fouifmrockfrancais.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",#1 Splash Jazz
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fais-sa2.cdnstream1.com%2F2346_128.mp3
+#EXTINF:-1 tvg-logo="https://radioplayer.myradioendirect.fr/public/uploads/radio_img/france-culture/fb_cover.jpg" group-title="France",France Culture
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radiofrance.fr%2Ffranceculture%2Ffranceculture_hifi.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtmuQxXsk4FaNYHUD5IPcExKD0y4EU8OU1rSzpdaIrX-0CrYddUFVaGixVG6WJDz7A5EYjo_UbJ-DSt56f9J5Z0rK4O_JhDCrH2nkc6BViZLmpa9gwh3ZUzyHavUE2Buz_DVrLMbwBX_VKxqxrDLCgV11NeUZmxbI4MTZ0KSkjhoWAePu_j2xXVuhTRA/s1600/Capture%20d%E2%80%99%C3%A9cran_2024-12-19_16-17-59.png" group-title="France",📻 Positively Meditation
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.positivity.radio%2Fpr%2Fposimeditation%2Ficecast.audio
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/favicon-112.png" group-title="France",France Bleu Pays Basque
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fdirect.francebleu.fr%2Flive%2Ffbpaysbasque-midfi.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Rinse France
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio10.pro-fhi.net%2Fradio%2F9041%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Evasion FM Seine-et-Marne Sud
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream1.evasionfm.com%2FSud77
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/favicons/apple-touch-icon-180x180.png" group-title="France",France Bleu Saint-Étienne Loire
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fdirect.francebleu.fr%2Flive%2Ffbstetienne-midfi.mp3
-#EXTINF:-1 tvg-logo="https://musicradio.ai/wp-content/uploads/2025/03/logo_musicradio.jpg" group-title="France",Music Radio
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.musicradio.ai%2Flisten%2Fmusicradio.ai%2Fradio.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/favicon-112.png" group-title="France",France Bleu Pays Basque
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fdirect.francebleu.fr%2Flive%2Ffbpaysbasque-midfi.mp3
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",FIP Jazz (hifi.aac)
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficecast.radiofrance.fr%2Ffipjazz-hifi.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Radio Espérance En Marie
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fesperance.streamakaci.com%2Faufil.mp3
+#EXTINF:-1 tvg-logo="https://musicradio.ai/wp-content/uploads/2025/03/logo_musicradio.jpg" group-title="France",Music Radio
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.musicradio.ai%2Flisten%2Fmusicradio.ai%2Fradio.mp3
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",FIP Jazz (hifi.aac)
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficecast.radiofrance.fr%2Ffipjazz-hifi.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",RCF Lyon
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Frcf.streamakaci.com%2Frcf69.mp3
-#EXTINF:-1 tvg-logo="https://radioplayer.myradioendirect.fr/public/uploads/radio_img/france-culture/fb_cover.jpg" group-title="France",France Culture
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radiofrance.fr%2Ffranceculture%2Ffranceculture_hifi.m3u8
 #EXTINF:-1 tvg-logo="https://images.lesindesradios.fr/fit-in/300x2000/filters:format(webp)/radios/africaradio/radiostream/CkIE3S769N/vignette.png" group-title="France",Africa Radio Coupé Decalé Webradio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fwebradio1.ice.infomaniak.ch%2Fwebradio1-128.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/txk5cnh.jpg" group-title="France",DnBRadio.com - Main Channel (FR Mirror)
@@ -1441,10 +1441,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.skyrock.net%2Fs%2F
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fwww.radioking.com%2Fplay%2Fbrume-campus-lyon%2F546695
 #EXTINF:-1 tvg-logo="https://images.rtl.fr/~c/300v300/rtl/www/1595806-rtl-radio80-1400x1400-copie.jpg" group-title="France",RTL 100% 80
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.m6radio.quortex.io%2FwebpHJPXnXrN7B6J7Q8mcqmxP%2Fwebradio%2Frtl100pc80%2F130%2Faudio-64000%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://www.francetvinfo.fr/assets/common/images/pwa/ios/120-5487caf3.png" group-title="France",France Info
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.radiofrance.fr%2Ffranceinfo-hifi.aac
 #EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/uploads/sites/2/2022/11/Nova-Hip-Hop.png?resize=503%2C503&quality=75" group-title="France",Nova HipHop
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fnova-odn.ice.infomaniak.ch%2Fnova-odn-256.aac
+#EXTINF:-1 tvg-logo="https://www.francetvinfo.fr/assets/common/images/pwa/ios/120-5487caf3.png" group-title="France",France Info
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.radiofrance.fr%2Ffranceinfo-hifi.aac
 #EXTINF:-1 tvg-logo="https://generations.fr/apple-touch-icon-120x120.png" group-title="France",Generations NewJack
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fgenerations-njs.ice.infomaniak.ch%2Fgenerations-njs.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Fly Foot Selecta
@@ -1467,6 +1467,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradioevasion.fr%3A8020%2F
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fjazz-wr06.ice.infomaniak.ch%2Fjazz-wr06-128.mp3
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/vibration/images/favicon.vnd.microsoft.icon" group-title="France",Vibration Lounge
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fvibrationlounge.ice.infomaniak.ch%2Fvibrationlounge.mp3
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",HITWEST
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.rcs.revma.com%2Fnvsuedfwcy3vv
 #EXTINF:-1 tvg-logo="https://alpesdusud.laradioplus.com/apple-touch-icon-120x120.png" group-title="France",Là La radio (La Radio Plus )
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flalaradio.ice.infomaniak.ch%2Flalaradio-high.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",France Info
@@ -1479,8 +1481,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.radioking.com%2Fra
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream1.addictradio.net%2Faddictlounge.mp3
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/media/radio/thumb/180x180_nouveautes-soul.webp" group-title="France",Jazz
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fjazz-wr18.ice.infomaniak.ch%2Fjazz-wr18-128.mp3
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",HITWEST
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.rcs.revma.com%2Fnvsuedfwcy3vv
 #EXTINF:-1 tvg-logo="https://www.hits1radio.com/wp-content/uploads/2019/03/cropped-1024-5-180x180.png" group-title="France",Hits 1
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio12.pro-fhi.net%2Flive%2FHits%25201%2520radio
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/favicon-112.png" group-title="France",France Bleu Béarn
@@ -1565,14 +1565,14 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fnova-reggae.ice.infomania
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradiosurle.net%3A8765%2Fradiogerard
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Frequence3
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fice.stream.frequence3.net%2Ffrequence3-256.mp3
+#EXTINF:-1 tvg-logo="https://www.radioclapas.fr/wp-content/uploads/2015/10/favicon.png" group-title="France",Radio Clapas
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstations.radioclapas.fr%2Fradio%2F8130%2Fradio.mp3
 #EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/uploads/sites/2/2020/10/NOVALANUIT_CARD_HD.png?resize=560%2C664&quality=75" group-title="France",RADIO NOVA LA NUIT
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnova-ln.ice.infomaniak.ch%2Fnova-ln-128.mp3
 #EXTINF:-1 tvg-logo="https://uk.radio.net/images/broadcasts/26/1e/186496/1/c300.png" group-title="France",Algorythme UK Garage
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fukg.algorythmeradio.com%2Fstream
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/vibration/images/favicon.vnd.microsoft.icon" group-title="France",Vibration
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fvibration.ice.infomaniak.ch%2Fvibration-high.mp3
-#EXTINF:-1 tvg-logo="https://www.radioclapas.fr/wp-content/uploads/2015/10/favicon.png" group-title="France",Radio Clapas
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstations.radioclapas.fr%2Fradio%2F8130%2Fradio.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",France Musique
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.radiofrance.fr%2Ffrancemusique-hifi.aac
 #EXTINF:-1 tvg-logo="https://www.radiolabelleaventure.com/wp-content/uploads/2025/05/cropped-logo-transparent-192x192.png" group-title="France",Radio La Belle Aventure
@@ -1611,6 +1611,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fvirage-radio-metal.ice.inf
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.deevaradio.net%3A10443%2Fitalopower
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Phare FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstr0.creacast.com%2Fpharefm
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/FIP_logo_2021.svg/960px-FIP_logo_2021.svg.png" group-title="France",FIP (hifi + metadata)
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradio-metadata.fr%3A8000%2Ffip
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",FIP Cultes
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radiofrance.fr%2Ffipcultes%2Ffipcultes.m3u8%3Fid%3DradiofranceBose
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/tBdigJT2rb/vignette.png" group-title="France",OUI FM BRING THE NOISE
@@ -1633,8 +1635,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radiofrance.fr%2Ff
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradioespace.ice.infomaniak.ch%2Fradioespace-high.aac
 #EXTINF:-1 tvg-logo="https://zeno.fm/favicon.ico" group-title="France",dub🌴'issimo
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.zeno.fm%2Fbq72xm4z61zuv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/FIP_logo_2021.svg/960px-FIP_logo_2021.svg.png" group-title="France",FIP (hifi + metadata)
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradio-metadata.fr%3A8000%2Ffip
 #EXTINF:-1 tvg-logo="https://www.lesonunique.com/favicon.ico" group-title="France",SUN Jazz
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdiffusion.lafrap.fr%2Fsun-jazz.mp3
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/urbanhit/images/favicon.vnd.microsoft.icon" group-title="France",Urban Hit
@@ -1655,6 +1655,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fhaute-tension.ice.infomani
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.radioking.com%2Fradio%2F7551%2Fstream%2F385141
 #EXTINF:-1 tvg-logo="https://www.radiofrance.fr/dist/favicons/franceinter/favicon.png" group-title="France",FranceInter
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radiofrance.fr%2Ffranceinter%2Ffranceinter_hifi.m3u8%3Fid%3Dradiofrance
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",KISS Pop Rock
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradiola.me%2Flisten%2Fkiss_pop_rock%2Fradio.mp3
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/vibration/images/favicon.vnd.microsoft.icon" group-title="France",Vibration Love
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fvibrationlove.ice.infomaniak.ch%2Fvibrationlove.mp3
 #EXTINF:-1 tvg-logo="http://db.radioline.fr/pictures/radio_222037a8ef3cfc3a646f8e5def6681d9/logo200.jpg?size=200" group-title="France",Radio Octopus
@@ -1673,8 +1675,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream2.radio666.net%2Fre
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radiofrance.fr%2Ffipcultes%2Ffipcultes_hifi.m3u8
 #EXTINF:-1 tvg-logo="https://www.allzicradio.com/favicon.ico" group-title="France",Allzic Radio Zen
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fallzic20.ice.infomaniak.ch%2Fallzic20.mp3
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",KISS Pop Rock
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradiola.me%2Flisten%2Fkiss_pop_rock%2Fradio.mp3
 #EXTINF:-1 tvg-logo="https://www.maxifrance.radio/wp-content/uploads/2023/03/cropped-logo-512.jpg" group-title="France",Maxi France radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.maxifrance.radio%2Fstream
 #EXTINF:-1 tvg-logo="https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/06/2eb99120-ff28-414d-a805-c354c3967edf/300x300_sc_fi-webradio-c3b2.jpg" group-title="France",France Inter La musique d'Inter
@@ -1737,6 +1737,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fhyperion.lapopulai.re%3A80
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Furbanhitrai.ice.infomaniak.ch%2Furbanhitrai.mp3
 #EXTINF:-1 tvg-logo="http://www.allzicradio.com/favicon.ico" group-title="France",Allzic Radio 0/4 ans
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fallzic14.ice.infomaniak.ch%2Fallzic14.mp3
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/latina/images/favicon.ico" group-title="France",Latina Bachata
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstart-latina.ice.infomaniak.ch%2Fstart-latina-high.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",FIP
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficecast.radiofrance.fr%2Ffip-hifi.aac
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/media/radio/thumb/160x160_jazz-manouche.webp" group-title="France",Jazzradio.fr Jazz Manouche
@@ -1749,8 +1751,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F91.121.51.19%3A8044%2F
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F5.135.177.61%3A8000%2F%3Bstream%2F1
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",LOVELY
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flovely.ice.infomaniak.ch%2Flovely-128.mp3
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/latina/images/favicon.ico" group-title="France",Latina Bachata
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstart-latina.ice.infomaniak.ch%2Fstart-latina-high.mp3
 #EXTINF:-1 tvg-logo="https://grandgrenoble.alpes1.com/apple-touch-icon-120x120.png" group-title="France",Alpes 1 Grenoble
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fbroadcast.infomaniak.ch%2Falpes1grenoble-high.mp3
 #EXTINF:-1 tvg-logo="http://www.radio-ihaveadream.com/favicon.ico" group-title="France",I have a dream
@@ -1831,14 +1831,14 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.radiofrance.fr%2Ff
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fwww.droogies.org%3A8000%2Fstream
 #EXTINF:-1 tvg-logo="https://cdn.m40radio.fr/wp-content/uploads/radio-m40-eurodance-370x370.webp" group-title="France",M40 Eurodance
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.m40radio.fr%2Flisten%2Fm40-eurodance%2Fm40-eurodance-128.mp3
+#EXTINF:-1 tvg-logo="https://slowlyradio.com/wp-content/uploads/2023/06/slowlyradio-iconlogo_v-2_4.png" group-title="France",Slowly Radio
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.slowlyradio.com%2F
 #EXTINF:-1 tvg-logo="https://resize-europe1.lanmedia.fr/f/webp/r/622,311,forcex,center-middle/img/var/europe1/storage/images/europe1/culture/nouveau-ecoutez-europe-musique-4095053/58235425-1-fre-FR/NOUVEAU-Ecoutez-Europe-Musique.png" group-title="France",Europe 1 Musique
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fwr.lmn.fm%2Fe1-wr5.aac%3Faw_0_1st.playerid%3DlgrdnwsRadioplayer
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Kiss West Coast
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fkisswestcoast.ice.infomaniak.ch%2Fkisswestcoast-64.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",LaMellotron
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.radioking.com%2Fradio%2F477719%2Fstream%2F534044
-#EXTINF:-1 tvg-logo="https://slowlyradio.com/wp-content/uploads/2023/06/slowlyradio-iconlogo_v-2_4.png" group-title="France",Slowly Radio
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.slowlyradio.com%2F
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/images/favicon.ico" group-title="France",OÜI FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fouifm.ice.infomaniak.ch%2Fouifm-high.aac
 #EXTINF:-1 tvg-logo="https://medias.preprod.bocir.fr/t:app(web)/t:r(unknown)/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/toulousefm/images/logo_kQmQJ1D8OB.png" group-title="France",Toulouse FM
@@ -2021,8 +2021,12 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficecastlb.pulsradio.com%2
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.radiofrance.fr%2Ffrancemusique-hifi.aac
 #EXTINF:-1 tvg-logo="https://www.radiofrance.fr/dist/favicons/logo-120.png" group-title="France",FranceCulture
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radiofrance.fr%2Ffranceculture%2Ffranceculture_hifi.m3u8%3Fid%3Dradiofrance
+#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/uploads/sites/2/2020/10/Web-radio--Nova-Classics.png?resize=503%2C503&quality=75" group-title="France",NOVA CLASSICS
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnova-vnt.ice.infomaniak.ch%2Fnova-vnt-256.aac
 #EXTINF:-1 tvg-logo="https://www.atlantica-radio.fr/storage/2017/08/cropped-logo_altantica_radio-180x180.png" group-title="France",.. Atlantica Radio.. 
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradios.topymedia.com%3A8000%2Fstream%2F%3B.mp3
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",ABC Lounge France
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstr1.openstream.co%2F589
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",France Culture (sans pub)
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radiofrance.fr%2Ffranceculture%2Ffranceculture.m3u8%3Fid%3DradiofranceBose
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/centpourcent/images/favicon.ico" group-title="France",100% Radio Albi
@@ -2031,12 +2035,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F100radio-albi.ice.infomani
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fpuma.streemlion.com%3A5505%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",B2B dance club
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Feu10.fastcast4u.com%3A8120%2F
-#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/uploads/sites/2/2020/10/Web-radio--Nova-Classics.png?resize=503%2C503&quality=75" group-title="France",NOVA CLASSICS
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnova-vnt.ice.infomaniak.ch%2Fnova-vnt-256.aac
 #EXTINF:-1 tvg-logo="http://www.fcradio.fr/upload/5fe0af3ae23396.63174527.ico" group-title="France",FC Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ffcradio.ice.infomaniak.ch%2Ffcradio-128.mp3
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",ABC Lounge France
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstr1.openstream.co%2F589
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjTv4bYwmRWORccw4X-4Uv7nRsWg9-dWxvvTceRT7MqMaK6c8KS_n_iqet7hMwg3V6uspvj3iUG_3Nl19_rC49PF3btRucbk2fXVHglfO1U09ddwuD8POvSShyVXSn86HAQLK0r6J4x37bE32LK19egO7R3VAOcYz0A5JSQE7f-4HO8dMwX5zSvH8b/s1600/Capture%20d%E2%80%99%C3%A9cran_2024-12-08_08-45-54.png" group-title="France",📻 Reccord Trance Hits
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradiorecord.hostingradio.ru%2Ftrancehits96.aacp
 #EXTINF:-1 tvg-logo="https://zaizai-radio.org/favicon.ico" group-title="France",Radio Zaï Zaï
@@ -2057,6 +2057,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdiffusion.lafrap.fr%2Fsun
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fmfm-thema.ice.infomaniak.ch%2Fmfm-thema.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Radio FMR
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fsmeuh.org%3A8000%2Fradio-fmr.mp3
+#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-reggea-400x496-1-t-1006x1006.png" group-title="France",Nova Reggae
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnova-reggae.ice.infomaniak.ch%2Fnova-reggae-256.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",France Inter
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radiofrance.fr%2Ffranceinter%2Ffranceinter_hifi.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiopresence.com/plugins/theme_presence/img/favicon.ico" group-title="France",Radio Présence Toulouse
@@ -2083,8 +2085,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Falouetteleclub.ice.infoma
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fdirect.radiopresence.com%2Fradio-presence-lourdes
 #EXTINF:-1 tvg-logo="http://img.sedoparking.com/templates/logos/sedo_logo.png" group-title="France",Radio Lux
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F5.39.71.39%3A8004%2Fstream
-#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-reggea-400x496-1-t-1006x1006.png" group-title="France",Nova Reggae
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnova-reggae.ice.infomaniak.ch%2Fnova-reggae-256.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Radio Pikez !
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fecouter.pikez.space%3A8000%2Fpikez_hd
 #EXTINF:-1 tvg-logo="https://www.croonerradio.fr/wp-content/uploads/2023/02/LOGO-CROONER-RADIO-WR-CELINE-DION-1.jpg" group-title="France",Crooner Radio Celine Dion
@@ -2121,6 +2121,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradiorecord.hostingradio.
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradio5.pro-fhi.net%2Fradio%2F9027%2Fstream.mp3
 #EXTINF:-1 tvg-logo="https://www.lesonunique.com/favicon.ico" group-title="France",SUN Jazz
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fdiffusion.lafrap.fr%2Fsun-jazz.mp3
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Hotmix 80
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.hotmixradio.com%2Fhotmix-80-en-mp3%3Fprovider%3Dradiobrowser
 #EXTINF:-1 tvg-logo="https://www.europe2.fr/wp-content/themes/melty/europeradio/assets/images/radio/radio_2001.png" group-title="France",Europe 2 New
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Feurope2.lmn.fm%2Fvr-wr1.mp3%3Faw_0_1st.playerid%3DlagardereappVirgin
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Radyoga
@@ -2137,8 +2139,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.radioking.com%2Fra
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.radioking.com%2Fradio%2F251653%2Fstream%2F296545
 #EXTINF:-1 tvg-logo="https://rstlss.com/favicon.ico" group-title="France",RSTLSS
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radiosolution.fr%2Frstlss.mp3
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Hotmix 80
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.hotmixradio.com%2Fhotmix-80-en-mp3%3Fprovider%3Dradiobrowser
 #EXTINF:-1 tvg-logo="https://cdn.hotmixradio.com/hotmix-deep_in_ibz-en-mp3.jpg" group-title="France",Hotmix Deep House
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.hotmixradio.com%2Fhotmix-deep-en-mp3%3Fprovider%3Dradiobrowser
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Virgin Radio Metal
@@ -2196,6 +2196,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radios.bzh%2Fliste
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstr20.creacast.com%2Fbazarnaom
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Radio BIP
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fflux1.radiobip.fr%3A8000%2Flive
+#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-SOUL-400x496-1-t-1006x1006.png" group-title="France",Nova Soul
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnova-soul.ice.infomaniak.ch%2Fnova-soul-256.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Radio Saint Barth
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F2stream.dyndns.org%3A8000%2Frsb
 #EXTINF:-1 tvg-logo="https://static.parastorage.com/client/pfavico.ico" group-title="France",Radio Radio
@@ -2222,8 +2224,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fforum80s.ice.infomaniak.ch
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream-eurodance90.fr%2Fradio%2F8000%2F128.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Le Mellotron
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.radioking.com%2Fradio%2F477719%2Fstream%2F534044
-#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-SOUL-400x496-1-t-1006x1006.png" group-title="France",Nova Soul
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnova-soul.ice.infomaniak.ch%2Fnova-soul-256.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Radio Graf'Hit
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F109.238.10.2%3A8000%2Fgrafhit.mp3
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.lyondemain.fr/wp-content/uploads/2018/09/cropped-logo-1-1.png?fit=300%2C100" group-title="France",Lyon Demain
@@ -2262,6 +2262,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fvirage-rock-2000.ice.infom
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fgenerations-booba.ice.infomaniak.ch%2Fgenerations-booba.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Radio Uylenspiegel
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.radioking.com%2Fradio%2F474857%2Fstream%2F531260
+#EXTINF:-1 tvg-logo="https://www.ktoradio.com/_next/image?url=https%3A%2F%2Fns3200830.ip-141-94-133.eu%2Fradioscreen%2Fdata%2Fprod%2Fe7696813-ef6f-4d8a-b522-ddf327bdd87a%2Fdab-gen%2Fimage.jpg%3Fts%3D1768733601157&w=256&q=75" group-title="France",KTO Radio
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fliveradiokto.akamaized.net%2Fhls%2Flive%2F20000054%2Fktoradio%2Fmaster.m3u8
 #EXTINF:-1 tvg-logo="https://images.lesindesradios.fr/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/oui-fm/images/logo_KoooUByHla.png" group-title="France",OUI FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fouifm.ice.infomaniak.ch%2Fouifm-high.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.fr/300/hotmixlounge.jpeg?version=cf0ac3e994b5c65899372a763b4b9cdf" group-title="France",Hotmix lounge
@@ -2290,8 +2292,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.egrego.re%2Fradio%2
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fcroonerradio_movies.ice.infomaniak.ch%2Fcroonerradio-movies-midfi.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FIP_logo_2021.svg" group-title="France",FIP
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radiofrance.fr%2Ffip%2Ffip.m3u8%3Fid%3Dradiofrance
-#EXTINF:-1 tvg-logo="https://www.ktoradio.com/_next/image?url=https%3A%2F%2Fns3200830.ip-141-94-133.eu%2Fradioscreen%2Fdata%2Fprod%2Fe7696813-ef6f-4d8a-b522-ddf327bdd87a%2Fdab-gen%2Fimage.jpg%3Fts%3D1768733601157&w=256&q=75" group-title="France",KTO Radio
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fliveradiokto.akamaized.net%2Fhls%2Flive%2F20000054%2Fktoradio%2Fmaster.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Slow Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplay.radioking.io%2Fslow-radio%2F601307
 #EXTINF:-1 tvg-logo="https://www.campusfm.net/wp/wp-content/uploads/2024/01/cropped-Design-sans-titre-15-4.png" group-title="France",Radio Campus Toulouse 94MHz
@@ -2304,6 +2304,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fwww.pprb.fr%3A9505%2Fmpd
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.radio-campus.org%3A8002%2Fclermont-ferrand
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="France",Jazz Radio Classic FR
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fjazz-wr01.ice.infomaniak.ch%2Fjazz-wr01-128.mp3
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/63476.v11.png" group-title="France",Le Mellotron
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.radioking.com%2Fradio%2F477719%2Fstream%2F534044
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Plein Air Besançon
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.pleinair.net%3A8000%2Fdr_besancon.mp3
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fdze95zgdryj.png" group-title="France",@Magic Radio
@@ -2334,8 +2336,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fandromeda.shoutca.st%3A842
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.sudradio.fr%2Fsudradio-mp3-128
 #EXTINF:-1 tvg-logo="http://sofaradios.fr/favicon.ico" group-title="France",Sofaradios - Popup
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F91.121.51.19%3A8040%2F
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/63476.v11.png" group-title="France",Le Mellotron
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.radioking.com%2Fradio%2F477719%2Fstream%2F534044
 #EXTINF:-1 tvg-logo="https://www.frequenceplus.fr/img/favicon-32x32.png" group-title="France",Fréquence Plus
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ffreqplus.ice.infomaniak.ch%2Ffreqplus-high.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Radio Paris Obscur
@@ -2456,6 +2456,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradio-metadata.fr%3A8000%2
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fhits1latina-audiomediaradio.radioca.st%2Flatina
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Forum en Français
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fforumenfrancais.ice.infomaniak.ch%2Fforumenfrancais-128.mp3
+#EXTINF:-1 tvg-logo="https://www.publicsante.com/LOGO_HEALTH.png" group-title="France",Public Health
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fpublichealthradio.ice.infomaniak.ch%2Fpublichealthradio-192.mp3
 #EXTINF:-1 tvg-logo="null" group-title="France",Radio Bonheur
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradiobonheur.ice.infomaniak.ch%2Fradiobonheur-128-1.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Radio Shalom Besançon
@@ -2464,6 +2466,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradioshalombesancon.ice.in
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.hotmixradio.com%2Fhotmix-metal-en-mp3
 #EXTINF:-1 tvg-logo="http://meuse-fm.com/upload/57971918af90d7.26600923.ico" group-title="France",Meuse FM Verdun
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fwww.radioking.com%2Fplay%2Fmeuse-fm-verdun
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Public Health Radio Arabic
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fpublichealthradioar.ice.infomaniak.ch%2Fpublichealthradioar-128.mp3
 #EXTINF:-1 tvg-logo="https://radiofuze.fr/wp-content/uploads/2020/06/cropped-Frame-17-1-192x192.jpg" group-title="France",Radio Fuze
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream-ssl.radios-arra.fr%3A8443%2Ffuze
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",M Radio N°1 du Top 50 - Webradio
@@ -2488,8 +2492,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradiozones.dyndns.org%3A80
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstr0.creacast.com%2Fradio_vinci_autoroutes_3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Canal B - 94Mhz
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.levillage.org%2Fcanalb
-#EXTINF:-1 tvg-logo="https://www.publicsante.com/LOGO_HEALTH.png" group-title="France",Public Health
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fpublichealthradio.ice.infomaniak.ch%2Fpublichealthradio-192.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",M Radio - Années 90
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fmfm-thema.ice.infomaniak.ch%2Fmfm-thema.mp3
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/totem/images/favicon.x-icon" group-title="France",Totem Gard
@@ -2506,8 +2508,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Falouette-angers.ice.infom
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fmanager5.streamradio.fr%3A1800%2Fstream
 #EXTINF:-1 tvg-logo="https://www.radioespace.com/apple-touch-icon-120x120.png" group-title="France",Espace Club
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fespace100.ice.infomaniak.ch%2Fespace100-high.aac
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Public Health Radio Arabic
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fpublichealthradioar.ice.infomaniak.ch%2Fpublichealthradioar-128.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",ZEBRadio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fwww.zebradio.fr%3A8000%2Fplayer.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/FIP_logo_2021.svg/960px-FIP_logo_2021.svg.png" group-title="France",FIP Cultes (hifi + metadata)
@@ -2786,6 +2786,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmfmwr-005.ice.infomaniak.
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.aurafm.org%2FFrequence7
 #EXTINF:-1 tvg-logo="https://www.frequenceplus.fr/img/favicon-32x32.png" group-title="France",Fréquence Plus
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ffreqplus.ice.infomaniak.ch%2Ffreqplus-high.mp3
+#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-HIPHOP-400x496-1-t-1006x1006.png" group-title="France",Nova Hip-Hop
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnova-odn.ice.infomaniak.ch%2Fnova-odn-256.aac
 #EXTINF:-1 tvg-logo="https://charte.radiofrance.fr/images/mouv/mouv-avatar.png" group-title="France",MOUV'
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.radiofrance.fr%2Fmouv-hifi.aac
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b29a2a_5084a588a6ed43b6873f80d3e23aff28%7emv2_d_2113_1675_s_2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/b29a2a_5084a588a6ed43b6873f80d3e23aff28%7emv2_d_2113_1675_s_2.png" group-title="France",Radio Albatros
@@ -2794,6 +2796,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.inovacast.fr%3A7601
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fouifmgaragerock.ice.infomaniak.ch%2Fouifmgaragerock-64.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",hotmix
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.hotmixradio.fr%2Fhotmix-blues-en-mp3
+#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/05/NOVA-nova-400x496-1-t-1700x1030.png" group-title="France",Radio Nova
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fnovazz.ice.infomaniak.ch%2Fnovazz-128.mp3
 #EXTINF:-1 tvg-logo="https://radiosalveregina.com/wp-content/uploads/2021/09/cropped-favicon-2-1-180x180.png" group-title="France",Salve Regina
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fhosting.studioradiomedia.fr%3A2520%2Fstream
 #EXTINF:-1 tvg-logo="https://www.c9.fr/favicon.ico" group-title="France",C9
@@ -2816,8 +2820,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fhosting.radiomedia.fr%3A1
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstr0.creacast.com%2Fvosgesfm-epinal
 #EXTINF:-1 tvg-logo="https://tekno1.fr/wp-content/uploads/2024/10/Sans-titre-1.png" group-title="France",Tekno1 Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F95.217.34.48%3A8591%2Fstream
-#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-HIPHOP-400x496-1-t-1006x1006.png" group-title="France",Nova Hip-Hop
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnova-odn.ice.infomaniak.ch%2Fnova-odn-256.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Forum 70's
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fforum70s.ice.infomaniak.ch%2Fforum70s.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",RCF Côtes d'Armor
@@ -2832,8 +2834,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fonlineradiobox.com%2Fjson
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnovazz.ice.infomaniak.ch%2Fnovazz-128.mp3
 #EXTINF:-1 tvg-logo="https://hit-radio.fr/upload/5ca218818df5b6.67339023.ico" group-title="France",Hit! Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fquasar.shoutca.st%3A8853%2F%3B
-#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/05/NOVA-nova-400x496-1-t-1700x1030.png" group-title="France",Radio Nova
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fnovazz.ice.infomaniak.ch%2Fnovazz-128.mp3
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/media/radio/thumb/180x180_jazzy-french.webp" group-title="France",Jazz French
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fjazz-wr18.ice.infomaniak.ch%2Fjazz-wr18-128.mp3
 #EXTINF:-1 tvg-logo="http://pleinair.net/apple-touch-icon.png" group-title="France",Plein Air Jura
@@ -3014,6 +3014,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstr0.creacast.com%2Foxy-pr
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio4.vip-radios.fm%3A18042%2Fstream-128kmp3-PartyDance
 #EXTINF:-1 tvg-logo="https://fr.wikipedia.org/wiki/Fichier:Top_Italia_2.jpg" group-title="France",TOP ITALIA 
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fmanager5.streamradio.fr%3A1800%2Fstream
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Hotmix Rap Francais
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.hotmixradio.com%2Fhotmix-rap-fr-mp3%3Fprovider%3Dradiobrowser
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",KFM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F10191.go2stream.fr%3A8000%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Radio ISA Grenoble
@@ -3060,6 +3062,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fscooppowerdance.ice.infom
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficecast.radiofrance.fr%2Ffrancemusique-hifi.aac%3Fid%3Dradiofrance
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Forum 80's
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fforum80s.ice.infomaniak.ch%2Fforum80s.mp3
+#EXTINF:-1 tvg-logo="https://www.rtl2.fr/favicon.ico" group-title="France",RTL 2
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.rtl2.fr%2Frtl2-1-44-128%3Flisten%3Dweb
 #EXTINF:-1 tvg-logo="http://www.radioespace.com/favicon.ico" group-title="France",Espace Hot 30
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fespace-vintage.ice.infomaniak.ch%2Fespace-vintage-high.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",RCF Bordeaux
@@ -3116,8 +3120,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradio-shoutcast2.cyber-str
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradio74.ice.infomaniak.ch%2Fradio74-low.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Nostalgie  Les Plus Gramds Slow
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.nrjaudio.fm%2Foudjby2h9r57%3Forigine%3Dplayernostalgie%26aw_0_req.userConsentV2%3DCQkCxgAQkCxgAAHABBENCdFsAP_gAEPgAAqIJ2tR_G_fbWlj-TZ1YbpkeYwP99gj7sQxBgSJk24FyJvW7JwCx2ExJAzapqIKmRIAu3TBAQNlGIDURUAAIIgFqSDMaESUgTNKJ6BEiFMRI2JQCFxvm4FDeQCY4kp_9kcxmB-t7dr8yNzgAgAAAUCAIAAgAIABAACIAAAgAAAAAQAAAiwACAAAAAAAAEAAAFAAAABAAAEAAAACAAAABAAAIJ2gAmGhUQQlgQCBAoCAECAAQVhABQIAgAASBggIASBgQ5AwAXWEyAAAKAAYIAQAAgwABAAAJAAhEAEABAIAQIBAIAAQAAAAIACBAADABQiAQAAgOgYBAQQCBYAJEZUBpgQgAJBASyFCAAAAgAACAAAAAAIAAAAAAAAAgAAAAAAAAggAAAAAAAAAAAEAAAAAAEABAAAAAAAAAAAAABAAAIAA.IJ2tR_G_fbWlj-TZ14bpkeYwf99gj7sQxBgSJk24FyJvW7JwC32EzJAzapqYKmRIAu3TBAQNtGIjURUABIIgVqTDMaESUgTNKJ6BEiHMRY2JQCFxvm4FDeQCZ4kp_90d5mR-t7dr-yNzgAgAgAUCAIAAgAIABAACIAAAgAAAAAQAAgiwACAAAAAAAAEAAAFAAEABAAAEAAAACAAAABAAAIAA.f_wACHwAAAAA%26aw_0_1st.station%3DNostalgie-Les-Plus-Grands-Slows
-#EXTINF:-1 tvg-logo="https://www.rtl2.fr/favicon.ico" group-title="France",RTL 2
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.rtl2.fr%2Frtl2-1-44-128%3Flisten%3Dweb
 #EXTINF:-1 tvg-logo="https://jadefm.fr/upload/6034f72fbd05f4.03480480.ico" group-title="France",Jade FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdiffusion.lafrap.fr%2Fradiochrono.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Cuberadio.fr
@@ -3128,8 +3130,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fice.creacast.com%2Fmagnum-
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficecast.radiofrance.fr%2Ffbarmorique-midfi.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Antxeta irratia
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.antxetamedia.eus%3A8443%2Fantxeta1
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Hotmix Rap Francais
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.hotmixradio.com%2Fhotmix-rap-fr-mp3%3Fprovider%3Dradiobrowser
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",4U 70s Flower
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstr4uice.streamakaci.com%2F4u70s.mp3
 #EXTINF:-1 tvg-logo="http://www.radiocoquelicot.com/favicon.ico" group-title="France",Radio Coquelicot
@@ -3286,6 +3286,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream-ssl.radios-arra.fr
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.hotmixradio.fr%2Fhotmix-rnb-en-pre
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Mister couzin
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fwww.mistercouzin.net%2Flisten
+#EXTINF:-1 tvg-logo="https://www.nostalgie.fr/uploads/assets/nostalgie/icons/apple-icon-180x180.png" group-title="France",Nostalgie Disco Fever
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.nrjaudio.fm%2Fou4swshtd2ko
 #EXTINF:-1 tvg-logo="https://cdn.m40radio.fr/wp-content/uploads/radio-m40-maxi-dance-370x370.webp" group-title="France",M40 Maxi Dance
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.m40radio.fr%2Flisten%2Fm40-maxi-dance%2Fm40-maxi-dance-128.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",SunAlpes Radio
@@ -3332,8 +3334,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmfmwr-008.ice.infomaniak.
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreaming.radionomy.com%2FABC-Lounge
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Le village pop
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.radioking.com%2Fradio%2F200437%2Fstream%2F243028
-#EXTINF:-1 tvg-logo="https://www.nostalgie.fr/uploads/assets/nostalgie/icons/apple-icon-180x180.png" group-title="France",Nostalgie Disco Fever
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.nrjaudio.fm%2Fou4swshtd2ko
 #EXTINF:-1 tvg-logo="https://playlistradio.fr/images/logo.png" group-title="France",Playlist Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplaylist.ice.infomaniak.ch%2Fplaylist-192.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Gu Radio
@@ -4018,6 +4018,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio10.pro-fhi.net%2Frad
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstr0.creacast.com%2Fpharefm_worship
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",RMA ANTILLES - Le Son Des Iles
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio3.pro-fhi.net%2Flisten%2Fpzjdzjjq%2Fstream.mp3
+#EXTINF:-1 tvg-logo="https://www.radiogoodlife.com/img/ico/icon-512.png" group-title="France",RADIO GOODLIFE
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fgestream.fr%2Fg-radio-hd.mp3
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/k6fm/images/favicon.x-icon" group-title="France",K6 FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fk6fm.ice.infomaniak.ch%2Fk6fm-128.mp3
 #EXTINF:-1 tvg-logo="https://cdn3.dan.com/assets/icons/touch-icon-iphone-retina-bdd5112764b4900705e85f7845ca32c42ae1bbefea7e6da068d8c85973fa199c.png" group-title="France",RTL
@@ -4160,8 +4162,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio5.pro-fhi.net%2Fflux
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fjazzblues.ice.infomaniak.ch%2Fjazzblues-high.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",France Musique La Contemporaine avec metadata
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradio-metadata.fr%3A8000%2Ffrancemusiquelacontemporaine
-#EXTINF:-1 tvg-logo="https://www.radiogoodlife.com/img/ico/icon-512.png" group-title="France",RADIO GOODLIFE
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fgestream.fr%2Fg-radio-hd.mp3
 #EXTINF:-1 tvg-logo="https://www.rcf.fr/favicon.ico" group-title="France",RCF
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frcf.streamakaci.com%2Frcfdigital.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Radyonne
@@ -4174,6 +4174,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radiofrance.fr%2Fm
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fpopovradio.fr%2Fradio.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Mon tout petit France Inter
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radiofrance.fr%2Fmonpetitfranceinter%2Fmonpetitfranceinter_hifi.m3u8%3Fid%3Dradiofrance
+#EXTINF:-1 tvg-logo="https://direct-radio.fr/files/bide-et-musique.png" group-title="France",Bide&Musique
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Frelay1.bide-et-musique.com%3A9100%2F
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",RMA ANTILLES - Le Son des iles
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradio3.pro-fhi.net%2Flisten%2Fpzjdzjjq%2Fstream.mp3
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/directfm/images/favicon.x-icon" group-title="France",Direct FM
@@ -4278,6 +4280,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreaming.principeactif.ne
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.radioking.com%2Fradio%2F45994%2Fstream%2F82780
 #EXTINF:-1 tvg-logo="https://cdn.hotmixradio.com/hotmix-k-pop-en-mp3.jpg" group-title="France",Hotmix K-Pop
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.hotmixradio.com%2Fhotmix-k-pop-en-mp3%3Fprovider%3Dradiobrowser
+#EXTINF:-1 tvg-logo="https://cdn.hotmixradio.com/hotmix-latino-en-mp3.jpg" group-title="France",Hotmix Latino
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.hotmixradio.com%2Fhotmix-latino-en-mp3%3Fprovider%3Dradiobrowser
 #EXTINF:-1 tvg-logo="https://www.radiocouleursud.fr/favicon.ico" group-title="France",Radio Couleur Sud
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fecmanager4.pro-fhi.net%3A2210%2Fstream
 #EXTINF:-1 tvg-logo="https://cdn.hotmixradio.com/hotmix-nu_disco-en-mp3.jpg" group-title="France",Hotmix Nu Disco
@@ -4342,8 +4346,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fdas-edge09-live365-dal03.c
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream10.vestaradio.com%2FDYNAMICRADIODUBAI
 #EXTINF:-1 tvg-logo="https://images.lesindesradios.fr/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/centpourcent/images/logo_HuGMY5WoOm.png" group-title="France",100% Radio - Carcassonne
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F100radio-carcassonne.ice.infomaniak.ch%2F100radio-carcassonne-128.mp3
-#EXTINF:-1 tvg-logo="https://direct-radio.fr/files/bide-et-musique.png" group-title="France",Bide&Musique
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Frelay1.bide-et-musique.com%3A9100%2F
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",RTL
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficecast.rtl.fr%2Frtl-1-44-128
 #EXTINF:-1 tvg-logo="https://www.villagesfm.com/wp-content/uploads/2023/12/logo-villagesFM-980x576.png" group-title="France",Villages FM
@@ -4468,8 +4470,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Florfm.ice.infomaniak.ch%2F
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.hotmixradio.com%2Fhotmix-happy-en-mp3%3Fprovider%3Dradiobrowser
 #EXTINF:-1 tvg-logo="https://servidor15.brlogic.com:7292/live" group-title="France",BLS GUYANE
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fservidor15.brlogic.com%3A7292%2Flive
-#EXTINF:-1 tvg-logo="https://cdn.hotmixradio.com/hotmix-latino-en-mp3.jpg" group-title="France",Hotmix Latino
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.hotmixradio.com%2Fhotmix-latino-en-mp3%3Fprovider%3Dradiobrowser
 #EXTINF:-1 tvg-logo="https://www.lorfm.com/thumbnails/64x64/uploads/pages/lorfm---la-radio-lorraine---actualites-en-lorraine/lorfm---la-radio-lorraine---actualites-en-lorraineimage.jpg" group-title="France",LOR'FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Florfm.ice.infomaniak.ch%2Florfm-128.mp3
 #EXTINF:-1 tvg-logo="https://www.lorfm.com/thumbnails/64x64/uploads/pages/lorfm---la-radio-lorraine---actualites-en-lorraine/lorfm---la-radio-lorraine---actualites-en-lorraineimage.jpg" group-title="France",LOR'FM
@@ -4602,11 +4602,5 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fiaradioguinguette.ice.inf
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.nrjaudio.fm%2Fouhm27apu6pb%3Forigine%3Dfluxradios%26aw_0_1st.station%3DNostalgie-Funk
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",DECADES La radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fecmanager2.pro-fhi.net%3A2375%2Fstream
-#EXTINF:-1 tvg-logo="https://www.lorfm.com/thumbnails/64x64/uploads/pages/lorfm---la-radio-lorraine---actualites-en-lorraine/lorfm---la-radio-lorraine---actualites-en-lorraineimage.jpg" group-title="France",LOR'FM
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Florfm.ice.infomaniak.ch%2Florfm-128.mp3
-#EXTINF:-1 tvg-logo="https://www.digital2radio.com/assets/digital2-logo-carre.png" group-title="France",DIGITAL2RADIO
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fecmanager4.pro-fhi.net%3A2315%2Fstream
-#EXTINF:-1 tvg-logo="https://happynessoise.fr/wp-content/uploads/2025/01/Happyness-Oise@3x-50.jpg" group-title="France",Happyness Oise
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fazuracast-scrs-2.foxoud.synology.me%2Flisten%2Fhappyness_oise%2Fplayer
 #EXTINF:-1 tvg-logo="https://www.lorfm.com/thumbnails/64x64/uploads/pages/lorfm---la-radio-lorraine---actualites-en-lorraine/lorfm---la-radio-lorraine---actualites-en-lorraineimage.jpg" group-title="France",LOR'FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Florfm.ice.infomaniak.ch%2Florfm-128.mp3

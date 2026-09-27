@@ -257,10 +257,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fonline.radiojazz.ua%2FRad
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fonline.z-polus.info%2Fmobilehq
 #EXTINF:-1 tvg-logo="https://www.hitfm.ua/static/img/fav-icon/apple-icon-120x120.png" group-title="Ukraine",Hit FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F195.95.206.17%2FHitFM
-#EXTINF:-1 tvg-logo="https://play.tavr.media/static/image/nashe/NasheRadio_NewLogo_228x228.png" group-title="Ukraine",Наше Радіо 1079
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fonline.nasheradio.ua%2FNasheRadio_HD
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Ukraine",Громадське радіо
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F5.9.8.20%3A8000%2Fstream
+#EXTINF:-1 tvg-logo="https://play.tavr.media/static/image/nashe/NasheRadio_NewLogo_228x228.png" group-title="Ukraine",Наше Радіо 1079
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fonline.nasheradio.ua%2FNasheRadio_HD
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Ukraine",Radio Jazz Gold FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fonline.radiojazz.ua%2FRadioJazz_Gold
 #EXTINF:-1 tvg-logo="https://play.tavr.media/static/image/nashe/NasheRadio_NewLogo_228x228.png" group-title="Ukraine",Наше Радіо 107.9
@@ -295,10 +295,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fwww.segenswelle.de%3A8000%
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fcast.mediaonline.net.ua%2Favtoradio
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Ukraine",Богуслав FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fcomplex.in.ua%2Fb320
-#EXTINF:-1 tvg-logo="https://yantarne.fm/img/main/favicon.webp" group-title="Ukraine",Yantarne FM
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fcomplex.in.ua%2Fyantarne
 #EXTINF:-1 tvg-logo="http://www.yedenradio.com/wp-content/themes/yedenradio/assets/icons/yeden-logo.svg" group-title="Ukraine",Єден радіо
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F31.128.79.192%3A8000%2Flive
+#EXTINF:-1 tvg-logo="https://yantarne.fm/img/main/favicon.webp" group-title="Ukraine",Yantarne FM
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fcomplex.in.ua%2Fyantarne
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OjNP7Wz.jpg" group-title="Ukraine",Kharkif Surf Rock
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream-172.zeno.fm%2Ftd4yedynbwzuv
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Ukraine",Фреш FM (Стрий 104.8 FM)

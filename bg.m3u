@@ -211,12 +211,12 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplay.global.audio%2Fcityl
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flive.radiobg.co.uk%3A8000%2Flive
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Bulgaria",Radio Metronom
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradiometronom.com%3A8010%2F
-#EXTINF:-1 tvg-logo="http://radiofresh.bg/i/logo.png" group-title="Bulgaria",Radio Fresh!
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F193.108.24.21%3A8000%2Ffresh
 #EXTINF:-1 tvg-logo="http://radio1.bg/theme_assets/radio1/images/favicon.png" group-title="Bulgaria",Radio 1 (Bulgaria)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F149.13.0.81%2Fradio1.ogg
 #EXTINF:-1 tvg-logo="http://zrockradio.bg/wp-content/uploads/2017/08/zrock_logo.png" group-title="Bulgaria",Z-Rock radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F193.108.24.6%3A8000%2Fzrock
+#EXTINF:-1 tvg-logo="http://radiofresh.bg/i/logo.png" group-title="Bulgaria",Radio Fresh!
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F193.108.24.21%3A8000%2Ffresh
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Bulgaria",City Radio Bulgaria
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplay.global.audio%2Fcity.opus
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Bulgaria",Easy Radio FLAC
@@ -401,10 +401,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F87.121.90.229%3A9000%2Fliv
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.98.108.170%3A8243%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Bulgaria",Metro Urban Hits
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Feu1.reliastream.com%2Fproxy%2Fmetroxmas%3Fmp%3D%2FMCR
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Bulgaria",Online DJ Radio 64
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplay-radio11.jump.bg%3A8000%2Fstream64_autodj
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Bulgaria",Fred Film Radio(Български език)
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fs10.webradio-hosting.com%2Fproxy%2Ffredradiobg%2Fstream
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Bulgaria",Online DJ Radio 64
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplay-radio11.jump.bg%3A8000%2Fstream64_autodj
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Bulgaria",Radio Vega Plus
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F88.80.96.25%3A40070%2Fvega.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Bulgaria",Eilo Radio - Progressive Radio
@@ -513,6 +513,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F25453.live.streamtheworld
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fs2.free-shoutcast.com%2Fstream%2F18214
 #EXTINF:-1 tvg-logo="https://housemusic.co/img/housemusic.png" group-title="Bulgaria",House Music Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fhome.radionrg.com%2Fhls%2Fhousemusic%2Flive.m3u8
+#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/radio-Veselina.png" group-title="Bulgaria",Радио Веселина Русе 93.1 FM
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fbss1.neterra.tv%2Fveselina%2Fstream_0.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Bulgaria",ARHEA ORG
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.zeno.fm%2Fna6nbx6qqwzuv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjJusaIg46ObkF14JycLTOLnA-K2KxiIsRPQ&s" group-title="Bulgaria",Радио БНР програма Христо Ботев Русе 95.7 FM
@@ -521,8 +523,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fe106-ts.cdn.bg%2Fregstati
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F28933.live.streamtheworld.com%2FRADIO_VERONIKAAAC_H.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Bulgaria",Fusion7
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.palamarka.com%2Flisten%2Ffusion7%2Fradio.mp3
-#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/radio-Veselina.png" group-title="Bulgaria",Радио Веселина Русе 93.1 FM
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fbss1.neterra.tv%2Fveselina%2Fstream_0.m3u8
 #EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/bgonair-new3.png" group-title="Bulgaria",Радио Bulgaria ON AIR Русе 103.9 FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.radio.bgonair.bg%2FRadioBOA
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TM3LMLN9/wp.png" group-title="Bulgaria",ALMA MATER
@@ -531,16 +531,16 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fa1.vizitec.com%3A8000%2Fal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.98.108.170%3A8332%2F
 #EXTINF:-1 tvg-logo="https://folkbg.net/wp-content/uploads/2020/02/logo.png" group-title="Bulgaria",FolkBG
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flisten.folkbg.net%3A8002%2Ffolkbg
+#EXTINF:-1 tvg-logo="https://bnrnews.bg/cms/media?Name=bnr-logo&Size=default&v=1761045061564" group-title="Bulgaria",BNR - Hristo Botev
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flb-hls.cdn.bg%2F2032%2Ffls%2FHrBotev.stream%2Fplaylist.m3u8
+#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/radio1bg.jpg" group-title="Bulgaria",Radio 1 (Радио 1 -Едно Русе0 -Ruse 88.9 FM
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F28933.live.streamtheworld.com%2FRADIO_1AAC_H.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Bulgaria",Radio Mixx Bulgaria
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F83.97.65.98%3A9000%2F%3B
 #EXTINF:-1 tvg-logo="https://nbg-img.fite.tv/img/611098_980x551.jpg" group-title="Bulgaria",Veselina Retro
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fnova-radio.neterra.tv%2Fveselinaretro
 #EXTINF:-1 tvg-logo="https://rashimedia.alle.bg/%D1%81%D0%BB%D1%83%D1%88%D0%B0%D0%B9-%D1%80%D0%B0%D0%B4%D0%B8%D0%BE-%D1%80%D0%B0%D1%88%D0%B8-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD/" group-title="Bulgaria",Rashi Edno
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fs2.free-shoutcast.com%2Fstream%2F18214
-#EXTINF:-1 tvg-logo="https://bnrnews.bg/cms/media?Name=bnr-logo&Size=default&v=1761045061564" group-title="Bulgaria",BNR - Hristo Botev
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flb-hls.cdn.bg%2F2032%2Ffls%2FHrBotev.stream%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/radio1bg.jpg" group-title="Bulgaria",Radio 1 (Радио 1 -Едно Русе0 -Ruse 88.9 FM
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F28933.live.streamtheworld.com%2FRADIO_1AAC_H.aac
 #EXTINF:-1 tvg-logo="https://radioenergy.bg/theme_assets/radioenergy/images/logo.png?v=3" group-title="Bulgaria",Energy 90s
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplay.global.audio%2Fenergy-90s
 #EXTINF:-1 tvg-logo="https://glarusretro.com/wp-content/uploads/2026/01/logo-white.webp" group-title="Bulgaria",Glarus Retro FM
