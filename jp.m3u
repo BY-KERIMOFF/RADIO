@@ -129,10 +129,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.laut.fm%2Fkamakura
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fmp3s.nc.u-tokyo.ac.jp%2FOTSUCHI_CyberForest.mp3
 #EXTINF:-1 tvg-logo="https://plaza.one/icons/apple-touch-icon.png" group-title="Japan",Nightwave Plaza (Opus 64)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradio.plaza.one%2Fogg_low
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Japan",J-Club Powerplay HipHop
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fkathy.torontocast.com%3A3350%2F%3B
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/ficons/1173e1_15807acf4a474b03a67c854178f38727~mv2.ico" group-title="Japan",SOUND UP STATION NFRS
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream2.rcast.net%2F70945
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Japan",J-Club Powerplay HipHop
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fkathy.torontocast.com%3A3350%2F%3B
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b4e9b8_d568257bd6474ac0ad5ea280d38461e4~mv2.png/v1/fill/w_403,h_406,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MOON%20MISSION%202_0%20%E3%83%AD%E3%82%B4%E3%80%80%E9%BB%92%E3%80%801000x1000.png" group-title="Japan",Moon Mission Recordings Tokyo Deep and Electronic
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fuk5.internet-radio.com%2Fproxy%2Fmmr%3Fmp%3D%2Fstream%3B
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/387/5e763a347e800.png" group-title="Japan",J1 HITS
@@ -214,7 +214,7 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fjustplay.stream.laut.fm%2
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Japan",SHMUPRADIO
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.shmupradio.com%2F320
 #EXTINF:-1 tvg-logo="https://hkradio.myaddr.io/api/station/new_radio/art/a6ea0df6141aff3b0519c707-1744450585.jpg" group-title="Japan",A Radio for ACG & others
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fhkradio.myaddr.io%2Flisten%2Fnew_radio%2Fradio.mp3
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fhkradio.myaddr.io%2Flisten%2Fnew_radio%2Fradio.aac
 #EXTINF:-1 tvg-logo="https://listen.moe/favicon.ico" group-title="Japan",Listen.Moe JPop Vorbis
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.moe%2Fstream
 #EXTINF:-1 tvg-logo="https://fmsetagaya.com/wp/wp-content/uploads/2020/02/1400-300x300.jpg" group-title="Japan",83.4MHz FMSETAGAYA
