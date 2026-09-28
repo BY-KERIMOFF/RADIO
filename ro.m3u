@@ -181,10 +181,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.playradio.org%3A8443
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F89.238.227.6%3A8330%2F
 #EXTINF:-1 tvg-logo="http://www.westcityradio.ro/favicon.ico" group-title="Romania",West City Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flive.westcityradio.ro%3A8000%2Fmp3
-#EXTINF:-1 tvg-logo="https://radiotaraf.ro/wp-content/uploads/2022/01/radio-taraf.png" group-title="Romania",Radio Taraf MANELE
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fasculta.radiotaraf.ro%3A7100%2F%3B
 #EXTINF:-1 tvg-logo="https://ebsradio.ro/stream/img/stream-movies-soundtrack.png" group-title="Romania",EBS | Movie Soundtracks
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fazura.ebsmedia.ro%2Flisten%2Fmovies%2Fmovies128.mp3
+#EXTINF:-1 tvg-logo="https://radiotaraf.ro/wp-content/uploads/2022/01/radio-taraf.png" group-title="Romania",Radio Taraf MANELE
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fasculta.radiotaraf.ro%3A7100%2F%3B
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Romania",Jurnal FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fssl.radios.show%3A7009%2Fstream
 #EXTINF:-1 tvg-logo="http://itsybitsy.ro/favicon.ico" group-title="Romania",itsy bitsy
@@ -325,10 +325,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.zeno.fm%2F87sktrys
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fssl.omegahost.ro%2F8092%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Romania",Mária Rádió Erdély
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.mariaradio.ro%3A8000%2FMRE
-#EXTINF:-1 tvg-logo="https://guerrillaradio.b-cdn.net/wp-content/themes/guerrilla/library/images/favicon/apple-icon-120x120.png" group-title="Romania",Radio Guerrilla
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.guerrillaradio.ro%3A8443%2Fguerrilla.aac
 #EXTINF:-1 tvg-logo="http://funradio.ro/favicon.png" group-title="Romania",FUN Radio Romania
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fonline.webcastradio.ro%2Ffun
+#EXTINF:-1 tvg-logo="https://guerrillaradio.b-cdn.net/wp-content/themes/guerrilla/library/images/favicon/apple-icon-120x120.png" group-title="Romania",Radio Guerrilla
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.guerrillaradio.ro%3A8443%2Fguerrilla.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Romania",FunFM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fonline.funfm.ro%3A8000%2Ffunfm.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Romania",Radio HIT Iasi
@@ -621,6 +621,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradio2.tirek.hu%3A8000%2Fa
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fazura.ebsmedia.ro%2Flisten%2Flive%2Flive128.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Romania",Radio Folclor Muntenia
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.radiofolclormuntenia.ro%3A8008%2Fstream
+#EXTINF:-1 tvg-logo="https://crazyradio.ro/wp-content/uploads/elementor/thumbs/cropped-logo-3-1-q37s7kwrh7n911m5llll2n4qo73ew64sk0c5qzs4cg.png" group-title="Romania",Radio Crazy Romania
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frazvcarp1.radioca.st%2F%3B%3A80%2F%3Bstream.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Romania",Radio Veselia Folclor
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fasculta.radioveseliafolclor.com%3A8232%2F%3B
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Romania",Blues Radio
@@ -631,8 +633,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fs5.radio.co%2Fs08e5c5875%
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fssl.omegahost.ro%3A8020%2Fstream
 #EXTINF:-1 tvg-logo="https://rct.unitbv.ro/assets/radio-logo-98940189.png" group-title="Romania",Radio Campus Transilvania
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frct.unitbv.ro%2Fshoutcast%2F%3B%3Fsid%3D1
-#EXTINF:-1 tvg-logo="https://crazyradio.ro/wp-content/uploads/elementor/thumbs/cropped-logo-3-1-q37s7kwrh7n911m5llll2n4qo73ew64sk0c5qzs4cg.png" group-title="Romania",Radio Crazy Romania
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frazvcarp1.radioca.st%2F%3B%3A80%2F%3Bstream.mp3
 #EXTINF:-1 tvg-logo="https://radiocaleasprecer.com/wp-content/uploads/2020/06/fav-radio.png" group-title="Romania",Radio Calea Spre Cer LIVE 24/7
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fpanel.radiocaleasprecer.com%2Fradio%2F8000%2Fradio.mp3
 #EXTINF:-1 tvg-logo="https://www.playradio.ro/wp-content/plugins/rplayer/assets/img/noimage.jpg" group-title="Romania",Play Radio 91.6
@@ -825,6 +825,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.clever-host.ro%2F8
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdc.digi.live.kissfm.ro%2Fmagiclove
 #EXTINF:-1 tvg-logo="null" group-title="Romania",radio pitesti 1
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fssl.radios.show%2F8050%2Fstream
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s289060d.png" group-title="Romania",TOP DANCE România
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradiotopdance.ddns.net%3A8070%2F%3B
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Romania",Radio GMusic Relax
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplay.webradio-hosting.com%3A8002%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Romania",EnJOY Radio
@@ -845,8 +847,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.radioanisoara.ro%3A8
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream2.srr.ro%3A8052%2F
 #EXTINF:-1 tvg-logo="https://api.magicfm.ro/resized/streams/2024/04/19/magic-party-mix-970ce8_12fcac544902ec61f67c046643468ec2.jpg?w=120&h=120&c=1" group-title="Romania",Magic FM Party Mix
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.kissfm.ro%2Fmagic.party.mix
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s289060d.png" group-title="Romania",TOP DANCE România
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradiotopdance.ddns.net%3A8070%2F%3B
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Romania",MDI Fm
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.mdifm.ro%3A8000%2Flive
 #EXTINF:-1 tvg-logo="https://www.autobazaradio.ro/logo-autobaza-radio-alb.png" group-title="Romania",Autobaza Radio
@@ -913,6 +913,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradio.sonicpanel.ro%3A8070
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fs10.webradio-hosting.com%2Fproxy%2Frgmdance%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Romania",RadioGaga
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Frc.radiogaga.ro%3A8000%2Flive
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Romania",Radio Domeldo
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradiodomeldo.ro%2Fmovie
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/yCMkdTRoHWSzBqqdl1eQ6TJv6XZhQ84S92HN4lsp5UbeXOm3Omn679IkYcA5efVGafc" group-title="Romania",Agape Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.zeno.fm%2Fs38pdt9h268uv
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Romania",Radio Dada
@@ -933,8 +935,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flisten.radiounique.ro%3A81
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fpetrecere.radiotequila.ro%2F7000%2Fstream
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rW1UDPKMMmZBFU4Hp2MCRmsfkTqcsD3kGZoy87LI_MFYsvM22lsGEyeNMHApTA7iQKY" group-title="Romania",Tequila România -Radio Hip-Hop
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnecenzurat.radiotequila.ro%3A7000%2F%3B
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Romania",Radio Domeldo
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradiodomeldo.ro%2Fmovie
 #EXTINF:-1 tvg-logo="http://www.kolozsvariradio.ro/favicon.ico" group-title="Romania",Kolozsvári Rádió
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F89.238.227.6%3A8386%2F
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Romania",West City Radio
@@ -1023,6 +1023,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F93.115.174.139%3A8000%2Fst
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fsonicssl.namehost.ro%2F7770%2Fstream
 #EXTINF:-1 tvg-logo="https://transylvaniahits.eu/wp-content/uploads/2018/05/hitsyL.png" group-title="Romania",Transylvania -Hits
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fasculta.ascultatare.ro%2F8036%2Fstream
+#EXTINF:-1 tvg-logo="https://www.clasicradio.ro/logo/romanesc.jpg" group-title="Romania",Clasic Radio_100% Romanesc -București
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.radioclasic.com%2Flisten%2Fradio_clasic_romanesc%2Flive.mp3
 #EXTINF:-1 tvg-logo="https://www.clasicradio.ro/logo/clasic80.jpg" group-title="Romania",Clasic Radio_80 -București
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.radioclasic.com%2Flisten%2Fradio_clasic_80%2Flive.mp3
 #EXTINF:-1 tvg-logo="https://stream.radioboom.ro/api/station/boom_rock/art/c0fa46991edf0d642bcd351d-1745487803.jpg" group-title="Romania",BOOM Rock-Less Talk & More Rock!
@@ -1063,8 +1065,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fssl.radios.show%2F8008%2F
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fsecurestreams6.autopo.st%3A2250%2Fstream
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6jscZJNR6qQcj7N_G7e2wat3G1HwcwXeKDNZxaTy_il5DS0OoRy2RJDdGk75-WXcgw" group-title="Romania",Urban Sunsets
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radio.co%2Fsedf8bacc9%2Flisten
-#EXTINF:-1 tvg-logo="https://www.clasicradio.ro/logo/romanesc.jpg" group-title="Romania",Clasic Radio_100% Romanesc -București
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.radioclasic.com%2Flisten%2Fradio_clasic_romanesc%2Flive.mp3
 #EXTINF:-1 tvg-logo="https://www.clasicradio.ro/logo/clasic60.jpg" group-title="Romania",Clasic Radio_60 -București
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.radioclasic.com%2Flisten%2Fradio_clasic_60%2Flive.mp3
 #EXTINF:-1 tvg-logo="http://www.radioideal.ro/imgs/logo.png" group-title="Romania",Radio Ideal
@@ -1133,6 +1133,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.webicdp.com%2Fliste
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fcolinde.radiotequila.ro%2F8989%2Fstream
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/8sTfttyE-irKIXsYXkUXo0w5bPGldDo4YgtcgfHBll0/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYzIxZmMwNWItNTRlNi00NjU2LWI4MjgtOWM1ZjMwNjNlYzc4L2ltYWdlLz91PTE2OTc5MDQ0NjMwMDA.webp" group-title="Romania",GFM ROMANIA -Bacău 901 FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.zeno.fm%2Fhlxwppx3fj4vv
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rW1UDPKMMmZBFU4Hp2MCRmsfkTqcsD3kGZoy87LI_MFYsvM22lsGEyeNMHApTA7iQKY" group-title="Romania",Tequila România -Radio 100% RO Romania
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fromaneasca.radiotequila.ro%3A8989%2F
 #EXTINF:-1 tvg-logo="https://tanase.tapinarii.ro/wp-content/cropped-SIgla-Rockstar-Radio212-1.png" group-title="Romania",Rockstar Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fa5.asurahosting.com%3A7120%2Fradio.mp3
 #EXTINF:-1 tvg-logo="https://moinestifm.ro/images/logo_color.png" group-title="Romania",Moinești FM
@@ -1183,6 +1185,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fs7.everestcast.com%3A6805
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream2.radiotransilvania.ro%2FOradea
 #EXTINF:-1 tvg-logo="https://media.smartradio.ro/2019/10/roll.png" group-title="Romania",Smart N'Roll
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fweb.smartradio.ro%3A8443%2Fsmartnroll
+#EXTINF:-1 tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICw4KONiQsMCxIOU3RhdGlvblByb2ZpbGUYgICwwPH-ywoMogEEemVubw/images/logo?keep=w&resize=350x350" group-title="Romania",Hangos Rádió
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.zeno.fm%2Fmv62tmd8wp8uv
 #EXTINF:-1 tvg-logo="https://sighetfm.ro/wp-content/uploads/2024/03/LOGO-RADIO.png" group-title="Romania",Sighet FM -Sighetu Marmației 89.3 FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.zifer.ro%2FSighetFM
 #EXTINF:-1 tvg-logo="https://www.radionoise.ro/wp-content/uploads/2026/07/Radio-Noise-Tech-House-Logo.png" group-title="Romania",Radio Noise Tech House
@@ -1209,8 +1213,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fsmilefm.vaslui.net%3A8002%
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radio-flacararusaliilor.ro%2Fstream
 #EXTINF:-1 tvg-logo="https://radioeasy.ro/wp-content/uploads/2024/08/RadioEasy-logo.png" group-title="Romania",Radio EASY -Bacău
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fssl.asculta.live%2F8108%2Fstream
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rW1UDPKMMmZBFU4Hp2MCRmsfkTqcsD3kGZoy87LI_MFYsvM22lsGEyeNMHApTA7iQKY" group-title="Romania",Tequila România -Radio 100% RO Romania
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fromaneasca.radiotequila.ro%3A8989%2F
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ZElprn4XnQwojyFnNAqOyXN0IDy8eNdFNKdVjEK0jwDTxZ5oOg4KXRT5xRrxB_5ygAg" group-title="Romania",Taraf România - Radio Colinde (doar in perioada sarbatorilor)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fcolinde.radiotaraf.ro%3A7100%2F%3B
 #EXTINF:-1 tvg-logo="https://radiodacia.ro/wp-content/uploads/2024/01/cropped-logo512.jpg" group-title="Romania",Radio Dacia Paradis -Cluj Napoca
@@ -1281,8 +1283,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.radioclasic.com%2Fli
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F82.76.219.237%3A8000%2FJoyFm
 #EXTINF:-1 tvg-logo="https://radio-online-romania.com/storage/radios/9546/34845/conversions/8XxFUli8dQtg8O8AI8zVCx7X2GLr6t-metadGFyZ292aXN0ZS5wbmc=--lg.webp" group-title="Romania",Târgoviște Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.sonicpanel.ro%2F8212%2Fstream
-#EXTINF:-1 tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICw4KONiQsMCxIOU3RhdGlvblByb2ZpbGUYgICwwPH-ywoMogEEemVubw/images/logo?keep=w&resize=350x350" group-title="Romania",Hangos Rádió
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.zeno.fm%2Fmv62tmd8wp8uv
 #EXTINF:-1 tvg-logo="https://www.clasicradio.ro/logo/xmas.jpg" group-title="Romania",Clasic Radio_Christmas -București
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.radioclasic.com%2Flisten%2Fradio_clasic_christmas%2Flive.mp3
 #EXTINF:-1 tvg-logo="https://scontent.fotp3-1.fna.fbcdn.net/v/t39.30808-1/461708590_983669027138871_100886332258390539_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=x4saWtOEQ8kQ7kNvwER5zTu&_nc_oc=AdmtMwtd-fnEGKtaHZ90gt7txlz0kkqFPIgv-C7Mz2dSN-GEw8AeQNbuNLUGBr4zBFmmtX4D3DMNgMbPzXBgEsKF&_nc_zt=24&_nc_ht=scontent.fotp3-1.fna&_nc_gid=1E46synPL9C3DRm3LwMYFA&oh=00_Afs3acJeChhJ7DFOIQz3cVDMneG85UJXCaXlLV8uuSF7SA&oe=69A63101" group-title="Romania",Simplu Radio
@@ -1321,6 +1321,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fasculta.muzicaok.de%3A8046
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fweb.smartradio.ro%3A8443%2Fsmartrave
 #EXTINF:-1 tvg-logo="https://radiounumanele.ro/wp-content/uploads/2025/05/cropped-Radio-1-1.jpg" group-title="Romania",Radio 1 Manele România -Brașov
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fssl.omegahost.ro%2F8000%2Fstream
+#EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900491.webp" group-title="Romania",IMPACT TV DANCE
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fonline.tvimpact.live%2Fhls%2Fdancetv.m3u8
 #EXTINF:-1 tvg-logo="https://www.vrtw.life/wp-content/themes/storefront-child/assets/images/footer_logo.png" group-title="Romania",VRTW Radio (Vinyl Rum Tapas and Wine)
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreamer.radio.co%2Fs17198c529%2Flisten
 #EXTINF:-1 tvg-logo="https://radiovocescampi.ro/wp-content/uploads/2021/12/LOGO-DESK.png" group-title="Romania",Voces Campi -Călărași
@@ -1339,5 +1341,3 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fonline.webcastradio.ro%2F
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fssl.asculta.live%3A8310%2F%3B
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Romania",Rock FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.rockfm.ro%2Frockfm.aacp%23W
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Romania",Radio Romantic- Modern Talking
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.pcradio.ru%2FModern_Talking-hi

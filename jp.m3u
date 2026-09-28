@@ -187,10 +187,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frelay0.r-a-d.io%2Fmain.mp
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fshoutcast.wrn.org%3A8025%2Fnhk41right
 #EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="Japan",NHK WORLD RADIO 4
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreaming.edmradio.online%3A8025%2Fnhk41left
-#EXTINF:-1 tvg-logo="https://plaza.one/icons/apple-touch-icon.png" group-title="Japan",Nightwave Plaza (HLS)
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradio.plaza.one%2Fhls
 #EXTINF:-1 tvg-logo="https://cdn.comic.studio/avatars/37112.3f07b3e0a35911883b8180c5658acbe0.png" group-title="Japan",Chifuru!
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F157.254.194.202%2Fstream%2Fnanahira%40256
+#EXTINF:-1 tvg-logo="https://plaza.one/icons/apple-touch-icon.png" group-title="Japan",Nightwave Plaza (HLS)
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradio.plaza.one%2Fhls
 #EXTINF:-1 tvg-logo="null" group-title="Japan",Abdulbasit Abdulsamad
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.mp3islam.com%2Flisten%2Fabdulbasit%2Fradio.mp3
 #EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="Japan",NHK WORLD RADIO 7
@@ -237,14 +237,16 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fserver10.reliastream.com%
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fcast3.torontocast.com%3A1170%2F%3B
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhZEuoehgOWZQ9CsL8dfuQa_pprJWjwX0qa9dleM9-YTsX3CWe2exejZEbF3mQEHIPK3j51FQmPM1Zs14jJQpOpmMRleOlyOrMajL0ORzlGxHXQLyr5NfIJ9Yl90gY-Ou1Ls3gBt-UVQbHUlOCAFBJ03EodiiuPTcdr4SmZ_oKKU_ifIoc_my7kMAZ15r8=w800" group-title="Japan",stereoanime
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.stereoanime.com%2Flisten%2Fstereoanime%2F128
-#EXTINF:-1 tvg-logo="https://images.zeno.fm/TrBD3tEtOJbMAdKu3XR64pWUT2XTjBhzgn2n2w_lFnE/rs:fit:500:500/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNBeF92bDF3b01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNBZ0lEeWlBb01vZ0VFZW1WdWJ3L2ltYWdlLz9yZXNpemU9NTAweDUwMCZ1cGRhdGVkPTE2NjI3NzM0MjEwMDA.webp" group-title="Japan",Anime Para Ti
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.zeno.fm%2Fqpn8mkt8c4duv
 #EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="Japan",NHK WORLD RADIO
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fnhkworld-radio.nhkworld.jp%2Fhls%2Flive%2Fnhkworld-radio-media2%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://images.zeno.fm/TrBD3tEtOJbMAdKu3XR64pWUT2XTjBhzgn2n2w_lFnE/rs:fit:500:500/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNBeF92bDF3b01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNBZ0lEeWlBb01vZ0VFZW1WdWJ3L2ltYWdlLz9yZXNpemU9NTAweDUwMCZ1cGRhdGVkPTE2NjI3NzM0MjEwMDA.webp" group-title="Japan",Anime Para Ti
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.zeno.fm%2Fqpn8mkt8c4duv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPOhkWJfkm-FcT4agmxooYSDpQbvXjMkbygX7ELFiIag&s=10" group-title="Japan",NHK World Radio (Korean)
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmaster.nhkworld.jp%2Fnhkworld-radio%2Fplaylist%2Frs1%2Flive.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mdnuovYgEJ9KclQYa5ECb4eR_94VbI-hNx4-Ml5YA7OQ=s900-c-k-c0x00ffffff-no-rj" group-title="Japan",Gotanno Radio micro FM station
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.gotanno.love%2F%3B
+#EXTINF:-1 tvg-logo="https://plaza.one/icons/apple-touch-icon.png?v=7knqx0ar5k" group-title="Japan",Nightwave Plaza MP3 182
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradio.plaza.one%2Fmp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Japan",J-Rock Powerplay(Asia DREAM Radio)
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fkathy.torontocast.com%3A3340%2F%3B%3Fshoutcast
 #EXTINF:-1 tvg-logo="https://cdn.comic.studio/avatars/37112.3f07b3e0a35911883b8180c5658acbe0.png" group-title="Japan",Chiafuru

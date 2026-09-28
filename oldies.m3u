@@ -135,10 +135,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplayerservices.streamthew
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive-bauerse-fm.sharp-stream.com%2Fretrofm_aacp%3Fua%3DWEB%26aw_0_1st.playerid%3DSBS_RP_WEB%26aw_0_1st.skey%3D1575715192%26companionAds%3Dtrue%26listenerId%3D%40%40GUID%40%40
 #EXTINF:-1 tvg-logo="http://static.fm.tuba.pl/stations/_img/zlote-przeboje_512.png" group-title="Poland",Złote Przeboje Poznań
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradiostream.pl%2Ftuba8926-1.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-disco_600x600.jpg" group-title="Germany",- 0 N - Disco on Radio
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F0n-disco.radionetz.de%2F0n-disco.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Hong Kong",Digital Radio Hong Kong
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fice.digitalradiohk.net%3A8000%2Fdrhk
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-disco_600x600.jpg" group-title="Germany",- 0 N - Disco on Radio
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F0n-disco.radionetz.de%2F0n-disco.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Switzerland",Traxx FM - Golden Oldies
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ftraxx023.ice.infomaniak.ch%2Ftraxx023-1.mp3
 #EXTINF:-1 tvg-logo="https://alloldieschannel.com/wp-content/uploads/2020/01/cropped-backgroundalloldieschannel-180x180.png" group-title="The Netherlands",All Oldies Channel
@@ -157,10 +157,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.zeno.fm%2F5t45zksv
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream-164.zeno.fm%2Fa1r491n45qzuv%3Fzs%3D-u5Rn38LQn6YWSNdfvxVYg
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_12e18c80af1f44a283eb3115b0ddd750~mv2.jpg" group-title="Canada", # RdMix Italo Disco 80s
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fcast1.torontocast.com%3A2130%2Fstream
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-70s_600x600.jpg" group-title="Germany",- 0 N - 70s on Radio
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F0n-70s.radionetz.de%2F0n-70s.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Mauritius",MBC Radio Maurice
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.mbconline.xyz%2Fhls%2Fradiomaurice.m3u8
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-70s_600x600.jpg" group-title="Germany",- 0 N - 70s on Radio
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F0n-70s.radionetz.de%2F0n-70s.aac
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="Germany",__90S__ by rautemusik (rm.fm)
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F90s-high.rautemusik.fm%2F%3Fref%3Dradiobrowser
 #EXTINF:-1 tvg-logo="https://media.bauerradio.com/image/upload/c_crop,g_custom/v1606492636/brand_manager/stations/agepcxvlmp6fbmslx6tt.jpg" group-title="Romania",Magic Party Mix
@@ -233,20 +233,20 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fallzic08.ice.infomaniak.ch
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FSTEREOREYAAC.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The United States Of America",SFLINY 70S Hits
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fec4.yesstreaming.net%3A2270%2F
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/77516.v2.png" group-title="Hungary",Poptarisznya Blues24
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fadas.poptarisznya.hu%3A8200%2Fblues.mp3
 #EXTINF:-1 tvg-logo="https://schwarzwaldradio.com/apple-touch-icon.png" group-title="Germany",Schwarzwaldradio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fedge18.streamonkey.net%2Ffho-schwarzwaldradiolive%2Fstream%2Fmp3%3Faggregator%3Dsmk-m3u-mp3
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/77516.v2.png" group-title="Hungary",Poptarisznya Blues24
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fadas.poptarisznya.hu%3A8200%2Fblues.mp3
 #EXTINF:-1 tvg-logo="https://casradio.cz/wp-content/themes/frontheme_woo/assets/img/logos/radio-cas5.png" group-title="Czechia",Radio Čas
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast6.play.cz%2Fcasradio128.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Romania",MusicFM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fedge126.rdsnet.ro%3A84%2Fprofm%2Fmusic-fm.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Republic Of Korea",올드팝카페
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fcast.oldpopcafe.net%3A7080%2F
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Other",Absolut Oldie Classics
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fabsolut-oldieclassics.live-sm.absolutradio.de%2Fabsolut-oldieclassics%3Faggregator%3DSurfmusik
 #EXTINF:-1 tvg-logo="https://www.ethioldies.com/static/uploads/browser_icon/192.1732350958.png" group-title="Ethiopia",Ethio Oldies
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fwww.ethioldies.com%2Flisten%2Fethioldies%2Fradio.mp3
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Other",Absolut Oldie Classics
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fabsolut-oldieclassics.live-sm.absolutradio.de%2Fabsolut-oldieclassics%3Faggregator%3DSurfmusik
 #EXTINF:-1 tvg-logo="https://www.goldiesradio.be///templates/urbanlife/favicon.ico" group-title="Belgium",Goldies Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Feu1.reliastream.com%3A7064%2Fstream
 #EXTINF:-1 tvg-logo="https://guldkanalen.se/wp-content/uploads/2015/10/cropped-favoicon-180x180.gif" group-title="Sweden",Guldkanalen Helsingborg
@@ -321,12 +321,12 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flive.goldfm.hr%3A8068%2F
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F0n-relax.radionetz.de%2F0n-relax.mp3
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s25741/images/logog.jpg?t=1" group-title="Belgium",JOE
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficecast-qmusicbe-cdp.triple-it.nl%2Fjoe.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-christmas_600x600.jpg" group-title="Germany",- 0 N - Christmas on Radio
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F0n-christmas.radionetz.de%2F0n-christmas.mp3
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-50s_600x600.jpg" group-title="Germany",- 0 N - 50s on Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F0n-50s.radionetz.de%2F0n-50s.mp3
 #EXTINF:-1 tvg-logo="https://cdn.radiovlna.sk/img/logo/apple-touch-icon.png?v=2023-10-09-10-40" group-title="Slovakia",Rádio Vlna Oldies Party
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radiovlna.sk%2Fparty-hi.mp3
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-christmas_600x600.jpg" group-title="Germany",- 0 N - Christmas on Radio
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F0n-christmas.radionetz.de%2F0n-christmas.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",Radio1920
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.laut.fm%2Fradio1920
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Romania",Magic Fm
@@ -343,10 +343,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream-163.zeno.fm%2F6gv7
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F0-24oldiespoprock.stream.laut.fm%2F0-24_oldies_pop_rock%3Ft302%3D2018-02-08_09-30-33%26uuid%3D3ac88db9-1764-4e5a-a776-f42c2a4ffe7a
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The United States Of America",__1 oldies
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F80sexitos.stream.laut.fm%2F80sexitos
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/favicon.ico" group-title="France",Allzic Radio 50s
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fallzic29.ice.infomaniak.ch%2Fallzic29.mp3
 #EXTINF:-1 tvg-logo="https://feelgoodradio.nl/favicon.ico" group-title="The Netherlands",Feel Good Radio 107.6 FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flive.feelgoodradio.eu%3A8344%2Fstream
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/favicon.ico" group-title="France",Allzic Radio 50s
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fallzic29.ice.infomaniak.ch%2Fallzic29.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Mexico",UNIVERSAL y LA OCTAVA (Ciudad de México) - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de México
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FXERED_AM.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",Crooner Radio Legends
@@ -367,16 +367,16 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.revma.ihrhls.com%2
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreams.antennemv.de%2Foldies%2Fmp3-128%2Fstreams.antennemv.de%2F
 #EXTINF:-1 tvg-logo="http://www.westcityradio.ro/favicon.ico" group-title="Romania",West City Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flive.westcityradio.ro%3A8000%2Fmp3
-#EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-60er_600x600.jpg" group-title="Germany",- 1 A - 60er von 1A Radio
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F1a-60er.radionetz.de%2F1a-60er.mp3
 #EXTINF:-1 tvg-logo="https://i0.wp.com/iskcrocks.com/wp-content/uploads/2019/01/OMR-Ticket.jpg?fit=720%2C400&ssl=1" group-title="The Netherlands",ISKC Old Men's Rock
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F443-1.autopo.st%2F79%2FOldMenRock
+#EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-60er_600x600.jpg" group-title="Germany",- 1 A - 60er von 1A Radio
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F1a-60er.radionetz.de%2F1a-60er.mp3
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",RMC GOLD
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fhls-rmcgold.nextradiotv.com%2Fssai%2F192k%2Fmedia.m3u8
 #EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-90er_600x600.jpg" group-title="Germany",- 1 A - 90er von 1A Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F1a-90er.radionetz.de%2F1a-90er.aac
 #EXTINF:-1 tvg-logo="https://kvkvi.com/wp-content/uploads/2024/02/luxa.org-bordered-Groovy-White-600x600-jpg.jpg" group-title="The United States Of America",Groovy Radio - 60's and 70's Oldies
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fr1.comcities.com%2Fproxy%2Femogddug%2Fstream
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="France",RMC GOLD
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fhls-rmcgold.nextradiotv.com%2Fssai%2F192k%2Fmedia.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",0nlineradio 50s
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.0nlineradio.com%2F50s%3Fref%3Dradiobrowser
 #EXTINF:-1 tvg-logo="https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/665b308b-626d-469f-859e-1e7430360c50.png?w=600&ar=1x1" group-title="Norway",P8 Pop (MP3 128k)
@@ -457,12 +457,12 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F0n-schlagergold.radionetz
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flisten.mrg.fm%3A8100%2Fstream
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-schlager-gold_600x600.jpg" group-title="Germany",- 0 N - Schlager Gold on Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F0n-schlagergold.radionetz.de%2F0n-schlagergold.aac
+#EXTINF:-1 tvg-logo="https://www.radiovacanta.ro/wp-content/themes/radiovacanta/images/favicons/favicon-96x96.png" group-title="Romania",Radio Vacanța - Gold 
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream4.srr.ro%3A8443%2Fgold_rv
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Other",Oldoldies
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Foldoldies.stream.laut.fm%2Foldoldies
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gdXevHV5vIDttggvGr_Dv3XI_DTnhmLiUJ0VD8OL1tX0s9Dvrkqctbu3GrhKbE-bRiAy=w300" group-title="Germany",SR 3 Saarlandwelle (56 kbit/s)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fsr.audiostream.io%2Fsr%2F1011%2Fmp3%2F56%2Fsr3
-#EXTINF:-1 tvg-logo="https://www.radiovacanta.ro/wp-content/themes/radiovacanta/images/favicons/favicon-96x96.png" group-title="Romania",Radio Vacanța - Gold 
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream4.srr.ro%3A8443%2Fgold_rv
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-disco_600x600.jpg" group-title="Germany",- 0 N - Disco on Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F0n-disco.radionetz.de%2F0n-disco.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",0nlineradio 80s
@@ -583,10 +583,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radiovlna.sk%2Fpar
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FXEFRAMAAC.aac
 #EXTINF:-1 tvg-logo="https://mm.aiircdn.com/615/5d77b0909f0e5.png" group-title="The United Kingdom Of Great Britain And Northern Ireland",U105
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fgbradio.cdn.tibus.net%2FU105%3Fref%3Drf
-#EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-ndw_600x600.jpg" group-title="Germany",- 1 A - NDW (Neue Deutsche Welle) von 1A Radio
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F1a-ndw.radionetz.de%2F1a-ndw.aac
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CWXS1ua.png" group-title="Peru",MI Radio (Percy Altamirano & Dj Ethamx)
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream-170.zeno.fm%2Fg9afqk829ibtv
+#EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-ndw_600x600.jpg" group-title="Germany",- 1 A - NDW (Neue Deutsche Welle) von 1A Radio
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F1a-ndw.radionetz.de%2F1a-ndw.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",#1 Splash 60s
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fc4.auracast.net%2Fradio%2F8020%2Fradio.mp3
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-newwave_600x600.jpg" group-title="Germany",- 0 N - New Wave on Radio
@@ -597,10 +597,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F89.43.138.116%3A8000%2Frad
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flisten.mrg.fm%3A8020%2Fstream
 #EXTINF:-1 tvg-logo="https://upload.norawebstreams.de/production/static/1688454086166/icons/icon_64.a8000000000.png" group-title="Germany",NORA Webstream
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreams.norawebstreams.de%2Fnora-live%2Fmp3-192%2Fstreams.norawebstreams.de%2F
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Mexico",UNIVERSAL Ciudad de México - 1110 AM - XERED-AM - Grupo Radio Centro - Ciudad de México
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FXERED_AMAAC.aac
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-christmas_600x600.jpg" group-title="Germany",- 0 N - Christmas on Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F0n-christmas.radionetz.de%2F0n-christmas.mp3
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Mexico",UNIVERSAL Ciudad de México - 1110 AM - XERED-AM - Grupo Radio Centro - Ciudad de México
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FXERED_AMAAC.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Spain",Inolvidable FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fuk1.streamingpulse.com%2Fssl%2Finolvidablefm
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Spain",80s Super Dancefloor
@@ -623,10 +623,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.radioking.com%2Fra
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmdstrm.com%2Faudio%2F673788019b826f0dc1842750%2Ficecast.audio
 #EXTINF:-1 tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1442/2020/06/05150844/cropped-radioplus-logo-180x180.png" group-title="The United States Of America",Oldies 103.3 FM/1170 AM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fice24.securenetsystems.net%2FWFDLAM%3F%26playSessionID%3D797937C8-FCF5-342C-87990F68DDABEC5D
-#EXTINF:-1 tvg-logo="https://www.schwarzwaldradio.com/apple-touch-icon.png" group-title="Germany",Schwarzwaldradio (AAC New Stream URL as of 2023)
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ffrontend.streamonkey.net%2Ffho-schwarzwaldradiolive%2Fstream%2Faacp%3Fminvbr%3D6%26maxvbr%3D6
 #EXTINF:-1 tvg-logo="http://www.iqilu.com/favicon.ico" group-title="China",山东经典音乐广播
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Faudiolive302.iqilu.com%2FsdradioShenghuo%2Fsdradio04%2Fplaylist.m3u8
+#EXTINF:-1 tvg-logo="https://www.schwarzwaldradio.com/apple-touch-icon.png" group-title="Germany",Schwarzwaldradio (AAC New Stream URL as of 2023)
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ffrontend.streamonkey.net%2Ffho-schwarzwaldradiolive%2Fstream%2Faacp%3Fminvbr%3D6%26maxvbr%3D6
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The United States Of America",Outpost Radio - Christmas Oldies (VIP)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fchristmasoldies.com%2Fpvt102
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s220691d.png" group-title="Mexico",  STEREOREY: La Máxima Dimensión del Radio
@@ -669,10 +669,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fs2.radio.co%2Fsf25229e16%
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flive.gruen-weiss.at%2Frgw.aac
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/485/stereo-cien-1001-fm.640ab4a2.jpg" group-title="Mexico", STEREO CIEN 1000 (CDMX) - 1000 AM - XEOY-AM - NRM Comunicaciones - Ciudad de México
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FXHMMFMAAC.aac
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Romania",gofm.ro
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flive.gofm.ro%3A9128%2F
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/6hRGTNI71WD1Kg-RhvPEetC1oLoN9cVEDRmQLekLJe4/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYjU4OTVhY2YtZmNlOC00MjYzLTk1OTktZjhmOGZhNzE4MTU4L2ltYWdlLz91PTE3MjYwMTI0NTcwMDA.webp" group-title="Colombia",Viejitas Pero Bonitas Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.zeno.fm%2Ft4pj1qaktrwtv
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Romania",gofm.ro
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flive.gofm.ro%3A9128%2F
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",0nlineradio SCHLAGER OLDIES
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.0nlineradio.com%2Fschlager-oldies%3Fref%3Dradiobrowser
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s91217/images/logod.jpg" group-title="Mexico", LG LA GRANDE 95.5 (León) - 95.5 FM - XHELG-FM - Promomedios - León Guanajuato
@@ -713,10 +713,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F82.64.123.204%3A8001%2F21r
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fs2.yesstreaming.net%3A17042%2Fstream
 #EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/b7f246d3-780f-4969-8d78-d2c1ec563917.png" group-title="Greece",80smania
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F158.69.114.190%3A8024%2Fstream
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fzm8qNPq/Retro-107-5.jpg" group-title="Mexico", Retro 107.5 (GDL) - 107.5 FM - XHVOZ-FM - Grupo Audiorama Comunicaciones - Guadalajara Jalisco
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fss1.audiorama.com.mx%3A6574%2Fvibefm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xxj9zX6w/80s.png" group-title="Germany",0R - 80s || 80s Pop 80s Hits Synthpop New Wave Dance Disco Pop Classics Retro Teen Pop Funk Pop Rock Chart Hits 80s Dance Nostalgic Hit Songs
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F0nlineradio.radioho.st%2F0r-80s%3Fref%3Dradio-browser26
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fzm8qNPq/Retro-107-5.jpg" group-title="Mexico", Retro 107.5 (GDL) - 107.5 FM - XHVOZ-FM - Grupo Audiorama Comunicaciones - Guadalajara Jalisco
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fss1.audiorama.com.mx%3A6574%2Fvibefm
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="China",湖北经典音乐广播
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flhttp.qtfm.cn%2Flive%2F1296%2F64k.mp3
 #EXTINF:-1 tvg-logo="http://pic.qingting.fm/2022/0115/20220115043946.gif" group-title="China",涿州综合广播年代音乐959
@@ -725,10 +725,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flhttp.qtfm.cn%2Flive%2F50
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radiojar.com%2F6pz06e8nv4zuv
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The United States Of America",Oldies WTTF
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fice64.securenetsystems.net%2FWTTF
-#EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-70er_600x600.jpg" group-title="Germany",- 1 A - 70er von 1A Radio
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F1a-70er.radionetz.de%2F1a-70er.aac
 #EXTINF:-1 tvg-logo="https://radiopogoda.pl/wp-content/uploads/sites/2/fbrfg/apple-touch-icon.png?v=2" group-title="Poland",Radio Pogoda Gdańsk
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradiostream.pl%2Ftuba145-1.mp3
+#EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-70er_600x600.jpg" group-title="Germany",- 1 A - 70er von 1A Radio
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F1a-70er.radionetz.de%2F1a-70er.aac
 #EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-60er_600x600.jpg" group-title="Germany",- 1 A - 60er von 1A Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F1a-60er.radionetz.de%2F1a-60er.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",1000 GOLDIES
@@ -771,18 +771,18 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.pull.hebtv.com%2Fli
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fdieneue1077.cast.addradio.de%2Fdieneue1077%2Foldie%2Fhigh%2Fstream.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="China",栾城怀旧金曲965
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flhttp.qingting.fm%2Flive%2F5022038%2F64k.mp3%3F
+#EXTINF:-1 tvg-logo="http://funradio.ro/favicon.png" group-title="Romania",FUN Radio Romania
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fonline.webcastradio.ro%2Ffun
 #EXTINF:-1 tvg-logo="https://mrg.fm/img/ambientradio125.jpg" group-title="The United States Of America",60sRadio (MRG.fm)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flisten.mrg.fm%3A8020%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Denmark",Always ELVIS Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradioserver.dk%2Falwayselvisradio
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4K5Xkqz/mix.jpg" group-title="Mexico",  MIX: 80's 90's y Más
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F18363.live.streamtheworld.com%3A443%2FXHDFMFMAAC.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",CFXL 103.1 "XL103" Calgary AB
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnewcap.leanstream.co%2FCFXLFM-MP3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Czechia",Rádio MB
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast3.play.cz%2Fradiomb.mp3
-#EXTINF:-1 tvg-logo="http://funradio.ro/favicon.png" group-title="Romania",FUN Radio Romania
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fonline.webcastradio.ro%2Ffun
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4K5Xkqz/mix.jpg" group-title="Mexico",  MIX: 80's 90's y Más
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F18363.live.streamtheworld.com%3A443%2FXHDFMFMAAC.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Stadtradio Meran
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F94.23.66.155%3A9250%2Fsrmhigh
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Israel",Radio 100% 90s
@@ -869,14 +869,14 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fwebradio.radio-seefunk.de%
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmasfm.b-cdn.net%2Fstream
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0hqCjWF/smoothvintage.png" group-title="Australia",Smooth Vintage Australia (AAC+ 320k)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FSMOOTHVINTAGE_SYD_AAC320.aac
+#EXTINF:-1 tvg-logo="https://assets.bcs-systems.de/img/favicons/antenne-sachsen-favicon.png" group-title="Germany",Antenne Sachsen
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fhermes.bcs-systems.de%2Fantenne-sachsen_192k_mp3
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-schlager-kult_600x600.jpg" group-title="Germany",- 0 N - Schlager Kult on Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F0n-schlagerkult.radionetz.de%2F0n-schlagerkult.mp3
 #EXTINF:-1 tvg-logo="https://www.ffn.de/fileadmin/ffn.de/musik/streams/607080radio.png" group-title="Germany",ffn 607080
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fffn-de-hz-fal-stream03-cluster01.radiohost.de%2Fffn-607080radio_mp3-192
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",R.SA Schlager
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Frsa.streamabc.net%2Fregc-rsasachsen60erold5866133-mp3-192-1592541%3FsABC%3D6no705rq%25230%2523r30o443r1929r059s085628511796n57%2523fgernzf.efn-fnpufra.qr%26aw_0_1st.playerid%3Dstreams.rsa-sachsen.de%26amsparams%3Dplayerid%3Astreams.rsa-sachsen.de%3Bskey%3A1790379501
-#EXTINF:-1 tvg-logo="https://assets.bcs-systems.de/img/favicons/antenne-sachsen-favicon.png" group-title="Germany",Antenne Sachsen
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fhermes.bcs-systems.de%2Fantenne-sachsen_192k_mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Azzurra
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.laut.fm%2Fradioazzurra
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Mexico",Wow (Torreón) - 101.1 FM - XHDN-FM - GPS Media - Torreón Coahuila
@@ -927,14 +927,14 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F0nlineradio.radioho.st%2F
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.wlmm.dk%2F%3B
 #EXTINF:-1 tvg-logo="http://www.extragold.nl/favicon.ico" group-title="The Netherlands",Extra Gold 
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fextragold.stream-server.nl%2Fstream%3Ftype%3Dhttp%26nocache%3D124795
+#EXTINF:-1 tvg-logo="https://moremalc.com/natsukashii.jpeg" group-title="Japan",J-Pop Sakura (asia DREAM radio)
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fquincy.torontocast.com%3A2070%2Fstream.mp3
 #EXTINF:-1 tvg-logo="https://azuracast.streams.ovh/static/uploads/radiokyklos/background.1674896986.png" group-title="Greece",RadioKyklos - Greek Hiphop
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fazuracast.streams.ovh%2Flisten%2Fradiokyklos%2Fradio.mp3
 #EXTINF:-1 tvg-logo="https://www.radiobochum.de/assets/images/favicons/radiobochum/favicon.ico" group-title="Germany",Radio Bochum - Oldies
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Frnrw.cast.addradio.de%2Frnrw-0140%2Fdeinoldieradio%2Fmp3%2Fhigh%2Fstream.mp3
 #EXTINF:-1 tvg-logo="http://cmsres.dianzhenkeji.com/files/images/2018/01/05/1515144881197542.png" group-title="China",河南网络星河音乐台
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.hndt.com%2Flive%2F1061%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://moremalc.com/natsukashii.jpeg" group-title="Japan",J-Pop Sakura (asia DREAM radio)
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fquincy.torontocast.com%3A2070%2Fstream.mp3
 #EXTINF:-1 tvg-logo="http://schwany.de/favicon.ico" group-title="Germany",Schwany Radio Bläss
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio-blaess.spcast.eu%3A443%2Fstream%3Ftime%3D1790387822
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",Radio Ostrock
@@ -1007,10 +1007,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radiotechnikum.at%
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.laut.fm%2Foldiecharts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7JkVvXK/d646aeb7-2766-42cb-8137-018b5df82e48.webp" group-title="The United States Of America",CLASSIC OLDIES (MP3)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreaming.live365.com%2Fa48206
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Romania",Radio Bandit
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flive.radiobandit.ro%3A8000%2F320.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The United States Of America",Sunny Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.revma.ihrhls.com%2Fzc5014
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Romania",Radio Bandit
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flive.radiobandit.ro%3A8000%2F320.mp3
 #EXTINF:-1 tvg-logo="https://non-stop-radio.blr1.cdn.digitaloceanspaces.com/new_images/radio/64429.png" group-title="Morocco",Tarab Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.zeno.fm%2Ffy8achbq97zuv
 #EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/428799/f8aac16829ee95b1e5949009a47f3461_165x165.webp" group-title="Honduras",Estereo Sur 91.3 FM
@@ -1275,12 +1275,12 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fcast1.torontocast.com%3A1
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.laut.fm%2Fradio-ahaus
 #EXTINF:-1 tvg-logo="https://i.ibb.co/674Yy9b8/2000s.png" group-title="Germany",* 2000s || 2000er Pop Charts Dance Electro RnB Club Hits Party Radio Hits Mainstream Teen Pop Eurodance Feel Good Throwback Klassiker
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F0nlineradio.radioho.st%2F0r-2000er%3Fref%3Drb26
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Czechia",Óčko Star
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Focko-live-dash.ssl.cdn.cra.cz%2Fcra_live2%2Focko_gold.stream.1.smil%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Radio Hits
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnr8.newradio.it%3A9574%2Fstream
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1FNrZ5v/CLUB-CHARTS-2026.jpg" group-title="Germany",## CLUB CHARTS - TOP 100 CLUB CHARTS - DJ CHARTS - CLUBBING HITS - DANCE - TECHNO - RAVE - EDM - HOUSE - TECHHOUSE - REMIX - TRANCE - HARDSTYLE - MINIMAL - IBIZA - CHILLOUT - URBAN - HIP HOP - RNB - LATIN RADIO
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fbreakz-2012-high.rautemusik.fm%2F%3Fref%3Drb-clubcharts26
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Czechia",Óčko Star
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Focko-live-dash.ssl.cdn.cra.cz%2Fcra_live2%2Focko_gold.stream.1.smil%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Mexico",Inolvidable (Jerez) - 90.7 FM - XHJRZ-FM - Grupo Radiofónico ZER - Jerez Zacatecas
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fcast.zuperdns.net%2F8014%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Mexico",UNIVERSAL 1110 AM (CDMX) - 1110 AM - XERED-AM - Grupo Radio Centro - Ciudad de México
@@ -1299,6 +1299,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fice3.securenetsystems.net%
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fi2.streams.ovh%3A7017%2F%3Bs.mp3%252613142580629%3F1561638450138
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/327471_ico.png?ts=1691737702" group-title="Mexico",HITS AND MIX RADIO 2
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.zeno.fm%2Fi3qst49cmjwtv
+#EXTINF:-1 tvg-logo="https://oldhit.org/img/fav/favicon180.png" group-title="The Russian Federation",Radio OldHit
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Foldhit.org%3A8000%2F
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/XHMV_LaZeta93.9_logo.png" group-title="Mexico",La Zeta (Hermosillo) - 93.9 FM - XHMV-FM - Uniradio - Hermosillo Sonora
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreamingcwsradio30.com%3A7027%2Fstream%3Ftype%3Dhttp%26nocache%3D1
 #EXTINF:-1 tvg-logo="https://thumbnail.anii.io/mx/radio-extasis-digital-107-7-fm-morelos-mexico.webp" group-title="Mexico", EXTASIS DIGITAL 107.7 (Cuernavaca) - 107.7 FM - XHASM-FM - Radiorama Morelos - Cuernavaca Morelos
@@ -1315,8 +1317,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flhttp.qtfm.cn%2Flive%2F48
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F0n-evergreens.radionetz.de%2F0n-evergreens.aac
 #EXTINF:-1 tvg-logo="http://img.sedoparking.com/templates/logos/sedo_logo.png" group-title="Germany",Chat-Fire
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.laut.fm%2Fchat-fire
-#EXTINF:-1 tvg-logo="https://oldhit.org/img/fav/favicon180.png" group-title="The Russian Federation",Radio OldHit
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Foldhit.org%3A8000%2F
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/hmfg63xcwtwj.jpg" group-title="Germany",Radio Souvenir 1 - Schlager 1950 bis 1989
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fsouvenir.spcast.eu%3A443%2Fstream%3Ftime%3D1790438545
 #EXTINF:-1 tvg-logo="https://images.rsa-sachsen.de/files/2024-07/streamtile-rsa-beatles-radio.jpg" group-title="Germany",R.SA Beatles [64 kbps]
@@ -1685,6 +1685,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreamingcwsradio30.com%3
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F1a-70er.radionetz.de%2F1a-70er.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",Miniradio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.laut.fm%2Fminiradio
+#EXTINF:-1 tvg-logo="https://outpostradio.com/57chevyradio/57chevy_logo2-full.jpg" group-title="The United States Of America",Outpost Radio - 57 Chevy Radio (VIP)
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F57chevyradio.com%2Fpvt102
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Australia",Stereo 10 Brisbane
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fs47.myradiostream.com%3A15786%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Romania",Radio Aquila
@@ -1715,14 +1717,14 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplayerservices.streamthew
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.revma.ihrhls.com%2Fzc1437%2Fhls.m3u8%3Fstreamid%3D1437
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",Laut.fm Oldies
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flaut.fm%2Foldoldies
-#EXTINF:-1 tvg-logo="https://outpostradio.com/57chevyradio/57chevy_logo2-full.jpg" group-title="The United States Of America",Outpost Radio - 57 Chevy Radio (VIP)
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F57chevyradio.com%2Fpvt102
 #EXTINF:-1 tvg-logo="https://www.4urock.com/favicon.ico" group-title="The United States Of America",4U Rock Live
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstr4uice.streamakaci.com%2F4urocklive.mp3
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipO1nU_lDtIzU5-Sv6EZFzE7Wa-ttB38YYWP5f3A=s680-w680-h510" group-title="Austria",Popwelle WörtherseeAutoDJ
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fpopwellezwei.sp.radio.fm%2Fstream
 #EXTINF:-1 tvg-logo="http://res.cnwest.com/t/site/10001/663789250d35fb30006597dcddc4be8b/assets/sxtvs2019/sxtvs_pindao/images/1055.jpg" group-title="China",陕西青少广播
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flive.ximalaya.com%2Fradio-first-page-app%2Flive%2F870%2F64.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/82b05f_8193c647efa94b70a93346c2a9e39f19%7emv2.jpg/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/82b05f_8193c647efa94b70a93346c2a9e39f19%7emv2.jpg" group-title="France",Retro Souvenirs Radio
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.radioking.com%2Fradio%2F108%2Fstream%2F890
 #EXTINF:-1 tvg-logo="http://i.imgur.com/YzFIMmQ.jpg" group-title="Germany",Surf - Laut.FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fsurf.stream.laut.fm%2Fsurf
 #EXTINF:-1 tvg-logo="https://thebreeze.com.au/wp-content/uploads/2022/06/BreezeWideBay-102.5-300x78-1.png" group-title="Australia",The Breez 102.5 Wide Bay
@@ -1749,8 +1751,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fweb.radio.antennesachsen.
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fmscp3.live-streams.nl%3A8070%2Fradio
 #EXTINF:-1 tvg-logo="https://zoe.radio/zoeradio/images/logo-vierkant-512.png" group-title="Belgium",ZOE.radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.zoe.radio%2F48
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/82b05f_8193c647efa94b70a93346c2a9e39f19%7emv2.jpg/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/82b05f_8193c647efa94b70a93346c2a9e39f19%7emv2.jpg" group-title="France",Retro Souvenirs Radio
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.radioking.com%2Fradio%2F108%2Fstream%2F890
 #EXTINF:-1 tvg-logo="https://pic.qtfm.cn/2019/0815/20190815020529.jpeg" group-title="China",滁州南谯之声 经典983电台
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flhttp-hw.qtfm.cn%2Flive%2F20211575%2F64k.mp3
 #EXTINF:-1 tvg-logo="https://www.replay.fm/media/icons/rp/favicon-32x32.png" group-title="Germany",Replay.FM
@@ -1839,6 +1839,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.zeno.fm%2Fz2hquf0s
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradiostreaming.ert.gr%2Fvintage-radio
 #EXTINF:-1 tvg-logo="https://radiofunandmore.de/images/bilder/radiologo.png" group-title="Germany",RadioFunAndMoreRadioFunAndMore
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradiofunandmore.sp.radio.fm%2Fstream
+#EXTINF:-1 tvg-logo="https://pleier.ee/favicons/pleier/favicon-32x32.png" group-title="Estonia",Duo Gold (Estonia)
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fle301.euddn.net%2Fd7b71a6dff4796af396af55c344295a93922bd3fbae45673a8a5e0114de388fb69ae0ad04f33f822d7779f4697d2e84b482278cfdaacf7c36fe51b59745c2a741a2bdf6b7efc4b4db033ab5aae1236d0c6627514e12445ed90dfcd3a5e77699a232322ca79f0775caa03f5d0351226e6e537a7fc90950d1b8b3236b23dadccd712e06fbc303627a5e683a6e84b657a5485189b328c3060571d060c888ab588ce2cdfd0e0ed8ed93832f1f66d6653043b%2Fkuld.aac
 #EXTINF:-1 tvg-logo="https://gartenheim-radio.de/bilder/logo-radio-Gartenheim-fav.png" group-title="Germany",Gartenheim-RadioGartenheim-Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fgartenheimradio.sp.radio.fm%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Chile",CLG Radio 93.5 FM
@@ -1857,8 +1859,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplayerservices.streamthew
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Funsung80s.out.airtime.pro%3A8000%2Funsung80s_a
 #EXTINF:-1 tvg-logo="https://pic.qtfm.cn/2020/0817/20200817115611.jpeg" group-title="China",FM104.1北岳之声 浑源人民广播电台
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flhttp-hw.qtfm.cn%2Flive%2F20212209%2F64k.mp3
-#EXTINF:-1 tvg-logo="https://pleier.ee/favicons/pleier/favicon-32x32.png" group-title="Estonia",Duo Gold (Estonia)
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fle301.euddn.net%2Fd7b71a6dff4796af396af55c344295a93922bd3fbae45673a8a5e0114de388fb69ae0ad04f33f822d7779f4697d2e84b482278cfdaacf7c36fe51b59745c2a741a2bdf6b7efc4b4db033ab5aae1236d0c6627514e12445ed90dfcd3a5e77699a232322ca79f0775caa03f5d0351226e6e537a7fc90950d1b8b3236b23dadccd712e06fbc303627a5e683a6e84b657a5485189b328c3060571d060c888ab588ce2cdfd0e0ed8ed93832f1f66d6653043b%2Fkuld.aac
 #EXTINF:-1 tvg-logo="https://pic.qtfm.cn/2024/0109/20240109105403.png" group-title="China",枣强综合广播 年代995
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flhttp-hw.qtfm.cn%2Flive%2F20500202%2F64k.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The United States Of America",WGHQ 920 Magic 92.5 FM
@@ -1869,6 +1869,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F162.252.85.85%3A8502%2F
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Frsa.streamabc.net%2Fregc-rsasachsen70erold9456468-mp3-192-1215651%3FsABC%3D6no74202%25230%2523r30o443r1929r059s085628511796n57%2523fgernzf.efn-fnpufra.qr%26aw_0_1st.playerid%3Dstreams.rsa-sachsen.de%26amsparams%3Dplayerid%3Astreams.rsa-sachsen.de%3Bskey%3A1790394882
 #EXTINF:-1 tvg-logo="https://stream.radiohermax.nl/static/uploads/hermax/album_art.1707338120.jpg" group-title="The Netherlands",Radio Hermax
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radiohermax.nl%2Flisten%2Fhermax%2Fhermax
+#EXTINF:-1 tvg-logo="https://radiostorm.com/favicon.ico" group-title="The United States Of America",Classic R&B (Star 104 / Radiostorm)
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fdas-edge27-sa23-lax02.cdnstream.com%2F1070_64
 #EXTINF:-1 tvg-logo="https://api.ardmediathek.de/image-service/images/urn:ard:image:b366004f6196d70c?w=512" group-title="Germany",Bayern 1 Oberbayern (HLS 96)
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fbr-radio.ard-mcdn.de%2Fbr%2Fradio%2Fb1obb%2Fhls%2F96%2Fseglist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mdr.de/administratives/av/logo-182-resimage_v-variantSmall1x1_w-512.png" group-title="Germany",MDR SACHSEN-ANHALT – Das Radio wie wir
@@ -1887,10 +1889,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fjenny.torontocast.com%3A8
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fquincy.torontocast.com%2Fradiowaves
 #EXTINF:-1 tvg-logo="https://oldies96.com/wp-content/uploads/2021/10/NEW-96-icon.ico" group-title="Canada",CINB-FM "Oldies96" - Saint John NB
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fus9.streamingpulse.com%2Fssl%2Foldies96
-#EXTINF:-1 tvg-logo="https://radiostorm.com/favicon.ico" group-title="The United States Of America",Classic R&B (Star 104 / Radiostorm)
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fdas-edge27-sa23-lax02.cdnstream.com%2F1070_64
 #EXTINF:-1 tvg-logo="https://radio-pv.com/wp-content/uploads/2019/01-logo.png" group-title="Spain",Radio Primavera GC 107.3 FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radio-pv.com%2F
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s289060d.png" group-title="Romania",TOP DANCE România
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradiotopdance.ddns.net%3A8070%2F%3B
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Germany",knixx.fm - Dein Webradio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fs1.knixx.fm%2Fdein_webradio_64.aac
 #EXTINF:-1 tvg-logo="https://www.salyutfm.ru/wp-content/uploads/2023/11/cropped-logotip-180x180.png" group-title="The Russian Federation",Radio Salyut
@@ -1931,8 +1933,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.laut.fm%2Fradio-ma
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.laut.fm%2Fradiohamlar
 #EXTINF:-1 tvg-logo="https://pic.qtfm.cn/sso/48/1735543633395_CO1tkCEKo.png" group-title="China",固安县融媒体中心综合广播 FM107.9
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flhttp-hw.qtfm.cn%2Flive%2F20500225%2F64k.mp3
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s289060d.png" group-title="Romania",TOP DANCE România
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradiotopdance.ddns.net%3A8070%2F%3B
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The United States Of America",WKNRkeener13 
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.live365.com%2Fa68809
 #EXTINF:-1 tvg-logo="https://zoe.radio/zoeradio/images/logo-vierkant-512.png" group-title="Belgium",ZOE.radio
@@ -2045,6 +2045,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fi2.streams.ovh%3A7050%2Fl
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.laut.fm%2Fradiorob
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Italy",Babboleo Suono
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.rcs.revma.com%2Fsv2hu8qqv6bwv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2E587oK-ml8MVT2Szyl4WAtstUXidczrOPcTDy2B6yOIs1yYlPujACswh&s=10" group-title="Saint Vincent And The Grenadines",Magic 103.7 FM SVG
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fvideo1.getstreamhosting.com%3A8388%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Baltiyskiy Bereg
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F91.203.171.138%3A8080%2Fstream
 #EXTINF:-1 tvg-logo="http://pic.qtfm.cn/2021/0508/20210508054125.jpeg" group-title="China",无棣广播
@@ -2091,8 +2093,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplayerservices.streamthew
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flhttp-hw.qtfm.cn%2Flive%2F5022438%2F64k.mp3
 #EXTINF:-1 tvg-logo="https://imgur.com/a/j0r04LH" group-title="Argentina",RADIODJ
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fpulsedeck.org%2Flisten%2Fradiodj%2Fradio.mp3
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2E587oK-ml8MVT2Szyl4WAtstUXidczrOPcTDy2B6yOIs1yYlPujACswh&s=10" group-title="Saint Vincent And The Grenadines",Magic 103.7 FM SVG
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fvideo1.getstreamhosting.com%3A8388%2Fstream
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/XHPAL_Digimix95_logo.jpg" group-title="Mexico", DIGIMIX 95 95.9 (La Paz) - 95.9 FM - XHPAL-FM - Promomedios California - La Paz Baja California
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.zeno.fm%2Fpgs4nreif6yvv
 #EXTINF:-1 tvg-logo="https://www.fmdigitalcorrientes.com/logo_player.jpg" group-title="Argentina",Digital FM 102.1
@@ -2217,6 +2217,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreaming.qbn967.com.au%3A
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flhttp-hw.qtfm.cn%2Flive%2F20211658%2F64k.mp3
 #EXTINF:-1 tvg-logo="http://pic.qingting.fm/2020/0405/20200405120329.jpeg" group-title="China",崂山921
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.ximalaya.com%2Fradio-first-page-app%2Flive%2F2806%2F64.m3u8%3Ftranscode%3Dts
+#EXTINF:-1 tvg-logo="https://www.myhaliburtonnow.com/wp-content/uploads/2022/06/MOOSE-Haliburton.png" group-title="Canada",CFZN-FM "93.5 Moose FM" Haliburton ON 
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fvistaradio.streamb.live%2FSB00113
 #EXTINF:-1 tvg-logo="https://www.clasicradio.ro/logo/clasic80.jpg" group-title="Romania",Clasic Radio_80 -București
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.radioclasic.com%2Flisten%2Fradio_clasic_80%2Flive.mp3
 #EXTINF:-1 tvg-logo="https://www.mdr.de/administratives/av/logo-182-resimage_v-variantSmall1x1_w-512.jpg" group-title="Germany",MDR SACHSEN-ANHALT Halle
@@ -2273,8 +2275,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fsatellitepull.cnr.cn%2Fliv
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frelay1.bide-et-musique.com%3A9143%2F
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The United Kingdom Of Great Britain And Northern Ireland",Harmony Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream3.themediasite.co.uk%3A8244%2Fstream
-#EXTINF:-1 tvg-logo="https://www.myhaliburtonnow.com/wp-content/uploads/2022/06/MOOSE-Haliburton.png" group-title="Canada",CFZN-FM "93.5 Moose FM" Haliburton ON 
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fvistaradio.streamb.live%2FSB00113
 #EXTINF:-1 tvg-logo="https://www.clasicradio.ro/logo/clasic60.jpg" group-title="Romania",Clasic Radio_60 -București
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.radioclasic.com%2Flisten%2Fradio_clasic_60%2Flive.mp3
 #EXTINF:-1 tvg-logo="https://radiosalvator.com/wp-content/uploads/2024/06/logo-salvator.png" group-title="Indonesia",RADIO SALVATOR
@@ -2289,6 +2289,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreamingcwsradio30.com%3
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FSMOOTHVINTAGE_SYD.mp3
 #EXTINF:-1 tvg-logo="https://pic.qtfm.cn/2022/1121/20221121105514.jpeg" group-title="China",阜宁县融媒体中心 新闻综合广播
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flhttp-hw.qtfm.cn%2Flive%2F20207753%2F64k.mp3
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Sweden",Retro FM Sverige
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.rcs.revma.com%2F25knctp5vepwv
 #EXTINF:-1 tvg-logo="https://roulettefm.nl/roulettefm_nl/images/logo.svg" group-title="The Netherlands",Roulette FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.roulettefm.nl%2F
 #EXTINF:-1 tvg-logo="https://www.nostalgie.fr/artistes/favicon.ico/biographie" group-title="France",Nostalgie Funk
@@ -2343,8 +2345,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fss1.audiorama.com.mx%3A65
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F188.93.73.7%3A8064%2F
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hCoGCiYFwbdEHCRoEDpk_JO_wznwAmbDj2kp6ykv5qu9eKhI-seGNI5Swist_WpBzDg" group-title="Romania",SpaceFM Romania -SpaceFM Retro
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fretro.spacefm.live%2Flisten%2Fspacefm_retro%2Fretro128
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Sweden",Retro FM Sverige
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.rcs.revma.com%2F25knctp5vepwv
 #EXTINF:-1 tvg-logo="https://www.fmdigital.onlineradio.com.ar/img/logo.jpg?16095" group-title="Argentina",FM Digital 100.1
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming01.radiosenlinea.com.ar%3A10346%2Fstream
 #EXTINF:-1 tvg-logo="https://www.kccrcookiecrumbles.com/uploads/1/5/5/1/155167881/kccr-on-air-logo-master-1254x1254.png" group-title="The United States Of America",KCCR ON AIR | That’s The Way The Cookie Crumbles 
@@ -2399,6 +2399,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplayerservices.streamthew
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio-hls.mdr.de%2Fhls%2Flive%2F2112893%2Fmdr-284290-0-hls%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/c6d5e262-600f-457d-b681-b8b4da6f40d1" group-title="Mexico",93.1 Mix (Cancún) - 93.1 FM - XHYI-FM - Grupo ACIR - Cancún Quintana Roo
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F18243.live.streamtheworld.com%3A443%2FXHYIFMAAC.aac
+#EXTINF:-1 tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICw4KONiQsMCxIOU3RhdGlvblByb2ZpbGUYgICwwPH-ywoMogEEemVubw/images/logo?keep=w&resize=350x350" group-title="Romania",Hangos Rádió
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.zeno.fm%2Fmv62tmd8wp8uv
 #EXTINF:-1 tvg-logo="https://cdn.hotmixradio.com/hotmix-rap_us-en-mp3.jpg" group-title="France",Hotmix Classic Rap
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.hotmixradio.com%2Fhotmix-classic-rap-en-mp3%3Fprovider%3Dradiobrowser
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BKcds9h2/2974722-ico.png" group-title="The Netherlands",Rondiamusic
@@ -2485,8 +2487,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fvalleyfmstream.primcast.co
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.radioking.com%2Fradio%2F426136%2Fstream%2F479662
 #EXTINF:-1 tvg-logo="https://www.retrowelle.com/wp-content/uploads/2023/12/Logo-mit-Slogan-1170x309.png" group-title="Germany",Retrowelle 2 - Das Melodienradio (neu)
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.laut.fm%2Fretrowelle2
-#EXTINF:-1 tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICw4KONiQsMCxIOU3RhdGlvblByb2ZpbGUYgICwwPH-ywoMogEEemVubw/images/logo?keep=w&resize=350x350" group-title="Romania",Hangos Rádió
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.zeno.fm%2Fmv62tmd8wp8uv
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/75919.v9.png" group-title="Romania",Sound Four You -Craiova 128.0 DAB
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fssl.asculta.live%2F8222%2Fstream
 #EXTINF:-1 tvg-logo="https://triggerfm.com/images/channels/hartmut.png" group-title="Germany",Trigger.FM HARTMUT (HD Stream)
@@ -2549,9 +2549,3 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fa10.asurahosting.com%3A82
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fs5.citrus3.com%3A8244%2Fstream
 #EXTINF:-1 tvg-logo="https://jamtown.us/favicon.ico" group-title="The United States Of America",Jam Town
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F65.109.88.81%3A8160%2Fradio.mp3
-#EXTINF:-1 tvg-logo="https://radioerzgebirge-online.de/wp-content/uploads/2018/07/cropped-Radio-Erz-Favicon-32x32.png" group-title="Germany",Radio Oberwiesenthal
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radioerzgebirge-online.de%2Ferzradio.mp3
-#EXTINF:-1 tvg-logo="https://www.ria60.it/wp-content/uploads/2024/06/Logo-RIA60-1-1.png" group-title="Italy",Radio Italia Anni 60 Sardegna
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fice12.fluidstream.net%2Fria60_ca.aac
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXgiKnkF2bPVbsxaazvxELUYsW5TTB2tqLgTkywIOkNQ&s" group-title="Italy",Radio Lattemiele Cagliari
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fice09.fluidstream.net%2Flm_cagliari.mp3%3FFLID%3D8
