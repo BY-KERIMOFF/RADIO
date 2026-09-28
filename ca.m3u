@@ -245,10 +245,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flive.leanstream.co%2FCKDJF
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreams.radiomast.io%2Fref-lossless-ogg-flac-stereo
 #EXTINF:-1 tvg-logo="https://www.citynews1130.com/favicon.ico" group-title="Canada",CKWX "News 1130" Vancouver BC
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frogers-hls.leanstream.co%2Frogers%2Fvan1130.stream%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",98.5FM
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FCHMPFMAAC.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",The Oasis Modern Easy Listening
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fjenny.torontocast.com%3A2000%2Fstream%2Fthe-oasis%2Fstream
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",98.5FM
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FCHMPFMAAC.aac
 #EXTINF:-1 tvg-logo="https://globalnews.ca/wp-content/themes/shaw-globalnews/_img/pwa/news_square-144.png" group-title="Canada",CHED 630 (Edmonton AB)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flive.leanstream.co%2FCHEDAM
 #EXTINF:-1 tvg-logo="https://www.jack969.com/wp-content/uploads/sites/13/2023/03/cropped-static-logo-jack-969-180x180.png" group-title="Canada",CJAX "Jack 96.9"  Vancouver BC
@@ -279,12 +279,12 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fcbcradiolive.akamaized.ne
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flive.leanstream.co%2FCKRYFM-MP3
 #EXTINF:-1 tvg-logo="https://cladriteradio.com/wp-content/uploads/2018/07/cr_radio_thumb.jpg" group-title="Canada",Cladrite Radio at Live365
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreaming.live365.com%2Fa43564
+#EXTINF:-1 tvg-logo="https://www.irock247.com/favicon.ico" group-title="Canada",iRock24/7
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreamer.radio.co%2Fs493283a7e%2Flisten
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",CIRK 97.3 "K-97" Edmonton AB
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnewcap.leanstream.co%2FCIRKFM
 #EXTINF:-1 tvg-logo="https://boom997.com/wp-content/uploads/sites/31/2017/10/cropped-fm-logos_512x512_boom997.png?w=180" group-title="Canada",CJOT "Boom 99.7" Ottawa ON
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flive.leanstream.co%2FCJOTFM-MP3
-#EXTINF:-1 tvg-logo="https://www.irock247.com/favicon.ico" group-title="Canada",iRock24/7
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreamer.radio.co%2Fs493283a7e%2Flisten
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",ItaloDance Fm
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fhubble.shoutca.st%3A8120%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",Red FM 88.9
@@ -379,10 +379,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frogers-hls.leanstream.co%
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fcbcradiolive.akamaized.net%2Fhls%2Flive%2F2041057%2FES_R2ETR%2Fmaster.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",CKTB News/Talk 610 (St. Catharines ON)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F26433.live.streamtheworld.com%3A3690%2FCKTBAMAAC_SC
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",CIGV "New Country 100.7" Penticton BC
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnewcap.leanstream.co%2FCIGVFM
 #EXTINF:-1 tvg-logo="https://www.tsn.ca/img/tsn/icons/apple-touch-icon-120x120.png" group-title="Canada",CHUM TSN 1050 Toronto
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F26103.live.streamtheworld.com%3A3690%2FCHUMAMAAC_SC
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",CIGV "New Country 100.7" Penticton BC
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnewcap.leanstream.co%2FCIGVFM
 #EXTINF:-1 tvg-logo="https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png" group-title="Canada",Calm Radio - Brahms - Sampler
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreams.calmradio.com%2Fapi%2F287%2F128%2Fstream%2F%3B
 #EXTINF:-1 tvg-logo="https://915thebeat.com/wp-content/uploads/sites/2/2018/02/cropped-thebeat_512x512.png?w=180" group-title="Canada",CKBT 91.5 "The Beat" Kitchener ON
@@ -395,10 +395,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F29317.live.streamtheworld.
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fdreamsiteradiocp4.com%3A8016%2F
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",CKDQ "910 CFCW"  Drumheller AB
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnewcap.leanstream.co%2FCKDQAM
-#EXTINF:-1 tvg-logo="http://labgateradio.com/wp-content/uploads/2020/07/FullColor_1280x1024_72dpi-e1595865561342-246x300.png" group-title="Canada",Labgate Radio Clasic Rock
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fs2.ssl-stream.com%2Fradio%2F8170%2Fradio.mp3
 #EXTINF:-1 tvg-logo="https://www.cbc.ca/mediacentre/content/images/CBC_BC_logo.JPG" group-title="Canada",CBC Radio One - Vancouver BC (MP3 stream)
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F22983.live.streamtheworld.com%2FCBU2FM_CBC_SC
+#EXTINF:-1 tvg-logo="http://labgateradio.com/wp-content/uploads/2020/07/FullColor_1280x1024_72dpi-e1595865561342-246x300.png" group-title="Canada",Labgate Radio Clasic Rock
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fs2.ssl-stream.com%2Fradio%2F8170%2Fradio.mp3
 #EXTINF:-1 tvg-logo="http://khalsafm.com/favicon.ico" group-title="Canada",Khalsa FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F198.178.123.8%3A7798%2F%3Bstream.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",Gritty Rock Radio
@@ -681,6 +681,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F26373.live.streamtheworld
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Frawlco.leanstream.co%2FCFMCFM
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",CKRW 96.1 "The Rush" Whitehorse YT
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fckrw.streamon.fm%3A8000%2FCKRW-32k.aac
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",93.7 JR Country - Vancouver BC
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fredirect.jpbgdigital.com%2FCJJR
 #EXTINF:-1 tvg-logo="https://media.socastsrm.com/uploads/station/1650/cmsSiteLogo.png?r=56198" group-title="Canada",CKBW-FM 98.1 Bridgewater 94.5 Liverpool 93.1 Shelburne NS 
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fais-sa1.streamon.fm%2F7239_128k.aac
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/CBCRadioOne.svg/320px-CBCRadioOne.svg.png" group-title="Canada",CBC Radio One - Sudbury ON (MP3 stream)
@@ -691,28 +693,26 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frogers-hls.leanstream.co%
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frogers.leanstream.co%2Frogers%2Fvan1130.stream%2Ficy%3Fenvironment%3Dtunein%26args%3Dtunein_01
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/60748c32dd472088ec4bc4fc?ops=fit(960%2C960)%2Cresize(0%2C390) " group-title="Canada",TSN 1200
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F18003.live.streamtheworld.com%3A3690%2FCFGOAMAAC_SC
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",93.7 JR Country - Vancouver BC
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fredirect.jpbgdigital.com%2FCJJR
 #EXTINF:-1 tvg-logo="https://radio-addictive-50s.eu/images/logo175.jpg" group-title="Canada",Addictive-50s
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fquincy.torontocast.com%3A2920%2Fstream
 #EXTINF:-1 tvg-logo="https://media.socastsrm.com/uploads/station/1645/site_header_logo-61b73d6424a64.png" group-title="Canada",CJUK-FM "99.9 The Bay" Thunder Bay ON 
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fais-sa1.streamon.fm%2F7237_128k.aac%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://media.live365.com/download/b6b2cf5d-7596-471f-8aa4-fb4edd25612f.jpg" group-title="Canada",    Squirrel FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fs25.myradiostream.com%3A10092%2Fstream
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",CFRO Vancouver Cooperative Radio
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten-coopradio.sharp-stream.com%2Fcoopradio.mp3
 #EXTINF:-1 tvg-logo="https://www.cjad800.com/content/dam/audio/iheart-stations-logos/logo-cjad.svg" group-title="Canada",CJAD 800
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F26303.live.streamtheworld.com%2FCJADAM_SC
 #EXTINF:-1 tvg-logo="https://media.socastsrm.com/uploads/station/2266/hero_logo-5fa440d728111.png" group-title="Canada",93.7 K Country
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ftorres-media.streamb.live%2FSB00191%3Fstarttime%3D1692206600
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",CFFF 92.7 Trent Radio Peterborough ON
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ftrentradio.ca%3A8800%2Fhi-fi
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",CFRO Vancouver Cooperative Radio
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten-coopradio.sharp-stream.com%2Fcoopradio.mp3
 #EXTINF:-1 tvg-logo="https://boom1019.com/wp-content/uploads/sites/8/2018/02/cropped-boom101_512x512.png?w=180" group-title="Canada",CJSS "Boom 101.9" Cornwall ON
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flive.leanstream.co%2FCJSSFM-MP3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Energie_94.5.png/220px-Energie_94.5.png" group-title="Canada",CJAB-FM "Energie Saguenay-Lac-Saint-Jean 94.5"  Saguenay QC
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F29317.live.streamtheworld.com%2FCJABFMAAC_SC
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",SuperFM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Feagle.streemlion.com%2Fproxy%2Fed123%2Fstream
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Energie_94.5.png/220px-Energie_94.5.png" group-title="Canada",CJAB-FM "Energie Saguenay-Lac-Saint-Jean 94.5"  Saguenay QC
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F29317.live.streamtheworld.com%2FCJABFMAAC_SC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/CBCRadioOne.svg/320px-CBCRadioOne.svg.png" group-title="Canada",CBC Radio One - Victoria BC (MP3 stream)
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F22983.live.streamtheworld.com%2FCBCVFM_CBC_SC
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/object-images/42539173dfb44aa3d1d0f6035c757857.png" group-title="Canada",Ambient Art Sound
@@ -773,12 +773,12 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.radioking.com%2Fra
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fbayshore.leanstream.co%2FCIXKFM
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",iLive Radio.com - Toronto ON
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreaming.radio.co%2Fs735df8c1c%2Flisten
+#EXTINF:-1 tvg-logo="https://ckut.ca/logo.jpg" group-title="Canada",CKUT-FM 90.3 McGill University - Montreal QC
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdelray.ckut.ca%3A8001%2Fckut-live-128
 #EXTINF:-1 tvg-logo="http://www.northumberland897.ca/favicon.ico" group-title="Canada",CFWN "Northumberland 89.7" Cobourg ON
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnorthumberland.serverroom.net%3A8850%2F%3B
 #EXTINF:-1 tvg-logo="http://www.cjlo.com/misc/favicon.ico" group-title="Canada",CJLO 1690 Concordia University Montreal QC
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Frosetta.shoutca.st%3A8883%2Fstream
-#EXTINF:-1 tvg-logo="https://ckut.ca/logo.jpg" group-title="Canada",CKUT-FM 90.3 McGill University - Montreal QC
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdelray.ckut.ca%3A8001%2Fckut-live-128
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",CFUV 101.9 University of Victoria BC
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fcfuv.streamon.fm%3A8000%2FCFUV-64k.aac
 #EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2020/04/JB-Radio-2.jpg" group-title="Canada",JB Radio-2 (AAC)
@@ -877,6 +877,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreams.calmradio.com%3A14
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fice5.securenetsystems.net%2FCIRV
 #EXTINF:-1 tvg-logo="https://cfnj.net/wp-content/uploads/2020/10/cropped-favicon-cfnj-180x180.png" group-title="Canada",CFNJ 991 Saint-Gabriel-de-Brandon QC
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F66.70.178.194%3A9700%2Fstream
+#EXTINF:-1 tvg-logo="https://cdn.cogecolive.com/websites-public/logo_beat_color_default.svg" group-title="Canada",The Beat
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FCKBEFM.mp3
 #EXTINF:-1 tvg-logo="https://cfnj.net/wp-content/uploads/2020/10/cropped-favicon-cfnj-180x180.png" group-title="Canada",CFNJ 99.1 Saint-Gabriel-de-Brandon QC
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fcfnjzp.mine.nu%3A9700%2F
 #EXTINF:-1 tvg-logo="https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png" group-title="Canada",Calm Radio -J-pop
@@ -885,8 +887,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreams.calmradio.com%3A21
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fnewcap.leanstream.co%2FCFHIFM
 #EXTINF:-1 tvg-logo="https://www.stingray.com/wp-content/uploads/2024/09/Stingray_black_text.svg" group-title="Canada",Stingray ''Classic Rock''
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flotus.stingray.com%2Fmanifest%2Fose-101ads-montreal%2Fsamsungtvplus%2Fmaster.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.cogecolive.com/websites-public/logo_beat_color_default.svg" group-title="Canada",The Beat
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FCKBEFM.mp3
 #EXTINF:-1 tvg-logo="https://www.chez106.com/wp-content/uploads/sites/23/2023/03/cropped-static-logo-chez-1-180x180.png" group-title="Canada",106.1 CHEZ
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frogers-hls.leanstream.co%2Frogers%2Fott1061.stream%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",CKDO 1580 & 107.7 Oshawa ON
@@ -983,6 +983,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F26733.live.streamtheworld
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fais-sa1.streamon.fm%2F7738_128k.aac%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="null" group-title="Canada",Bolly radio.com
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fcarina.streamerr.co%2Fstream%2F8206
+#EXTINF:-1 tvg-logo="https://bpmsports.ca/wp-content/themes/bpmsports-pro/img/91,9.svg" group-title="Canada",CKLX-FM 91.9 "BPM Sports" Montreal QC
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.bpmsports.ca%2Fcklx.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",CIBQ 105.7 "Real Country" Brooks AB
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnewcap.leanstream.co%2FCIBQFM-MP3
 #EXTINF:-1 tvg-logo="https://kitchener.citynews.ca/apple-touch-icon.png?v=2" group-title="Canada",570 News Kitchener
@@ -993,8 +995,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fryerson.out.airtime.pro%3A
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frogers-hls.leanstream.co%2Frogers%2Fott1011.stream%2Ficy%3Fenvironment%3Dtunein%26args%3Dtunein_01
 #EXTINF:-1 tvg-logo="null" group-title="Canada",Radio Virsa
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.zeno.fm%2F25h82wv629duv
-#EXTINF:-1 tvg-logo="https://bpmsports.ca/wp-content/themes/bpmsports-pro/img/91,9.svg" group-title="Canada",CKLX-FM 91.9 "BPM Sports" Montreal QC
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.bpmsports.ca%2Fcklx.aac
 #EXTINF:-1 tvg-logo="https://www.thepeak.fm/favicon.ico" group-title="Canada",CKPK 102.7 FM Vancouver BC
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.jpbgdigital.com%2FCKPK.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",CKSA 95.9 "Real Country Lloydminster" AB
@@ -1257,6 +1257,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fredirect.jpbgdigital.com%
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fcfqk.streamon.fm%2Fstream%2FCFQK-32k.aac
 #EXTINF:-1 tvg-logo="https://fullspectrumradio.com/favicon.ico" group-title="Canada",fsr:: fullspectrumradio.com :: dnb.dubstep.bass
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ffullspectrumradio.com%2Flisten
+#EXTINF:-1 tvg-logo="http://fusion101radio.com/wp-content/uploads/2016/02/fusion101_logo-slogan.jpg" group-title="Canada",Fusion 101
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fquincy.torontocast.com%3A2045%2Fstream
 #EXTINF:-1 tvg-logo="https://ah.fm/wp-content/uploads/2023/03/transparent-black.png" group-title="Canada",AFTERHOURS | AH.FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ffr.ah.fm%2Fmobile
 #EXTINF:-1 tvg-logo="https://www.921citi.ca/wp-content/uploads/sites/22/2023/03/cropped-static-logo-921-citi-180x180.png" group-title="Canada",92 CITI FM
@@ -1279,10 +1281,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frogers-hls.leanstream.co%
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F26733.live.streamtheworld.com%2FCBDFM_CBC_SC
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",CJRW 102.1 "Spud FM" Summerside PE
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmbsradio.leanstream.co%2FCJRWFM-MP3
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",scifi.radio
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstation.kryptonradio.com%3A8080%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",CKWY 93.7 "Wayne FM" Wainwright AB
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnewcap.leanstream.co%2FCKWYFM
-#EXTINF:-1 tvg-logo="http://fusion101radio.com/wp-content/uploads/2016/02/fusion101_logo-slogan.jpg" group-title="Canada",Fusion 101
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fquincy.torontocast.com%3A2045%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",CHFG 101.1 "Cree Radio" ChisasibiQC
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fais-sa1.streamon.fm%2F7175_24k.aac%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",CIJK 89.3 "K-Rock" Kentville NS
@@ -1297,8 +1299,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fice10.securenetsystems.ne
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F72.11.152.198%3A81%2Flisten%2Fkazanova_radio%2Fradio.mp3
 #EXTINF:-1 tvg-logo="https://931freshradio.ca/wp-content/uploads/sites/25/2018/02/cropped-fresh_f_512x512.png?w=180" group-title="Canada",CHAY 93.1 "Fresh Radio" Barrie ON
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flive.leanstream.co%2FCHAYFM-MP3
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",scifi.radio
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstation.kryptonradio.com%3A8080%2Fstream
 #EXTINF:-1 tvg-logo="https://www.starfm.com/wp-content/uploads/sites/32/2023/02/cropped-static-logo-star-180x180.png" group-title="Canada",CKSR "Star 98.3"  Chilliwack BC
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frogers-hls.leanstream.co%2Frogers%2Fchi983.stream%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ICI_Radio-Canada_Premi%C3%A8re.svg/200px-ICI_Radio-Canada_Premi%C3%A8re.svg.png" group-title="Canada",Radio Canada Ici Première (Ottawa-Gatineau) Ottawa ON
@@ -1855,6 +1855,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frogers-hls.leanstream.co%
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flive.leanstream.co%2FCKRUFM-MP3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/CKVX_Country104.9_logo.png" group-title="Canada",CKVX-FM 104.9 "Country 104" Kindersley SK 
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fhel-ais-relay3.leanstream.co%2Fgoldenwest%2FCKVXFM.stream%2Fplaylist.m3u8
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",SCIFI.radio - Exclusively Instrumentals
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F51.161.13.200%3A8030%2Fstream
 #EXTINF:-1 tvg-logo="https://www.star959.ca/wp-content/uploads/sites/12/2023/02/cropped-static-logo-star-180x180.png" group-title="Canada",CHFM-FM "Star 95.9" Calgary AB  
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frogers-hls.leanstream.co%2Frogers%2Fcal959.stream%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",La Bonita X101
@@ -1909,8 +1911,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.radioking.com%2Fra
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.jpbgdigital.com%2FCHDR%2FHEAAC%2F48k%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",CJSE 89.5 "Country 89" Shediac NB
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream2.statsradio.com%3A8008%2Fstream
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",SCIFI.radio - Exclusively Instrumentals
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F51.161.13.200%3A8030%2Fstream
 #EXTINF:-1 tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2908/files/2021/07/surge-1051-colour5.png" group-title="Canada",CKHY-FM 105.1  "Surge 105" Dartmouth NS  
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fais-sa1.streamon.fm%2F7737_128k.aac%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",ETN.fm
@@ -2423,6 +2423,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fvistaradio.streamb.live%2
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fgoldenwest.leanstream.co%2FCFITFM
 #EXTINF:-1 tvg-logo="https://neaura.net/assets/images/nighthaven-your-haven-card-cropped.png" group-title="Canada",Nighthaven Enclave Radio - DJ Starface
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fcast3.my-control-panel.com%3A7695%2Flive
+#EXTINF:-1 tvg-logo="https://coopradio.org/wp-content/uploads/2021/09/cfro4.png" group-title="Canada",Vancouver Co-operative Radio
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten-coopradio.sharp-stream.com%2Fcoopradio.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Canada",Ancient FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmediaserv73.live-streams.nl%3A18058%2Fstream
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/CFRV-FM_KiSS1077_logo.png/150px-CFRV-FM_KiSS1077_logo.png" group-title="Canada",CFRV-FM "KISS 107.7"  Lethbridge AB
@@ -2501,8 +2503,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.radioking.com%2Fra
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Faudiofumes.ca%3A8443%2FAudiofumesRadio
 #EXTINF:-1 tvg-logo="https://fm96.com/wp-%0Acontent/uploads/sites/10/2021/09/%20fm96-header_380x1701.png" group-title="Canada",FM96
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.leanstream.co%2FCFPLFM-MP3
-#EXTINF:-1 tvg-logo="https://coopradio.org/wp-content/uploads/2021/09/cfro4.png" group-title="Canada",Vancouver Co-operative Radio
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten-coopradio.sharp-stream.com%2Fcoopradio.mp3
 #EXTINF:-1 tvg-logo="https://www.discoverestevan.com/assets/estevan/apple-icon-120x120-f8f5ffce46fde2a81bc7d12d2d7b2f7c9b9e4b90b20d1b1e4a52d8695bd675d4.png" group-title="Canada",CKSE 106.1 "Rock 106" Estevan SK
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fgoldenwest.leanstream.co%2FCKSEFM
 #EXTINF:-1 tvg-logo="https://media.socastsrm.com/uploads/station/124/site_header_logo-61327a853883b.png" group-title="Canada",CKKN 101.3 "The River" Prince George  BC
@@ -2633,5 +2633,3 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.zeno.fm%2F97qzdqaf
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fbeamadult.streeemer.com%2Flisten%2Fbeamadult%2Fradio.aac
 #EXTINF:-1 tvg-logo="https://media.live365.com/download/2483f575-609c-4901-962c-337022c03f09.png" group-title="Canada",Alternative Rock Variety
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreaming.live365.com%2Fa18329%2Fplaylist.m3u8%3Fplayerid%3DesPlayer
-#EXTINF:-1 tvg-logo="https://timecapsuleaudionetwork.ca/images/TCAN_LOGO_WHITE_BORDER-300.jpg" group-title="Canada",Time Capsule Audio Network
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fsc3.mystreamserver.com%3A8060%2F
