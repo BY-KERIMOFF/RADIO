@@ -239,10 +239,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fyayin1.canliyayin.org%3A70
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fchannels.dinamo.fm%2Fsleep-mp3
 #EXTINF:-1 tvg-logo="https://www.kralmuzik.com.tr/app/themes/kral/assets/images/kralmuzik_logo.png?v=2" group-title="Türkiye",KRAL FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdygedge2.radyotvonline.net%2Fkralfm%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn1.kralmuzik.com.tr/media/content/19-05/20/kralpop.png" group-title="Türkiye",KRAL POP
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdygedge2.radyotvonline.net%2Fkralfm%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Radyo Spor
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmoondigitaledge.radyotvonline.net%2Fradyospor%2Fplaylist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn1.kralmuzik.com.tr/media/content/19-05/20/kralpop.png" group-title="Türkiye",KRAL POP
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdygedge2.radyotvonline.net%2Fkralfm%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dinamo.fm/favicons/dinamo-fluent-favicon.jpg" group-title="Türkiye",dinamo.fm fluent
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fchannels.dinamo.fm%2Ffluent-mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAlkZWbK47GUO6iQFP2yohP0z_5X3WpdjdMQ&amp;s" group-title="Türkiye",Damar Turk FM
@@ -325,12 +325,12 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmoondigitaledge.radyotvon
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flive.radyotvonline.com%3A8090%2F%3B
 #EXTINF:-1 tvg-logo="null" group-title="Türkiye",Radyo Gol
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fedge1.radyotvonline.net%2Fshoutcast%2Fplay%2Fradyogol
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Power Dance
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.powerapp.com.tr%2Fpowerdance%2Fmpeg%2Ficecast.audio
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Denge Gundeme
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fkesintisizyayin.com%3A1656%2F
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Radyo ODTU - Rock
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.radyoodtu.com.tr%2Frock
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Power Dance
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.powerapp.com.tr%2Fpowerdance%2Fmpeg%2Ficecast.audio
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Tezene
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F37.247.98.8%2Fstream%2F22%2F.mp3%3F%2526token%3DBsx3vK2u28-xMp98IZDV2Q%2526expires%3D1618686860%2527%2520type%3D%2527audio%2Fmp3%2527%26rd2%3D%2527https%3A%2F%2Fradyo.vip%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Süper Fm
@@ -431,12 +431,12 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fbaserorg.duckdns.org%3A800
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fssldyg.radyotvonline.com%2Fbest%2Fbestfm.stream%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Radyo Gol
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmoondigitaledge.radyotvonline.net%2Fradyogol%2Fplaylist.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="Türkiye",Habertürk Radyo 
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fciner.daioncdn.net%2Fhaberturktv%2Fhaberturktv_1080p.m3u8%3Fsid%3D67dy0kx38l3a%26app%3Dc98ab0b0-50cc-495b-bb37-778e91f5ff5b%26ce%3D3
 #EXTINF:-1 tvg-logo="https://www.radio.net/300/radio-42-fm-medya-konya-pr-music.png" group-title="Türkiye",RADYO 42 FM MEDYA KONYA PR MUSIC TURKIYE
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fa8.asurahosting.com%2Fhls%2Fradyo_42_fm_medya_konya_pr_music%2Flive.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Retro Turk
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FRETROTURK_SC%3F%2F%3B
-#EXTINF:-1 tvg-logo="null" group-title="Türkiye",Habertürk Radyo 
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fciner.daioncdn.net%2Fhaberturktv%2Fhaberturktv_1080p.m3u8%3Fsid%3D67dy0kx38l3a%26app%3Dc98ab0b0-50cc-495b-bb37-778e91f5ff5b%26ce%3D3
 #EXTINF:-1 tvg-logo="https://www.radio.net/300/radio-42-fm-medya-konya-pr-music.png" group-title="Türkiye",RADYO 42 FM MEDYA KONYA PR MUSIC TURKIYE
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fa8.asurahosting.com%2Fhls%2Fradyo_42_fm_medya_konya_pr_music%2Flive.m3u8
 #EXTINF:-1 tvg-logo="https://www.radyo35.com/img/logo.png" group-title="Türkiye",Radyo 35
@@ -483,12 +483,12 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fcaz.radioca.st%2F
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.netmedya.net%2Fradyos
 #EXTINF:-1 tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/34a7a0ae-669e-4449-9f60-ad17563021c8.png" group-title="Türkiye",TRT Memleketim FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio-trtmemleketimfm.medya.trt.com.tr%2Fmaster.m3u8
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",107.4 Radio Voyage
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdygedge.radyotvonline.net%2Fradyovoyage%2Fplaylist.m3u8%3Flistenerid%3D29d0a6a85b59cea2ca801b70d2a3ebaf%26awparams%3DcompanionAds%253Atrue
 #EXTINF:-1 tvg-logo="https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png" group-title="Türkiye",Loops Radio House Station
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Floopsdeep.ozelip.com%2F7806%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Batı Radyo
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fsslyayin.netyayin.net%3A10902%2F
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",107.4 Radio Voyage
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdygedge.radyotvonline.net%2Fradyovoyage%2Fplaylist.m3u8%3Flistenerid%3D29d0a6a85b59cea2ca801b70d2a3ebaf%26awparams%3DcompanionAds%253Atrue
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",AFN 360 Incirlik
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F28503.live.streamtheworld.com%3A3690%2FAFNE_ICK_SC
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",POWER EARTH
@@ -563,10 +563,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radyo45lik.com%3A4
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F37.247.98.8%2Fstream%2F166%2F
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Radyo 45’lik 1970’ler 1980’ler ve 1990’lar 
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radyo45lik.com%3A4545%2F
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Radio Wanderlust
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradyo.yayin.com.tr%3A5898%2F
 #EXTINF:-1 tvg-logo="https://oetpai.fra1.digitaloceanspaces.com/new_images/onestop_51424770_294131.png" group-title="Türkiye",Abuzer FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flive.radyotvonline.com%3A9030%2F%3Bstream.nsv
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Radio Wanderlust
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradyo.yayin.com.tr%3A5898%2F
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Max Fm 95.8 ‘Maximum Music' 
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmaxfm.radyotvonline.net%2Fstream%2F164%2F%3B
 #EXTINF:-1 tvg-logo="https://www.gimsa.com.tr/images/apple-touch-icon.png" group-title="Türkiye", GİMSA RADYO
@@ -637,6 +637,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fonline.radioline.fm%3A844
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream3.radyoodtu.com.tr%3A8000%2Feasy
 #EXTINF:-1 tvg-logo="https://www.xradio.com.tr/favicon.ico" group-title="Türkiye",X Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.xradio.com.tr%3A8770%2Fstream
+#EXTINF:-1 tvg-logo="https://i.showradyo.com.tr/2/96/96/images/2025/07/28/show-radyo-logo-siyah-kare-1080x1080-3FlYmzPm.jpg" group-title="Türkiye",Show Radyo
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fshowradyo.radyotvonline.net%2Fshowradyoaac%2F
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",oyunpiyat
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fyayin.hostwin.net%2F8888%2Fstream%2520%2520oyunpiyatfm
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",90lar turkey
@@ -649,8 +651,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.34bit.net%2Far.aac
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Falevifm.80.yayin.com.tr%2F
 #EXTINF:-1 tvg-logo="https://www.kentfm955.com.tr/icons/radyokent_logo_tunein_512.png" group-title="Türkiye",Radyo Kent
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fkentfm955.ozelip.com%2F9306%2Fstream
-#EXTINF:-1 tvg-logo="https://i.showradyo.com.tr/2/96/96/images/2025/07/28/show-radyo-logo-siyah-kare-1080x1080-3FlYmzPm.jpg" group-title="Türkiye",Show Radyo
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fshowradyo.radyotvonline.net%2Fshowradyoaac%2F
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Radyo Trafik İstanbul
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F37.247.100.118%2Fstream%2F157%2F
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",KIYI Turkce
@@ -677,18 +677,18 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.34bit.net%2Far.aac
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.34bit.net%2Far.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Radyo Fıtrat
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradyofitrat.radyotvonline.net%2F
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",power love
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.powerapp.com.tr%2Fpowerlove%2Fabr%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Engelliler radyo
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.zeno.fm%2Fiuqovax9ftsvv
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Radyo Trio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradyotrio.radyotvonline.net%2Fradyotrio
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",power love
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.powerapp.com.tr%2Fpowerlove%2Fabr%2Fplaylist.m3u8
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Giresun FM
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fyayin.canliyayin.org%3A9482%2F%3B
 #EXTINF:-1 tvg-logo="https://www.radyodinletv.com/wp-content/uploads/bayram-fm-300x159.jpg" group-title="Türkiye",Bayram FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fsslyayin.netyayin.net%3A10962%2F320.mp3
 #EXTINF:-1 tvg-logo="http://moralfm.com.tr/yonetim/uploads/image/logo-base-1.png" group-title="Türkiye",Moral FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream-157.zeno.fm%2F0cfiqwdkobavv%3Fzt%3DeyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwY2ZpcXdka29iYXZ2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik1kcEtfTUtQUm5xS3N4Mk8yXzl5YnciLCJpYXQiOjE3MzEyNzQ1ODIsImV4cCI6MTczMTI3NDY0Mn0.0eDtTzJb2qydtHkWls4Op4nmAZvg_Q9AyObMw0XOy50
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Giresun FM
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fyayin.canliyayin.org%3A9482%2F%3B
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Radyo Delal
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fwowza1.radyotvonline.com%2Fidilpr%2Fradyodelal.stream%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Max Fm 95.8 ‘Maximum Music' 
@@ -717,6 +717,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F37.247.98.8%2Fstream%2F166
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fyayin2.canliyayin.org%3A8210%2F%3Bstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Joy FM Istanbul
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F21633.live.streamtheworld.com%2FJOY_FM128AAC.aac
+#EXTINF:-1 tvg-logo="https://radyokaradeniz.com/uploads/settings/logo_69fcfb84e4cd6.png" group-title="Türkiye",Radyo Karadeniz
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradyomar.80.yayin.com.tr%2F%3B
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Radio Light
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fyayin.radiolight.net%3A8005%2Flive
 #EXTINF:-1 tvg-logo="https://xradio.com.tr/favicon.ico" group-title="Türkiye",X Radio
@@ -725,8 +727,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fyayin.radyomadyo.com%3A877
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fmega.netradyom.com%3A7900%2Fradio.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Kıyı Türkçe
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fkiyiturk.radioca.st%2Fstream
-#EXTINF:-1 tvg-logo="https://radyokaradeniz.com/uploads/settings/logo_69fcfb84e4cd6.png" group-title="Türkiye",Radyo Karadeniz
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradyomar.80.yayin.com.tr%2F%3B
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Radyo 13
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradyo.yayindakiler.com%3A3050%2Fstream%3F%2F%3Bstream.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Kafa Radyo
@@ -743,6 +743,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fyayin.arabeskfm.biz%3A8042
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.xradio.com.tr%3A8770%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Serhat FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fyayin.serhatfm.com%3A9150%2Fstream
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",POWER TÜRK FM
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.powerapp.com.tr%2Fpowerturk%2Fabr%2Fpowerturk%2F128%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="null" group-title="Türkiye",Banko Fm 1
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fyayin.netradyom.com%3A9910%2FRADYOBANKO
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Radyo Trio
@@ -751,8 +753,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradyotrio.radyotvonline.n
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradyo.yayin.com.tr%3A6179%2F%3B
 #EXTINF:-1 tvg-logo="https://www.radyo9.com/logo.png" group-title="Türkiye",Radyo 9
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradyo.yayin.com.tr%3A4010%2F
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",POWER TÜRK FM
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.powerapp.com.tr%2Fpowerturk%2Fabr%2Fpowerturk%2F128%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/koroglu-fm.jpg" group-title="Türkiye",Köroğlu FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fyayin.turkhosted.com%3A6068%2Fstream%3F%2F%3Bstream.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",ULUSAL ARABESK
@@ -783,14 +783,14 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fyayin.netradyom.com%3A7900
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Freplaynewstr.ice.infomaniak.ch%2Freplaynewstr-128.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",HAYATMİX ARABESK
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradyo.yayin.com.tr%3A4078%2Fmp3
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",KARMA TÜRK SLOW
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fyayin.radyomadyo.com%3A8004%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",Radyo light
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fyayin.radiolight.net%3A8005%2Flive
 #EXTINF:-1 tvg-logo="https://www.ktu.edu.tr/image/tr_bg.png" group-title="Türkiye",KTU
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fsslyayin.netyayin.net%2Fradyoktu%2Fstream%2F%3Btype%3Dmp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",POWER TÜRK TAPTAZE
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.powerapp.com.tr%2Fpowerturktaptaze%2Fabr%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",KARMA TÜRK SLOW
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fyayin.radyomadyo.com%3A8004%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",S1LHOUTTE ANKARA HAVALARI
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F37.247.98.8%2Fstream%2F30%2F
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",JOY TÜRK FM
@@ -1015,6 +1015,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radiojar.com%2Ftam
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fanadolu.liderhost.com.tr%3A10906%2F
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",90LAR
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmoondigitaledge.radyotvonline.net%2F90lar%2Fplaylist.m3u8
+#EXTINF:-1 tvg-logo="http://hatayradyosu.com/resgenel/radyo/tempo.png" group-title="Türkiye",101.4 HATAY TEMPO FM
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fsslyayin.netyayin.net%3A1215%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",TURKUVAZ ROMANTİK
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ftrkvz-radyolar.ercdn.net%2Fturkuvazromantik%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",POWERTÜRK TAPTAZE
@@ -1051,8 +1053,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fanadolu.liderhost.com.tr%
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fanadolu.liderhost.com.tr%2F8126%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",RADYO DOKSANLAR
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmoondigitaledge.radyotvonline.net%2Fradyolanddoksanlar%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="http://hatayradyosu.com/resgenel/radyo/tempo.png" group-title="Türkiye",101.4 HATAY TEMPO FM
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fsslyayin.netyayin.net%3A1215%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",BOĞAZ FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradyo.yayin.com.tr%3A5938%2F
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",BEST SLOW
@@ -1175,5 +1175,3 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradyo.yayin.com.tr%3A5924
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradyo44.80.yayin.com.tr%2Fstream
 #EXTINF:-1 tvg-logo="https://www.powerapp.com.tr/i/favicov2/apple-icon-120x120.png?v=817" group-title="Türkiye",Power POP
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.powerapp.com.tr%2Fpowerpop%2F128%2Fchunks.m3u8
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Türkiye",MASTİKA FM
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmastika1.80.yayin.com.tr%2F
