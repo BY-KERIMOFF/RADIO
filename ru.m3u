@@ -361,10 +361,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8004%2Fmi
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio-soyuz.ru%3A1045%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Minimal Tech House [2]
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8000%2Fmintechhouse
-#EXTINF:-1 tvg-logo="https://www.rockfm.ru/favicons/apple-touch-icon.png" group-title="The Russian Federation",rockfm.ru heavy
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fjfm1.hostingradio.ru%3A14536%2Fmetal.mp3
 #EXTINF:-1 tvg-logo="https://noisefm.ru/thumbnail.jpg" group-title="The Russian Federation",Noise FM - EDM Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplay.sas-media.ru%2Fplay_256
+#EXTINF:-1 tvg-logo="https://www.rockfm.ru/favicons/apple-touch-icon.png" group-title="The Russian Federation",rockfm.ru heavy
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fjfm1.hostingradio.ru%3A14536%2Fmetal.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Dark Electro / Aggrotech
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A8002%2Fdarkelectro
 #EXTINF:-1 tvg-logo="http://www.radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Melodic Death Metal
@@ -395,12 +395,12 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A8002%2Feasy
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fnfw.ria.ru%2Fflv%2Faudio.aspx%3FID%3D68862011%26amp%3Btype%3Dmp3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygdPW3d/image.png" group-title="The Russian Federation",Радио МИР
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficecast-mirtv.cdnvideo.ru%2Fradio_mir_256
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s309967/images/logod.jpg?t=1" group-title="The Russian Federation",Radio Record Ambient
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradiorecord.hostingradio.ru%2Fambient96.aacp
 #EXTINF:-1 tvg-logo="https://www.radiorecord.ru/icons/apple-touch-icon.png" group-title="The Russian Federation",Русский микс
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradiorecord.hostingradio.ru%2Frus96.aacp
 #EXTINF:-1 tvg-logo="https://www.maximum.ru/icon.ico?60bb89f8ad0d0a04" group-title="The Russian Federation",Radio Maximum - Rammstein
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmaximum-rammstein.hostingradio.ru%2Frammstein96.aacp
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s309967/images/logod.jpg?t=1" group-title="The Russian Federation",Radio Record Ambient
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradiorecord.hostingradio.ru%2Fambient96.aacp
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Радио Культура / Radio Kultura
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.vgtrk.cdnvideo.ru%2Fkulturafm_mp3_192kbps
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Progressive Metal
@@ -423,10 +423,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradiorecord.hostingradio.r
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A8000%2Fheavymetal
 #EXTINF:-1 tvg-logo="https://radiorecord.ru/icons/apple-touch-icon.png" group-title="The Russian Federation",Radio Record 00's
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradiorecord.hostingradio.ru%2F200096.aacp
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Дядя Ваня на даче (18+) 
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fic1.radiosignal.one%2Fvanya-mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Country/folk blues - Radio Caprice
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8004%2Fcountryblues
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Дядя Ваня на даче (18+) 
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fic1.radiosignal.one%2Fvanya-mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Dream Trance
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A8002%2Fdreamtrance
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Bossa Nova
@@ -517,10 +517,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fjfm1.hostingradio.ru%3A145
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8000%2Fmelodicheavy
 #EXTINF:-1 tvg-logo="https://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Depressive Black Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A9011%2F%3B
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Enigmatic Immersion
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradio.enigmatic.su%3A8040%2Fradio
 #EXTINF:-1 tvg-logo="https://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Lo-Fi
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A8000%2Flo-fi
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Enigmatic Immersion
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradio.enigmatic.su%3A8040%2Fradio
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Russian Radio Moscow
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frusradio.hostingradio.ru%2Frusradio96.aacp
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Instrumental Music
@@ -541,10 +541,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8004%2Fsymp
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8000%2Finstrumentalhiphop
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Power Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8000%2Fpowermetal
-#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Neo-progressive Rock
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8002%2Fneoprogrock
 #EXTINF:-1 tvg-logo="null" group-title="The Russian Federation",Радио Родных Дорог
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream1.radiord.ru%3A8000%2Flive128.mp3
+#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Neo-progressive Rock
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8002%2Fneoprogrock
 #EXTINF:-1 tvg-logo="http://retroclub.online/images/apple-touch-icon.png" group-title="The Russian Federation",Радио Ретроклуб
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fretroclub.hostingradio.ru%2Fretroclub128.aacp
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Радио Рекорд Trap
@@ -587,10 +587,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frusradio.hostingradio.ru%
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fsoyuzfm.su%3A8100%2F%2Fsoyuzfm-320.mp3%3F1702169748633
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - AOR / Melodic Hard Rock
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A8002%2Faor
-#EXTINF:-1 tvg-logo="http://pifm.ru/img/ico/96%D1%8596.png" group-title="The Russian Federation",Пи FM
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fcdn.pifm.ru%2Fmp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Monte Carlo Gold Collection
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmontecarlo.hostingradio.ru%2Fmcgold96.aacp
+#EXTINF:-1 tvg-logo="http://pifm.ru/img/ico/96%D1%8596.png" group-title="The Russian Federation",Пи FM
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fcdn.pifm.ru%2Fmp3
 #EXTINF:-1 tvg-logo="https://sun9-52.userapi.com/impf/c621513/v621513634/19b70/mlfH5n5JsAI.jpg?size=604x604&quality=96&sign=e66eefcb195bad96140072e9742b4a69&type=album" group-title="The Russian Federation",Radio Maximum
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmaximum.hostingradio.ru%2Fmaximum128.mp3
 #EXTINF:-1 tvg-logo="https://www.mosfm.com/img/favicon/apple-touch-icon.png" group-title="The Russian Federation",Moskva FM
@@ -683,10 +683,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8002%2Fmi
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A9085%2F%3B
 #EXTINF:-1 tvg-logo="https://www.radiorecord.ru/icons/apple-touch-icon.png" group-title="The Russian Federation",Radio Record  - Disco Funk
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradiorecord.hostingradio.ru%2Fdiscofunk96.aacp
-#EXTINF:-1 tvg-logo="http://radiorecord.ru/local/templates/record/assets/build/favicon-set/apple-touch-icon.png" group-title="The Russian Federation",Радио Рекорд 80-х
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradiorecord.hostingradio.ru%2F198096.aacp
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Ретро FM 70e
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fretro70.hostingradio.ru%3A8025%2Fretro70-128.mp3
+#EXTINF:-1 tvg-logo="http://radiorecord.ru/local/templates/record/assets/build/favicon-set/apple-touch-icon.png" group-title="The Russian Federation",Радио Рекорд 80-х
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradiorecord.hostingradio.ru%2F198096.aacp
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/89519.v4.png" group-title="The Russian Federation",Radio Caprice - Symphonic Gothic Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8002%2Fsymphogoth
 #EXTINF:-1 tvg-logo="https://www.rockfm.ru/favicons/apple-touch-icon.png" group-title="The Russian Federation",ROCK FM 80s
@@ -747,14 +747,14 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradio.promodj.com%2Fdubste
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ffresh.volna.top%2FFresh
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Indie Folk
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A8002%2Findiefolk
-#EXTINF:-1 tvg-logo="http://i.ibb.co/QFP30Vj/latinjazz2.jpg" group-title="The Russian Federation",Radio Caprice - Latin / Afro-Cuban Jazz
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8002%2Flatinjazz
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/64714.v28.png" group-title="The Russian Federation",Radio Caprice - Female vocal in metal music
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A8000%2Ffemalemetal%3Ftype%3D.mp3
-#EXTINF:-1 tvg-logo="http://radiorecord.ru/local/templates/record/assets/build/favicon-set/apple-touch-icon.png" group-title="The Russian Federation",Радио Рекорд Hypnotic
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradiorecord.hostingradio.ru%2Fhypno96.aacp
+#EXTINF:-1 tvg-logo="http://i.ibb.co/QFP30Vj/latinjazz2.jpg" group-title="The Russian Federation",Radio Caprice - Latin / Afro-Cuban Jazz
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8002%2Flatinjazz
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Atmosfera 128
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F185.64.76.49%3A8000%2F128
+#EXTINF:-1 tvg-logo="http://radiorecord.ru/local/templates/record/assets/build/favicon-set/apple-touch-icon.png" group-title="The Russian Federation",Радио Рекорд Hypnotic
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradiorecord.hostingradio.ru%2Fhypno96.aacp
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/62055.v16.png" group-title="The Russian Federation",Radio Caprice - Gothic Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8002%2Fgothicmetal
 #EXTINF:-1 tvg-logo="http://radiorecord.ru/icons/apple-touch-icon.png" group-title="The Russian Federation",Радио Рекорд Jungle
@@ -835,10 +835,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.12.130%3A8002%2Ffol
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradiorecord.hostingradio.ru%2Fchillhouse96.aacp
 #EXTINF:-1 tvg-logo="https://cdn.promodj.com/legacy/i/favicon/favicon_180.png" group-title="The Russian Federation",PromoDJ - Yoo
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradio.promodj.com%3A8000%2Fyo-192
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Classical guitar - Radio Caprice
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8004%2Fclassguitar
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Mixadance FM Relax
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.mixadance.fm%2Frelax%23.m4a
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Classical guitar - Radio Caprice
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8004%2Fclassguitar
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Instrumental Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8004%2Finstrumentalmetal
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Orthodox
@@ -873,10 +873,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ftntradio.hostingradio.ru%3
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fdeti.volna.top%2FDeti
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Americana / American Roots
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8002%2Famericana
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Умное Радио
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fumnoe.amgradio.ru%2FUmnoe
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Classical avant-garde - Radio Caprice
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8004%2Fclassavant
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Умное Радио
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fumnoe.amgradio.ru%2FUmnoe
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Enigmatic 3 Magnetic Chill out (256 kbps)
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.enigmatic.su%3A8005%2Fradio%3Fx%3D1738166302438
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Anima Amoris Deep Tech House
@@ -923,22 +923,22 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A9029%2F
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A8000%2Fdeephouse
 #EXTINF:-1 tvg-logo="https://www.radiorecord.ru/icons/apple-touch-icon.png" group-title="The Russian Federation",Radio Record - Russian Gold
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradiorecord.hostingradio.ru%2Frussiangold96.aacp
+#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Speedmetal
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8000%2Fspeedmetal
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Детское радио (ДетиFM) - Detskoye Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fpub0101.101.ru%2Fstream%2Fair%2Faac%2F64%2F199
 #EXTINF:-1 tvg-logo="https://europaplus.ru/favicon.ico" group-title="The Russian Federation",EuropaPplus Top 40
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Feptop128.streamr.ru%2F
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/b8qjdagwc9d8.png" group-title="The Russian Federation",Radio Caprice - Easy Listening
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A8000%2Feasylistening
-#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Speedmetal
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8000%2Fspeedmetal
 #EXTINF:-1 tvg-logo="http://radiorecord.ru/local/templates/record/assets/build/favicon-set/apple-touch-icon.png" group-title="The Russian Federation",Радио Рекорд Innocence
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradiorecord.hostingradio.ru%2Fibiza96.aacp
+#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/a-state-of-trance-radio" group-title="The Russian Federation",A State of Trance - Record
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradiorecord.hostingradio.ru%2Fasot96.aacp
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio caprice - pop ballads
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8002%2Fpopballads
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Вечная молодость
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fmisato.ru-hoster.com%3A8037%2Fstream
-#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/a-state-of-trance-radio" group-title="The Russian Federation",A State of Trance - Record
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradiorecord.hostingradio.ru%2Fasot96.aacp
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Folk Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A8000%2Ffolkmetal
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Радио Монте Карло Песни оЛюбви
@@ -981,20 +981,20 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fjfm1.hostingradio.ru%3A145
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten7.myradio24.com%2F9083
 #EXTINF:-1 tvg-logo="https://relax-fm.ru/design/images/img_for_design/icons/touch-icon-ipad.png" group-title="The Russian Federation",-=- Relax-FM -=-
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fic4.101.ru%3A8000%2Fstream%2Fair%2Faac%2F64%2F200
-#EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/postrock4.jpg" group-title="The Russian Federation",Radio Caprice - Post-rock
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A8004%2Fpostrock
 #EXTINF:-1 tvg-logo="https://cdn.promodj.com/legacy/i/favicon/favicon_180.png" group-title="The Russian Federation",PromoDJ TOP-100
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradio.promodj.com%2Ftop100
+#EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/postrock4.jpg" group-title="The Russian Federation",Radio Caprice - Post-rock
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A8004%2Fpostrock
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Anima Amoris Minimal Deep Techno
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Famoris.sknt.ru%2Fminimal.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",New Age Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fa7.radioheart.ru%3A8044%2Fnewageradio%3F_ga%3D2.255684622.769977034.1646991967-126118534.1646991967
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Russkoe Radio - Moskva 105.7 FM
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Frusradio.hostingradio.ru%2Frusradio96.aacp
 #EXTINF:-1 tvg-logo="https://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Surf Rock
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8000%2Fsurfrock
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Industrial Music [1]
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A8002%2Findustrial
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Russkoe Radio - Moskva 105.7 FM
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Frusradio.hostingradio.ru%2Frusradio96.aacp
 #EXTINF:-1 tvg-logo="https://cdn.promodj.com/legacy/i/favicon/favicon_180.png" group-title="The Russian Federation",Promodj Top100
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradio.promodj.com%2Ftop100-192
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="The Russian Federation",Radio Caprice - Jazz Fusion
@@ -1035,16 +1035,16 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fjoyhits.online%2Fjoyhits2
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fchannels.fonotron.ru%3A8000%2FChan_73_256.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Pop rock / soft rock / power pop
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8002%2Fpoprock
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - PSYCHOBILLY
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8002%2Fpsychobilly
 #EXTINF:-1 tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/it/119/570/3.jpg" group-title="The Russian Federation",ВИА СССР
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fpub0101.101.ru%2Fstream%2Fpro%2Faac%2F64%2F36
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - PSYCHOBILLY
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8002%2Fpsychobilly
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Радио Искатель
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fiskatel.hostingradio.ru%3A8015%2Fiskatel-128.mp3
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",рекорд чилл
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradiorecord.hostingradio.ru%2Fchil96.aacp
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Авторадио 107.7 FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fonline2.gkvr.ru%3A8001%2Favtoradio_mzd_64.aac
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",рекорд чилл
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradiorecord.hostingradio.ru%2Fchil96.aacp
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Clarinet oboe bassoon
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8002%2Fclarinet
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Russian Pop music 80-90's
@@ -1095,10 +1095,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A8002%2Forth
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frr-sovclass.hostingradio.ru%2Fsovclass96.aacp
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",За облаками
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F195.88.63.114%3A8000%2Fzaoblakami%3Ftype%3D.pls
-#EXTINF:-1 tvg-logo="https://m.tvzvezda.ru/favicon.ico" group-title="The Russian Federation",Звезда ТВ🌟(ТВЧ)📺
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ftvchannelstream1.tvzvezda.ru%2Fcdn%2Ftvzvezda%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="http://radcap.ru/favicon.ico" group-title="The Russian Federation",Radio Caprice - Bulgarian Pop-Folk/Ethnopop/Chalga
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8000%2Fchalga
+#EXTINF:-1 tvg-logo="https://m.tvzvezda.ru/favicon.ico" group-title="The Russian Federation",Звезда ТВ🌟(ТВЧ)📺
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ftvchannelstream1.tvzvezda.ru%2Fcdn%2Ftvzvezda%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://radiopotok.ru/apple-touch-icon.png" group-title="The Russian Federation",Старый портфель
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flk.castnow.ru%3A8100%2Foldbrief-320.mp3
 #EXTINF:-1 tvg-logo="http://radcap.ru/favicon.ico" group-title="The Russian Federation",CRN - Old School Hip-Hop/Rap
@@ -1119,16 +1119,16 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8002%2Fco
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.kamchatkalive.ru%3A8103%2Fchillout
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Uralsound FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F62.16.40.250%3A8000%2Furalsoundfm
+#EXTINF:-1 tvg-logo="https://deepinspace.ru/wp-content/uploads/2024/12/logo500.jpg" group-title="The Russian Federation",DEEP IN SPACE
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.drugradio.ru%3A8020%2Fstream128
 #EXTINF:-1 tvg-logo="http://radiorecord.ru/local/templates/record/assets/build/favicon-set/apple-touch-icon.png" group-title="The Russian Federation",Радио Рекорд Uplifting
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradiorecord.hostingradio.ru%2Fuplift96.aacp
 #EXTINF:-1 tvg-logo="https://i.1.creatium.io/5f/9c/2c/4e16165627237138cbc3273f76782d56f9/196x196/favicon.png" group-title="The Russian Federation",Спокойное радио
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten9.myradio24.com%2F6262
-#EXTINF:-1 tvg-logo="https://deepinspace.ru/wp-content/uploads/2024/12/logo500.jpg" group-title="The Russian Federation",DEEP IN SPACE
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.drugradio.ru%3A8020%2Fstream128
-#EXTINF:-1 tvg-logo="https://orpheusradio.ru/apple-touch-icon.png" group-title="The Russian Federation",Радио Орфей - Классика киномузыки
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fchannels.fonotron.ru%3A8000%2FChan_9_192.mp3
 #EXTINF:-1 tvg-logo="https://dfm.ru/uploads/favicon.ico" group-title="The Russian Federation",DFM - Breakbeat
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdfm-breakbeat.hostingradio.ru%2Fbreakbeat96.aacp
+#EXTINF:-1 tvg-logo="https://orpheusradio.ru/apple-touch-icon.png" group-title="The Russian Federation",Радио Орфей - Классика киномузыки
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fchannels.fonotron.ru%3A8000%2FChan_9_192.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Oldies
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8004%2Foldies
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",DFM - Organic House
@@ -1187,10 +1187,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.myrh.ru%2FBard-Rad
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream4.radiogoose.ru%2Flisten%2Fradiogoose%2Fplay
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Радио России (AAC)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.vgtrk.cdnvideo.ru%2Frrzonam_aac_32kbps
-#EXTINF:-1 tvg-logo="https://vesti42.ru/wp-content/uploads/2021/02/cropped-favicon-180x180.png" group-title="The Russian Federation",Маяк (Кузбасс)
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F212.75.194.94%3A8000%2FKemMayakFM
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Dark Electro
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A8000%2Fdarkelectro
+#EXTINF:-1 tvg-logo="https://vesti42.ru/wp-content/uploads/2021/02/cropped-favicon-180x180.png" group-title="The Russian Federation",Маяк (Кузбасс)
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F212.75.194.94%3A8000%2FKemMayakFM
 #EXTINF:-1 tvg-logo="http://radiorecord.ru/icons/apple-touch-icon.png" group-title="The Russian Federation",Радио Рекорд GOA/PSY
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradiorecord.hostingradio.ru%2Fgoa96.aacp
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Folk Rock
@@ -1227,14 +1227,14 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F89.223.45.5%3A8000%2Fprogr
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.vgtrk.cdnvideo.ru%2Frrzonam_mp3_192kbps
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Disco- Caprice Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8000%2Fdisco
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Symphonic Death Metal
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8000%2Fsymphodeath
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Радио ТВ Твоя Волна 
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficecast-tvoyavolna.cdnvideo.ru%2Ftvoyavolna
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Liquid Funk
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8002%2Fliquidfunk
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Symphonic Death Metal
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8000%2Fsymphodeath
 #EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/ritamb-c.jpg" group-title="The Russian Federation",RADCAP: INDUSTRIAL / DARK / RITUAL AMBIENT
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A8000%2Fdarkambient
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Liquid Funk
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8002%2Fliquidfunk
 #EXTINF:-1 tvg-logo="https://radiojazzfm.ru/favicons/apple-touch-icon.png" group-title="The Russian Federation",Радио Jazz Smooth
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fjfm1.hostingradio.ru%3A14536%2Fsjstream.mp3
 #EXTINF:-1 tvg-logo="https://orpheusradio.ru/apple-touch-icon.png" group-title="The Russian Federation",Радио Орфей (Radio Orpheus)
@@ -1263,12 +1263,12 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Femgregion.hostingradio.ru%
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.12.130%3A8002%2Fnwobhm
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Music of Siberia & Mongolia
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8004%2Fsiberia
+#EXTINF:-1 tvg-logo="https://myradio24.com/users/dance80/nocover.jpg" group-title="The Russian Federation",Дискотека 80-х & 90-х
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten4.myradio24.com%2Fdance80
 #EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" group-title="The Russian Federation",DFM REMAKE
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdfm-remake.hostingradio.ru%2Fremake96.aacp
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Super-Radio Remix
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten2.myradio24.com%2Fserz
-#EXTINF:-1 tvg-logo="https://myradio24.com/users/dance80/nocover.jpg" group-title="The Russian Federation",Дискотека 80-х & 90-х
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten4.myradio24.com%2Fdance80
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Cyberpunk [2]
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.12.130%3A8000%2Fcyberpunk
 #EXTINF:-1 tvg-logo="http://www.radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Punk
@@ -1341,12 +1341,12 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdorognoe.hostingradio.ru%
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A8000%2Fdarkdubstep
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Epic Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8000%2Fepicmetal
+#EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/droneambient-c.jpg" group-title="The Russian Federation",RADCAP: DRONE AMBIENT
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8000%2Fdroneambient
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Suomisaundi / Freeform Psytrance
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A9147%2F%3B
 #EXTINF:-1 tvg-logo="null" group-title="The Russian Federation",Комсомольская правда Владивосток 90.4 FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fkpradio.hostingradio.ru%3A8000%2Fvladivostok.radiokp64.mp3
-#EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/droneambient-c.jpg" group-title="The Russian Federation",RADCAP: DRONE AMBIENT
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8000%2Fdroneambient
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Swing / Neo-swing
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A8002%2Fswing
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Relax Life
@@ -1419,6 +1419,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream2.n340.com%2F12_dac
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdfm-popgold10.hostingradio.ru%2Fpopgold1096.aacp
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Depressive Black Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8002%2Fdsbm
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fW54PgvB/wjptkypawv5t.png" group-title="The Russian Federation",Radio Caprice - Minimal Tech House
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8000%2Fmintechhouse
 #EXTINF:-1 tvg-logo="http://radiorecord.ru/icons/apple-touch-icon.png" group-title="The Russian Federation",Радио Рекорд Rave FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradiorecord.hostingradio.ru%2Frave96.aacp
 #EXTINF:-1 tvg-logo="https://rusradio.ru/uploads/8e/08/4ce3ff8344dd6e98f853daa1ec9d.png" group-title="The Russian Federation",Детский Канал - Русское Радио
@@ -1431,8 +1433,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream02.pcradio.app%2Fni
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.12.130%3A8000%2Ffolkdeathmet
 #EXTINF:-1 tvg-logo="http://hitfm.ru/apple-icon.png?b1d3d31b1e6c8f8f" group-title="The Russian Federation",XIT FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fhitfm.hostingradio.ru%2Fhitfm96.aacp
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fW54PgvB/wjptkypawv5t.png" group-title="The Russian Federation",Radio Caprice - Minimal Tech House
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8000%2Fmintechhouse
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Experimental Techno [2]
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8000%2Fexperimentaltechno
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Говорит Москва
@@ -1615,14 +1615,14 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fchanson.hostingradio.ru%3A
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Femgspb.hostingradio.ru%2Fnovoespb128.mp3
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Hard Bob
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A8000%2Fhardbop
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",На шашлыки!
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fhls-01-radiorecord.hostingradio.ru%2Frecord-nashashlyki%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://vedaradio.fm/wp-content/uploads/2024/01/vrlogo2.png" group-title="The Russian Federation",Veda Radio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flisten.vedaradio.fm%3A8000%2Fveryhigh
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Hitradio Center Megamix
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F212.30.80.195%3A8066%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",BadBeatRadio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fmisato.ru-hoster.com%3A8061%2Fbadbeatradio
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",На шашлыки!
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fhls-01-radiorecord.hostingradio.ru%2Frecord-nashashlyki%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Classical Guitar
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8000%2Fclassguitar
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/149.v6.png" group-title="The Russian Federation",Радио Русские Песни
@@ -1641,22 +1641,22 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.12.130%3A8004%2Fgar
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8000%2Fskapunk
 #EXTINF:-1 tvg-logo="http://royalradio.ru/favicon.ico" group-title="The Russian Federation",Royal Club
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F193.33.170.218%3A8000%2FRoyalClub
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fW54PgvB/wjptkypawv5t.png" group-title="The Russian Federation",Radio Caprice - Minimal Techno
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A8000%2Fmintechno
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio 7 Moscow
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Femgregion.hostingradio.ru%3A8064%2Fmoscow.radio7.mp3
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Art Rock
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A8002%2Fartrock
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fW54PgvB/wjptkypawv5t.png" group-title="The Russian Federation",Radio Caprice - Minimal Techno
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A8000%2Fmintechno
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241022_205913794.jpg?alt=media&token=294d53ec-e4be-49fc-9460-fbeef4f94451" group-title="The Russian Federation",Хит ФМ Сыктывкар 102.7 FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fcast.severmedia.ru%3A5443%2FHIT_11_01
+#EXTINF:-1 tvg-logo="null" group-title="The Russian Federation",92.0 Москва FM
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.vgtrk.cdnvideo.ru%3A8000%2Fmoscowfm128
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240814_224403518.jpg?alt=media&token=5913b30e-d3de-4372-807c-99ab4ddc8745" group-title="The Russian Federation",Комсомольская правда Ярославль 96.2 FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fkpradio.hostingradio.ru%3A8000%2Fyaroslavl.radiokp128.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Jazz / Fusion Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8002%2Fjazzmetal
 #EXTINF:-1 tvg-logo="https://www.alfafm.ru/favicon.ico" group-title="The Russian Federation",радио АЛЬФА
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream2.alfafm.ru%2Falfa_mp3
-#EXTINF:-1 tvg-logo="null" group-title="The Russian Federation",92.0 Москва FM
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.vgtrk.cdnvideo.ru%3A8000%2Fmoscowfm128
 #EXTINF:-1 tvg-logo="null" group-title="The Russian Federation",Радио Советская Классика
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frr-sovclass.hostingradio.ru%2Fsovclass96.aacp
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",RadCap - Atmospheric Ambient Black Metal
@@ -1681,10 +1681,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fjfm1.hostingradio.ru%3A145
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Femgregion.hostingradio.ru%3A8064%2Fperm.europaplus.mp3
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Nu Metal (128)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A8000%2Fnumetal
-#EXTINF:-1 tvg-logo="null" group-title="The Russian Federation",Радио Эрмитаж Санкт-Петербург 90.1 FM
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fhermitage.hostingradio.ru%2Fhermitage128.mp3
 #EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/ambientdub-c.jpg" group-title="The Russian Federation",RADCAP: AMBIENT DUB
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A8000%2Fambientdub
+#EXTINF:-1 tvg-logo="null" group-title="The Russian Federation",Радио Эрмитаж Санкт-Петербург 90.1 FM
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fhermitage.hostingradio.ru%2Fhermitage128.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",VostokFM-MSK
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fair2.volna.top%2FVostokFM-MSK
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240815_070149502.jpg?alt=media&token=96bca2e4-c858-4283-b39b-316dd6c597a4" group-title="The Russian Federation",ЮморФМ: Стендапы
@@ -1723,6 +1723,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A8000%2Fgla
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A8002%2Felectroclash
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",фантези
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ffantasyradioru.no-ip.biz%3A8002%2Flive
+#EXTINF:-1 tvg-logo="https://www.radiorecord.ru/icons/apple-touch-icon.png" group-title="The Russian Federation",Radio Record - Rap Classics
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradiorecord.hostingradio.ru%2Frapclassics96.aacp
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/97.v4.png" group-title="The Russian Federation",Радио Пассаж
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flisten.radiopassazh.ru%2Faac-64
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Радио Монте Карло - Nights
@@ -1731,8 +1733,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmc-mcnight.hostingradio.r
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A8000%2Fmathrock
 #EXTINF:-1 tvg-logo="https://www.radiogrom.com/paint_new/logo_big/radio-retro-fm-80e.jpg" group-title="The Russian Federation",Ретро FM 80e
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fretro80.hostingradio.ru%3A8025%2Fretro80-128.mp3
-#EXTINF:-1 tvg-logo="https://www.radiorecord.ru/icons/apple-touch-icon.png" group-title="The Russian Federation",Radio Record - Rap Classics
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradiorecord.hostingradio.ru%2Frapclassics96.aacp
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Industrial Music [2]
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A8000%2Findustrial
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Electro Techno [3]
@@ -1783,12 +1783,12 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8000%2Fpr
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fshoutcast.aplus.fm%2Faplus_deep_128
 #EXTINF:-1 tvg-logo="https://play.google.com/favicon.ico" group-title="The Russian Federation",радио ретро сан ремо
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fretroserver.streamr.ru%3A8043%2Fretro256.mp3
+#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Forest Psytrance
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8002%2Fforestpsytrance
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250104_102203394.jpg?alt=media&token=e786687c-09db-4388-a55a-550a3a25b002" group-title="The Russian Federation",DFM Russian Gold
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdfm-russiangold.hostingradio.ru%2Frussiangold96.aacp
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",RadioGora - HitMix
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flisten.radiogora.ru%3A8000%2Fhitmix128
-#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Forest Psytrance
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8002%2Fforestpsytrance
 #EXTINF:-1 tvg-logo="https://dfm.ru/uploads/favicon.ico" group-title="The Russian Federation",DFM - Trap
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdfm-dfmtrap.hostingradio.ru%2Fdfmtrap96.aacp
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Радио Карл
@@ -1905,6 +1905,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frusdriveradio.ru%3A8000%2
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fonline-2.gkvr.ru%3A8000%2Fchanson_sam_96.aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Anima Amoris IDM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Famoris.sknt.ru%2Fidm.mp3
+#EXTINF:-1 tvg-logo="https://cdn1.101.ru/proxy/vardata/modules/channel/image/7c1ba516f86d0595c452495ab6c59367.png" group-title="The Russian Federation",101.ru Sandra
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fsrv11.gpmradio.ru%3A8443%2Fstream%2Fpro%2Faac%2F64%2F179
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Неслучайное Радио
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Faska.ru-hoster.com%3A8006%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",ретро фм Кемерово
@@ -1925,8 +1927,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F188.170.219.153%3A8000%2F
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmontecarlo.hostingradio.ru%2Fmontecarlo96.aacp
 #EXTINF:-1 tvg-logo="https://dfm.ru/uploads/favicon.ico" group-title="The Russian Federation",DFM Dance FM Moscow
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdfm.hostingradio.ru%2Fdfm128.mp3
-#EXTINF:-1 tvg-logo="https://cdn1.101.ru/proxy/vardata/modules/channel/image/7c1ba516f86d0595c452495ab6c59367.png" group-title="The Russian Federation",101.ru Sandra
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fsrv11.gpmradio.ru%3A8443%2Fstream%2Fpro%2Faac%2F64%2F179
 #EXTINF:-1 tvg-logo="https://www.rockfm.ru/favicons/apple-touch-icon.png" group-title="The Russian Federation",ROCK FM 00s
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fjfm1.hostingradio.ru%3A14536%2Frock00.mp3
 #EXTINF:-1 tvg-logo="http://i.ibb.co/KsSqLP3/chicagoblues2.jpg" group-title="The Russian Federation",Radio Caprice - Chicago Blues
@@ -1959,14 +1959,14 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F91.202.68.50%3A8000%2F%3Bs
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Femgspb.hostingradio.ru%2Feldoradio64.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",RadCap - Thrash Heavy Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8004%2Fthrashheavy
+#EXTINF:-1 tvg-logo="https://radio90s.ru/uploads/posts/2023-12/radio-melodija-spb-onlajn-logo1.webp" group-title="The Russian Federation",Мелодия СПб
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.salyutfm.ru%3A4020%2Fstream
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/90/f7/1a/90f71a87-096d-b3c1-c284-873b2eaf1a25/mza_4771468106753631555.jpg/1200x630wp.png" group-title="The Russian Federation",DevZen Podcast
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.devzen.ru%2Fstream%3Ftype%3D.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",CRN - East Coast Rap
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A8000%2Feastcoastrap
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",radio caprice
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A8000%2Fbaroque
-#EXTINF:-1 tvg-logo="https://radio90s.ru/uploads/posts/2023-12/radio-melodija-spb-onlajn-logo1.webp" group-title="The Russian Federation",Мелодия СПб
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.salyutfm.ru%3A4020%2Fstream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX2qgTebsFokg27ExH30o-egUECArAT0UrtfDsPX8pv1fKbXTIjmXSqAVLsmr9Q0wFwvc&usqp=CAU" group-title="The Russian Federation",Caprice Radio - Dark Psy
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8000%2Fdarkpsytrance
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",CRN - Memphis Rap/Hip-Hop
@@ -2095,6 +2095,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F78.140.197.238%3A9877%2FDR
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fpub0102.101.ru%3A8443%2Fstream%2Fpro%2Faac%2F64%2F447
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",RadioGora - Oldies
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flisten.radiogora.ru%3A8000%2Foldies128
+#EXTINF:-1 tvg-logo="https://europaplus.ru/favicon.ico" group-title="The Russian Federation",Europa Plus Light
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Femg02.hostingradio.ru%2Fep-light128.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Радио Югра
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fugra.cdnradio.ru%2Fradiougra
 #EXTINF:-1 tvg-logo="null" group-title="The Russian Federation",Дорожное радио Москва 96.0 FM
@@ -2107,8 +2109,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fgtrk22.ru%3A8000%2FHFMhigh
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradiorecord.hostingradio.ru%2Fedmhits96.aacp
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Радио Орфей - Классика крупных форм
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fchannels.fonotron.ru%3A8000%2FChan_8_192.mp3
-#EXTINF:-1 tvg-logo="https://europaplus.ru/favicon.ico" group-title="The Russian Federation",Europa Plus Light
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Femg02.hostingradio.ru%2Fep-light128.mp3
 #EXTINF:-1 tvg-logo="https://www.maximum.ru/favicon.ico" group-title="The Russian Federation",Radio Maximum - Covers
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmaximum-cover.hostingradio.ru%2Fmaxcover96.aacp
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hSP42CX.jpg" group-title="The Russian Federation",Radio Caprice Piano Blues / Boogie-Woogie
@@ -2175,14 +2175,14 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8004%2Fpian
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8002%2Favantprog
 #EXTINF:-1 tvg-logo="http://www.radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice Romantic Music Collection
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A8002%2Fromantic
+#EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/ambient-c.jpg" group-title="The Russian Federation",RADCAP: AMBIENT
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8000%2Fambient
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240927_222223176.jpg?alt=media&token=d3d1f53b-3c81-4743-a658-2704ed466054" group-title="The Russian Federation",Новое радио Краснодар 89.3 FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Femgregion.hostingradio.ru%3A8064%2Fkrasnodar.novoe.mp3
 #EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/dfm-vocal-drum.jpg" group-title="The Russian Federation",DFM Vocal Drum
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdfm-drum.hostingradio.ru%2Fdrum96.aacp
 #EXTINF:-1 tvg-logo="https://station.ru/resize_130x130/uploads/40/d3/cda32ef542a4700cc2ec49d650e8.png" group-title="The Russian Federation",MonteCarlo Nights
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmc-chilllonge.hostingradio.ru%2Fchilllonge96.aacp
-#EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/ambient-c.jpg" group-title="The Russian Federation",RADCAP: AMBIENT
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8000%2Fambient
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Caprice - Surf Rock
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8002%2Fsurfrock
 #EXTINF:-1 tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/xw/129/840/7.jpg" group-title="The Russian Federation",Радио России Нижний Новгород
@@ -2331,14 +2331,14 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A9093%2F%3B
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast.ntrk21.ru%3A8000%2Fnacradio
 #EXTINF:-1 tvg-logo="http://radiorecord.ru/local/templates/record/assets/build/favicon-set/apple-touch-icon.png" group-title="The Russian Federation",Радио Рекорд Black Rap
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradiorecord.hostingradio.ru%2Fyo96.aacp
+#EXTINF:-1 tvg-logo="https://www.radiobells.com/stations/recordarmin.webp" group-title="The Russian Federation",Armin van Buuren (Record)
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradiorecord.hostingradio.ru%2Farmin96.aacp
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice Tango
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A8002%2Ftango
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Nami
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F5.9.2.139%3A8000%2Fany-anime.ru
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Future Garage 
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A8000%2Ffuturegarage
-#EXTINF:-1 tvg-logo="https://www.radiobells.com/stations/recordarmin.webp" group-title="The Russian Federation",Armin van Buuren (Record)
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradiorecord.hostingradio.ru%2Farmin96.aacp
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241004_224743350.jpg?alt=media&token=4c4d28bc-45aa-4563-a280-f903cb0fef01" group-title="The Russian Federation",Радио Дача Самара 102.1 FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fmicroit.n340.com%3A9000%2FVgMv0WV17ZVx1uuo_12_dacha_128_reg_319
 #EXTINF:-1 tvg-logo="null" group-title="The Russian Federation",Доброе старое радио
@@ -2455,6 +2455,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradiovos.ru%3A9000%2Fradio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradio.dline-media.com%2Fpowerhit128
 #EXTINF:-1 tvg-logo="null" group-title="The Russian Federation",Ретро ФМ Москва 88.3 FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Femgregion.hostingradio.ru%3A8064%2Fmoscow.retrofm.mp3
+#EXTINF:-1 tvg-logo="http://www.radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice Western Swing
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.12.130%3A8002%2Fwesternswing
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Радио Мелодия
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream64.melodiafm.spb.ru%3A8000%2Fmelodia64
 #EXTINF:-1 tvg-logo="null" group-title="The Russian Federation",Эльдорадио Санкт-Петербург 101.4 FM
@@ -2469,8 +2471,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8004%2Fcl
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fhitfm.hostingradio.ru%2Fhitfm96.aacp
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Glitch / Glitch-Hop [2]
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A8000%2Fglitch
-#EXTINF:-1 tvg-logo="http://www.radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice Western Swing
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.12.130%3A8002%2Fwesternswing
 #EXTINF:-1 tvg-logo="https://orpheusradio.ru/apple-touch-icon.png" group-title="The Russian Federation",Радио Орфей - Современная хоровая 256kbps
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fchannels.fonotron.ru%3A8000%2FChan_61_256.mp3
 #EXTINF:-1 tvg-logo="http://radcap.ru/favicon.ico" group-title="The Russian Federation",Radio Caprice - Balkan
@@ -2583,6 +2583,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fonline-2.gkvr.ru%3A8000%2F
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8000%2Fclassical
 #EXTINF:-1 tvg-logo="https://www.aplus.fm/images/relax.webp" group-title="The Russian Federation",Aplus.FM Relax
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fshoutcast.aplus.fm%3A9000%2Faplus_relax_128
+#EXTINF:-1 tvg-logo="http://radcap.ru/graf2/radcaplogo.png" group-title="The Russian Federation",Experimental/Avant Rock Radio Caprice
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8004%2Favantrock
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",RadCap - Gothic Doom Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A8004%2Fgothdoommet
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",RadCap - Melodic Death Metal
@@ -2599,8 +2601,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradiodeluxe.hostingradio.r
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fanon.fm%3A8000%2Fradio
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/vzhabbbskf4g.png" group-title="The Russian Federation",[RockTime-Radio]
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fa9.radioheart.ru%3A8049%2Frocktime
-#EXTINF:-1 tvg-logo="http://radcap.ru/graf2/radcaplogo.png" group-title="The Russian Federation",Experimental/Avant Rock Radio Caprice
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8004%2Favantrock
 #EXTINF:-1 tvg-logo="https://i.imgur.com/68IszBX.jpg" group-title="The Russian Federation",Radi Caprice - Afrobeat
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fnationalanthems.info%2Fag.mp3%3FPANGEAhttps%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3https%3A%2F%2Fnationalanthems.info%2Fag.mp3
 #EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/dfm-breakbeat.jpg" group-title="The Russian Federation",DFM Breakbeat
@@ -2980,6 +2980,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmurka.amgradio.ru%2FMurka
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdfm-pump.hostingradio.ru%2Fpump96.aacp
 #EXTINF:-1 tvg-logo="https://radcap.ru/apple-touch-icon.png" group-title="The Russian Federation",Radio Caprice - Surf Rock
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8000%2Fsurfrock
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Ambient
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Famoris.sknt.ru%2Fambient
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",XXL FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F91.211.246.42%3A8000%2FXXL-FM
 #EXTINF:-1 tvg-logo="http://radcap.ru/favicon.ico" group-title="The Russian Federation",CRN - Hip-Hop
@@ -3000,8 +3002,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fchannels.fonotron.ru%3A80
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flisten.radiogora.ru%3A8000%2Fetc128
 #EXTINF:-1 tvg-logo="http://radcap.ru/favicon.ico" group-title="The Russian Federation",Radio Caprice - French Hip-Hop / Rap
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8004%2Ffrenchrap
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Ambient
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Famoris.sknt.ru%2Fambient
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250104_103311141.png?alt=media&token=8430823c-a2ab-4af5-8797-12157526337e" group-title="The Russian Federation",DFM Russian Gold
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdfm-russiangold.hostingradio.ru%2Frussiangold96.aacp
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Underground Techno
@@ -3191,6 +3191,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fsrv02.gpmradio.ru%3A8443%
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.189.208.146%3A8005%2FGaragefm192
 #EXTINF:-1 tvg-logo="https://radiopotok.ru/apple-touch-icon.png" group-title="The Russian Federation",Радио Старого Полковника
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fnotthatoldcolonel.ru%3A1050%2Fstream
+#EXTINF:-1 tvg-logo="https://lounge.luxury/img/apple-touch-icon.png" group-title="The Russian Federation",Luxury Lounge Radio - Chillwave Retrowave Synthwave
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F188.40.109.114%3A8000%2Fices2
 #EXTINF:-1 tvg-logo="http://www.voiceofburma.ru/favicon.ico" group-title="The Russian Federation",Голос Бирмы
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten4.myradio24.com%2F39982
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240914_183349704.jpg?alt=media&token=11343a97-5b6d-488f-ac2c-e3ad54e541e1" group-title="The Russian Federation",Комсомольская правда Санкт-Петербург 92.0 FM
@@ -3213,8 +3215,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fzvezda-radio-rzv.mediacdn
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8004%2Fjazzmetal
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240925_204733807.jpg?alt=media&token=0686f294-afea-465b-adac-e243ef19f516" group-title="The Russian Federation",Комсомольская правда Ростов-на-Дону 89.8 FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fkpradio.hostingradio.ru%3A8000%2Frostov.radiokp128.mp3
-#EXTINF:-1 tvg-logo="https://lounge.luxury/img/apple-touch-icon.png" group-title="The Russian Federation",Luxury Lounge Radio - Chillwave Retrowave Synthwave
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F188.40.109.114%3A8000%2Fices2
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - Groove Metal (128)
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A8000%2Fgroovemetal
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",RadCap - Death Doom Metal
@@ -3359,6 +3359,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F91.202.68.50%3A8000%2F%3Bs
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fonair.radio1922.ru%3A8000%2F192.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Garage House
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.12.130%3A8000%2Fgaragehouse
+#EXTINF:-1 tvg-logo="http://radcap.ru/favicon.ico" group-title="The Russian Federation",Radio Caprice - Dungeon Synth
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.12.130%3A8000%2Fdungeonsynth
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Techno
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8000%2Ftechno
 #EXTINF:-1 tvg-logo="https://wot.videowargaming.net/uploads/posts/2014-12/1417701614214177016072corsa.png" group-title="The Russian Federation",Пиратское радио
@@ -3397,8 +3399,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F62.183.34.109%3A8000%2Frad
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.119.111%3A8002%2Fjazzrock
 #EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" group-title="The Russian Federation",DFM TIЁSTO
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdfm-tiesto.hostingradio.ru%2Ftiesto96.aacp
-#EXTINF:-1 tvg-logo="http://radcap.ru/favicon.ico" group-title="The Russian Federation",Radio Caprice - Dungeon Synth
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.12.130%3A8000%2Fdungeonsynth
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240916_224310358.jpg?alt=media&token=187f43da-6dff-470c-b2fc-7074f54af5d2" group-title="The Russian Federation",Комсомольская правда Калуга 93.1 FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fkpradio.hostingradio.ru%3A8000%2Fkaluga.radiokp128.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Chicago Blues
@@ -3601,6 +3601,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A9043%2F%3B
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fabs.zaycev.fm%2Frock128k
 #EXTINF:-1 tvg-logo="https://rusradio.ru/uploads/5f/f6/6320fcd1280af7a3487399864e6d.png" group-title="The Russian Federation",Rock Fam - Русское Радио
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frr-rockfam.hostingradio.ru%2Frockfam96.aacp
+#EXTINF:-1 tvg-logo="https://topradio.mobi/screen/1630359359_mix_fm_habarovsk_rossiya.jpg" group-title="The Russian Federation",Mix FM 
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradio.gubernia.com%3A8000%2Fradio3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Coffee Jazz
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ftower.hayva.ru%2Ff7lwc-96
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Segenswelle Russisch
@@ -3643,8 +3645,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.discoveryfm.ru%2Fd
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten8.myradio24.com%2F8144
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_211750251.jpg?alt=media&token=c36509a0-9695-424a-8994-547af0a9bb5c" group-title="The Russian Federation",Новое радио Нижний Новгород 96.0 FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Femgregion.hostingradio.ru%3A8064%2Fnnovgorod.novoe.mp3
-#EXTINF:-1 tvg-logo="https://topradio.mobi/screen/1630359359_mix_fm_habarovsk_rossiya.jpg" group-title="The Russian Federation",Mix FM 
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradio.gubernia.com%3A8000%2Fradio3
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241120_200537271.jpg?alt=media&token=22d50f28-7634-418d-b9bb-16913f6a6c52" group-title="The Russian Federation",Русское радио Владикавказ 107.9 FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fbroadcast.osetiafm.ru%2Frr.mp3
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250125_115203716.jpg?alt=media&token=6a8810b5-ea25-4d78-be29-3504cbfe780a" group-title="The Russian Federation",Радио Крым Симферополь 100.1 FM
@@ -3766,6 +3766,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.12.130%3A8004%2Fimp
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ffm.1tvcrimea.ru%3A19001%2Fstream_provod.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Portal Novovoronezh
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast-ext.dimfm.ru%3A8000%2Fportal
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Delta Blues
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8000%2Fdeltablues
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",RadCap - Folk Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A8004%2Ffolkmetal
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s11094/logog.jpg" group-title="The Russian Federation",радио МЕГАПОЛИС 128 kb/s
@@ -3806,8 +3808,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Ficecast-vgtrk.cdnvideo.ru%
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.39.202%3A8004%2Fmathmetal
 #EXTINF:-1 tvg-logo="https://tvkrasnodar.ru/apple-touch-icon.png" group-title="The Russian Federation",Радио Краснодар
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficecast-radiokrasnodar.cdnvideo.ru%2Fradiokrasnodar_site_01
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Delta Blues
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8000%2Fdeltablues
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Indie Folk
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A8000%2Findiefolk
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241230_153034328.jpg?alt=media&token=27f36b7c-b607-4f8a-9b2d-8e16966e4e24" group-title="The Russian Federation",Дорожное радио Анадырь 100.0 FM
@@ -3989,6 +3989,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fdrh-connect.dline-media.co
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.vyshka24.ru%2F256
 #EXTINF:-1 tvg-logo="https://rer102-5fm.ru/images/logonw32.png" group-title="The Russian Federation",Рязанское Епархиальное Радио
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fs01.radio-tochka.com%3A4995%2Fradio
+#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/rnrfm.png" group-title="The Russian Federation",Rock n Roll FM
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fa6.radioheart.ru%3A9046%2FRH1972
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Gora Etcetera
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flisten.radiogora.ru%3A8000%2Fetc128
 #EXTINF:-1 tvg-logo="https://radio100fm.ru/i/images/fm.png" group-title="The Russian Federation",Радио 100
@@ -4025,6 +4027,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdrh-connect.dline-media.c
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fonline.guberniya.tv%3A8443%2F32radio
 #EXTINF:-1 tvg-logo="null" group-title="The Russian Federation",Радио Рекорд Казань 101.9 FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fonline-2.gkvr.ru%3A8000%2Frecord_kaz_64.aac
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Rock n Roll
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8000%2Frockroll
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",RadCap - Funk Rock Metal
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F213.141.131.10%3A8004%2Ffunkrock
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_212622852.jpg?alt=media&token=509b1448-26a5-4094-9a0a-7a39c88a95ec" group-title="The Russian Federation",Ретро ФМ Нижний Новгород 106.4 FM
@@ -4047,8 +4051,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fhls-01-regions.emgsound.ru
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio-holding.ru%3A9433%2Frfm
 #EXTINF:-1 tvg-logo="https://lirafm.ru/favicon-144x144.png" group-title="The Russian Federation",Лира FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten1.myradio24.com%2F23737
-#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/rnrfm.png" group-title="The Russian Federation",Rock n Roll FM
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fa6.radioheart.ru%3A9046%2FRH1972
 #EXTINF:-1 tvg-logo="https://radio2.online/favicon.ico" group-title="The Russian Federation",Radio 2 Komsomolsk-na-Amure
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F212.19.18.133%3A8000%2Fstream
 #EXTINF:-1 tvg-logo="null" group-title="The Russian Federation",Радио России ГТРК Вологда
@@ -4095,12 +4097,12 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Femgregion.hostingradio.ru%
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flive.radio7.su%3A9000%2Fradio7_128
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",МАКС-FM - Сочи
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmaksfm.hostingradio.ru%2Fmaksfm320.mp3
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Heavy Blues
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8000%2Fheavyblues
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241120_194959206.jpg?alt=media&token=69dc9603-5aa5-4c84-a2e3-edc1edf9d5ea" group-title="The Russian Federation",Радио Алания Владикавказ 104.5 FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fvgtrk15.hostingradio.ru%3A8011%2Fvgtrk15128.mp3
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240625_150752358.jpg?alt=media&token=9e73d5e7-6cdf-47e0-8c3b-c89c6b4bae56" group-title="The Russian Federation",DFM Вологда 103.2 FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fonline-2.gkvr.ru%3A8000%2Fdfm11_vld_64.aac
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Rock n Roll
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8000%2Frockroll
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Kontur
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmisato.ru-hoster.com%3A8029%2Fstream
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_195446602.jpg?alt=media&token=e4125a03-4f29-4de6-9e25-8c7881ad87cf" group-title="The Russian Federation",Комсомольская Правда Нижний Новгород 92.8 FM
@@ -4127,6 +4129,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fnashe1.hostingradio.ru%2Fu
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F93.190.204.101%3A8000%2Flive_100_4.mp3
 #EXTINF:-1 tvg-logo="https://topradio.me/assets/image/radio/100/10-petrozavodsk.png" group-title="The Russian Federation",Радио 10
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fic.radio10.live%2Fstream.mp3
+#EXTINF:-1 tvg-logo="https://rnr.fm/wp-content/uploads/2020/11/main_logo.png" group-title="The Russian Federation",Rock n Roll FM
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.myrh.ru%2Frnr_fm
 #EXTINF:-1 tvg-logo="null" group-title="The Russian Federation",Иван Кучин
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream02.pcradio.app%2FIvan_Kuchin-hi
 #EXTINF:-1 tvg-logo="null" group-title="The Russian Federation",БИМ-Радио Казань 102.8 FM
@@ -4163,8 +4167,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fdfm-insomnia.hostingradio.
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.randevuradio.ru%3A8000%2Frandevu
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Jazz
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8000%2Fjazz
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Heavy Blues
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.120.77.11%3A8000%2Fheavyblues
 #EXTINF:-1 tvg-logo="https://onlayn-radio.ru/uploads/posts/2024-01/avtoritetnoye.jpg" group-title="The Russian Federation",Авторитетное Радио
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreamer01.1028.fm%3A8443%2Farstream
 #EXTINF:-1 tvg-logo="null" group-title="The Russian Federation",Авторадио Вологда 106.1 FM
@@ -4229,8 +4231,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fsergeisam.fvds.ru%3A4480%2
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fbroadcast.osetiafm.ru%2Feuropa.mp3
 #EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/nrj-slap-house.jpg" group-title="The Russian Federation",ENERGY Slap House
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fpub0102.101.ru%3A8443%2Fstream%2Fpro%2Faac%2F64%2F416%3F
-#EXTINF:-1 tvg-logo="https://rnr.fm/wp-content/uploads/2020/11/main_logo.png" group-title="The Russian Federation",Rock n Roll FM
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten.myrh.ru%2Frnr_fm
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Shok
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fspb.radioshock.ru%2Fradioshock64
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",RadCap - Crust Punk
@@ -4677,6 +4677,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmyradio24.org%2Fdjmakc
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fnode0.craftradio.ru%3A8000%2F193_CB039DF9
 #EXTINF:-1 tvg-logo="null" group-title="The Russian Federation",Европа Плюс Владимир 102.9 FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradio.vladregion.ru%3A8000%2Flive
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",АСТВ (Южно Сахалинск)
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreamer01.1028.fm%3A8443%2Farstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",ХИТ FM Пермь 
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fhitfm.hostingradio.ru%2Fhitfm128.mp3%3F88b9f1
 #EXTINF:-1 tvg-logo="null" group-title="The Russian Federation",Кукрыниксы
@@ -4747,6 +4749,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fjfm1.hostingradio.ru%3A14
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.midtempo.net%2Fstream
 #EXTINF:-1 tvg-logo="https://radiomixer.net/crops/b2d655/80x80/1/0/2021/08/09/71FDFiDu3RvTa1tFXrD66GsguYc7hJDE.png" group-title="The Russian Federation",City FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fcity.stream.laut.fm%2Fcity%3Ft302%3D2025-02-08_16-05-58%26uuid%3D44ff3f84-de6c-4f43-aa58-260037e9025b
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Дождь ТВ (Звук)
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fwl.tvrain.tv%2Ftranscode%2Fses_audio_only%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://jazztice.ru/doc/logo.png" group-title="The Russian Federation",Jazztice
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Faska.ru-hoster.com%3A8061%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",RadCap - Space Rock
@@ -4787,8 +4791,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream1.hostingradio.ru%3A
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F77.244.74.133%3A1956%2Fepobninsk
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Caprice - IDM ����
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F79.111.14.76%3A8002%2Fidm
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",АСТВ (Южно Сахалинск)
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreamer01.1028.fm%3A8443%2Farstream
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250512_120442952.jpg?alt=media&token=13dac08f-89c2-40aa-8742-88ec8eb5129d" group-title="The Russian Federation",Первое Сетевое Липецк 104.2 FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreamer.radiovseti.ru%3A8000%2F128
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240925_204037752.jpg?alt=media&token=2942e94c-cd25-4378-b211-deaa7058119d" group-title="The Russian Federation",Love radio Ростов-на-Дону 101.6 FM
@@ -4837,8 +4839,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.keygen-fm.ru%3A8042
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Femgregion.hostingradio.ru%3A8064%2Fnnovgorod.europaplus.mp3
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241227_192556408.jpg?alt=media&token=97479766-3070-4b73-a10b-65b7f366aabe" group-title="The Russian Federation",Love radio Иваново 87.9 FM
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fmicroit.n340.com%3A9000%2FVgMv0WV17ZVx1uuo_12_love_128_reg_76196
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Дождь ТВ (Звук)
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fwl.tvrain.tv%2Ftranscode%2Fses_audio_only%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Говорит Майкоп
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fvoicemaikop.hostingradio.ru%3A8003%2Fvoicemaikop256.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Russian Federation",Radio Orpheus
@@ -5127,6 +5127,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F16bitfm.com%3A8000%2Fbtm_m
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F217.24.181.164%3A8000%2Fstream.mp3
 #EXTINF:-1 tvg-logo="null" group-title="The Russian Federation",Олег Газманов
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream02.pcradio.app%2Foleg_gazmanov-hi
+#EXTINF:-1 tvg-logo="https://youritmix.ru/logo-1200.png" group-title="The Russian Federation",YouRitmix
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fyouritmix.ru%2Fstream%2F
 #EXTINF:-1 tvg-logo="https://purewave.ru/assets/templates/pure/icons/favicon-32x32.png" group-title="The Russian Federation",Чистая волна
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.purewave.ru%3A8443%2Flive128.mp3
 #EXTINF:-1 tvg-logo="https://1z1radio.com/favicon-512x512.png" group-title="The Russian Federation",1Z1 Radio

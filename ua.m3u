@@ -387,10 +387,10 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.zfm.com.ua%3A8443%2
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.play-fm.ru%3A8001%2Fhomyak
 #EXTINF:-1 tvg-logo="https://x-on.com.ua/wp-content/uploads/2021/01/xon_favicon_512x512-150x150.png" group-title="Ukraine",Радіо X.ON
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Faudio.x-on.com.ua%3A8443%2Fx-on-aacp-64.aac
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Ukraine",Радіоточка
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradio.ukr.radio%3A8000%2Fur5-mp3
 #EXTINF:-1 tvg-logo="null" group-title="Ukraine",radio Italiana(UA)
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fonline.radioplayer.ua%2FRadioItaliana
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Ukraine",Радіоточка
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fradio.ukr.radio%3A8000%2Fur5-mp3
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20231118_140548015.jpg?alt=media&token=51146bdf-5a59-4f6b-b30b-853eb1aeac4d" group-title="Ukraine",Радіо Захід FM+
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.zfm.com.ua%3A8443%2Fzfm
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Ukraine",Хіт FM
@@ -401,16 +401,16 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radio.co%2Fs4360db
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Frockradioua.online%3A8433%2Fmetal_256
 #EXTINF:-1 tvg-logo="https://radio.kyivstar.ua/favicon.ico" group-title="Ukraine",Радіо Київстар Golden Hits
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.kyivstar.ua%2Fstream%2Fgold%2Fmaster.m3u8
+#EXTINF:-1 tvg-logo="https://play.tavr.media/static/image/header_menu/RadioBayraktar_220x220.jpg?v=1" group-title="Ukraine",Radio Bayraktar
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fonline.radiobayraktar.ua%2FRadioBayraktar
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c4206e_a5d313806bd94ec9a12a93a05dc68cae~mv2.jpg/v1/fill/w_299,h_168,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/MAIN%20LOGO%20JPG.jpg" group-title="Ukraine",Звичайне україномовне радіо
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fwhsh4u-panel.com%2Fproxy%2Fyvlxzzdx%3Fmp%3D%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Ukraine",Радіо RESPECT
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F195.66.79.35%3A8000%2Flive
-#EXTINF:-1 tvg-logo="https://play.tavr.media/static/image/header_menu/RadioBayraktar_220x220.jpg?v=1" group-title="Ukraine",Radio Bayraktar
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fonline.radiobayraktar.ua%2FRadioBayraktar
-#EXTINF:-1 tvg-logo="https://radio.kyivstar.ua/favicon.ico" group-title="Ukraine",Радіо Київстар Chill & Lounge
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.kyivstar.ua%2Fstream%2Fchill%2Fmaster.m3u8
 #EXTINF:-1 tvg-logo="https://radio1.com.ua/favicon-32x32.png" group-title="Ukraine",Радіо Перше
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.radio1.com.ua%2Fliveradio64
+#EXTINF:-1 tvg-logo="https://radio.kyivstar.ua/favicon.ico" group-title="Ukraine",Радіо Київстар Chill & Lounge
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.kyivstar.ua%2Fstream%2Fchill%2Fmaster.m3u8
 #EXTINF:-1 tvg-logo="https://www.instagram.com/favicon.ico" group-title="Ukraine",Kharkif Surf Rock
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream-172.zeno.fm%2Ftd4yedynbwzuv
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20230402_021920573.jpg?alt=media&token=13c4ee8f-cde1-4552-8c09-91939db353c4" group-title="Ukraine",Хомякс ФМ Луганск 102.3
@@ -459,6 +459,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.mistonadbugom.com.
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.kyivstar.ua%2Fstream%2Frap%2Fmaster.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Ukraine",Громадське радіо
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F91.218.212.67%3A8000%2Fstream-ps-hi
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Ukraine",Classic Radio
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fonline.classicradio.ua%2FClassicRadio_HD
 #EXTINF:-1 tvg-logo="https://rai.ua/wp-content/uploads/2021/03/cropped-favkarai2-32x32.png" group-title="Ukraine",Радіо РАІ
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.rai.ua%3A9000%2Frai
 #EXTINF:-1 tvg-logo="https://radio.kyivstar.ua/favicon.ico" group-title="Ukraine",Радіо Київстар Happy Hits
@@ -469,8 +471,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fcomplex.in.ua%2Flive
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fonline.fm.stryi.com%3A8000%2Fstryi-fm_mp3
 #EXTINF:-1 tvg-logo="https://urcradio.com/wp-content/uploads/2020/06/Logo-Website-2.png" group-title="Ukraine",URC Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreamer.radio.co%2Fsdff2fd6a8%2Flisten
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Ukraine",Classic Radio
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fonline.classicradio.ua%2FClassicRadio_HD
 #EXTINF:-1 tvg-logo="https://radio.kyivstar.ua/favicon.ico" group-title="Ukraine",Радіо Київстар Rock
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.kyivstar.ua%2Fstream%2Frock%2Fmaster.m3u8
 #EXTINF:-1 tvg-logo="https://c4.com.ua/wp-content/themes/c4/assets/img/favicon.png" group-title="Ukraine",Радіо С4
@@ -537,12 +537,12 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fwww.myinstants.com%2Fmedi
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F92.5.38.24%3A8000%2Fradio.mp3
 #EXTINF:-1 tvg-logo="https://perec.fm/favicon.ico" group-title="Ukraine",Radio Perec FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.perec.fm%2Fradio-stilnoe
+#EXTINF:-1 tvg-logo="https://pihota.fm/imgs/default-cover.png" group-title="Ukraine",РАДІОПІХОТА
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fonline.pihota.fm%2Flisten%2Fradio%2Faac64
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240923_181121171.jpg?alt=media&token=2323172f-9633-412e-b3f7-57231503ed2c" group-title="Ukraine",Сфера-ФМ
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fcdn-br2.live-tv.cloud%2FsferarvFM%2F320k%2Ficecast.audio
 #EXTINF:-1 tvg-logo="https://timfm.online/favicon.ico" group-title="Ukraine",ТІМ FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ftim-fm.tim.ua%2Fmp3
-#EXTINF:-1 tvg-logo="https://pihota.fm/imgs/default-cover.png" group-title="Ukraine",РАДІОПІХОТА
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fonline.pihota.fm%2Flisten%2Fradio%2Faac64
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="Ukraine",Ulyublene radio Horodyshche 98 FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flisten7.myradio24.com%2Fulyublene
 #EXTINF:-1 tvg-logo="https://fm.co.ua/wp-content/uploads/2025/10/STYLEFM-KV.jpg" group-title="Ukraine",STYLE FM
