@@ -243,10 +243,10 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreams.greenhost.nl%3A808
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream2.ujala.nl%2Fstream%2F2%2Flisten.mp3
 #EXTINF:-1 tvg-logo="https://kink.nl/static/favicon-32x32.png" group-title="The Netherlands",KINK 128k aac
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F29043.live.streamtheworld.com%2FKINKAAC_SC
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s104489/images/logog.png?t=152102" group-title="The Netherlands",KX Classics
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmcp-1.streampanel.nl%3A8020%2Fkxclassics_mp3
 #EXTINF:-1 tvg-logo="https://6nl7xj2ntppk.b-cdn.net/73cf20f2-a361-480b-bc2f-bec43b6a2bd5" group-title="The Netherlands",Sublime Live
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FSUBLIME.mp3
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s104489/images/logog.png?t=152102" group-title="The Netherlands",KX Classics
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmcp-1.streampanel.nl%3A8020%2Fkxclassics_mp3
 #EXTINF:-1 tvg-logo="https://scale.slam.nl/imageScaled/?site=slam&file=1580746671_Substations.jpg" group-title="The Netherlands",SLAM! DANCE CLASSICS
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.slam.nl%2FWEB15_MP3
 #EXTINF:-1 tvg-logo="https://www.intenseradio.net/wp-content/uploads/2023/09/intense-radio-vierkant-4d-2026.jpg" group-title="The Netherlands",Intense Radio - We love Dance 256K
@@ -457,12 +457,12 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.80sa.live%2F80s-al
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreams.greenhost.nl%3A8080%2Fgehoordestilte
 #EXTINF:-1 tvg-logo="https://s.regiogroei.cloud/Logo-los_1024.png" group-title="The Netherlands",Radio Gelderland
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fd2od87akyl46nm.cloudfront.net%2Ficecast%2Fomroepgelderland%2Fradiogelderland
+#EXTINF:-1 tvg-logo="https://favicons.teamtailor-cdn.com/icon?size=80..120..200&url=https%3a%2f%2ffalconfm.nl%2f" group-title="The Netherlands",Falcon Radio
+https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fserver-16.stream-server.nl%3A8926%2F%3B
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Netherlands",Ice Radio The Alternative
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.iceradio.nl%2Ficeradio
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s74982/images/logod.png?t=638756566650000000" group-title="The Netherlands",Radio 10  80's Hits
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FTLPSTR20.mp3
-#EXTINF:-1 tvg-logo="https://favicons.teamtailor-cdn.com/icon?size=80..120..200&url=https%3a%2f%2ffalconfm.nl%2f" group-title="The Netherlands",Falcon Radio
-https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fserver-16.stream-server.nl%3A8926%2F%3B
 #EXTINF:-1 tvg-logo="https://www.intenseradio.net/wp-content/uploads/2023/09/intense-radio-vierkant-4d-2026.jpg" group-title="The Netherlands",Intense Radio - We love Dance 256K
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fsecure.live-streams.nl%2Fmain
 #EXTINF:-1 tvg-logo="https://www.radio10.nl/favicon.ico" group-title="The Netherlands",Radio10
@@ -775,14 +775,14 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fdhpgstreaming.nl%2Fproxy%
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fintergalactic.tv%2Flive%2Fsmil%3Atv.smil%2Fplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://static.bnr.nl/assets/bnr-next/logo.png" group-title="The Netherlands",BNR Nieuwsradio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.bnr.nl%2Fbnr_mp3_128_01
+#EXTINF:-1 tvg-logo="https://epicprogradio.com/wp-content/uploads/2022/11/thumbnail_IMG_9772-1-768x277.jpg" group-title="The Netherlands",Epic Prog Radio
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ffra-pioneer08.dedicateware.com%3A3255%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Netherlands",Radio 509 Hilversum
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F22343.live.streamtheworld.com%2FRADIO509AAC_SC
 #EXTINF:-1 tvg-logo="https://www.bright.fm/wp-content/uploads/2016/08/cropped-bright.fm-ico-180x180.png" group-title="The Netherlands",BrightFamilyRadio
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstr1.hollanddata.eu%3A8006%2F%3B
 #EXTINF:-1 tvg-logo="https://glowfm.nl/favicon.png" group-title="The Netherlands",Glow FM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.glowfm.nl%2Fglowfm.mp3
-#EXTINF:-1 tvg-logo="https://epicprogradio.com/wp-content/uploads/2022/11/thumbnail_IMG_9772-1-768x277.jpg" group-title="The Netherlands",Epic Prog Radio
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ffra-pioneer08.dedicateware.com%3A3255%2Fstream
 #EXTINF:-1 tvg-logo="https://candlelight.nl/wp-content/uploads/2016/07/cropped-candlelight_favicon2-180x180.jpg" group-title="The Netherlands",Candlelight Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fcandlelight.nl%2Fcandlelight.mp3
 #EXTINF:-1 tvg-logo="https://s.regiogroei.cloud/img/favicons/rijnmond/apple-touch-icon.png?v=1715008420733" group-title="The Netherlands",Radio Rijnmond Extra
@@ -1073,6 +1073,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fplayerservices.streamthewo
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fmediaserv68.live-streams.nl%3A8012%2FRadioActive
 #EXTINF:-1 tvg-logo="https://jazzandworld.radio/wp-content/uploads/2022/01/JWR-main-logo@x2.png" group-title="The Netherlands",Jazz & World Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.jazzandworld.radio%2F%2FJAZZANDWORLD.mp3
+#EXTINF:-1 tvg-logo="null" group-title="The Netherlands",Radio Veronica
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F19993.live.streamtheworld.com%2FVERONICA_SC
 #EXTINF:-1 tvg-logo="http://www.radiouniquefm.nl/wp-content/uploads/2021/12/sticker_geel.gif" group-title="The Netherlands",RADIO UNIQUE FM /mobile
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fhilversumdrie.beheerstream.nl%2F8038%2Fmobile
 #EXTINF:-1 tvg-logo="https://alswin.nl/favicon.ico" group-title="The Netherlands",Alswin Ambient Music
@@ -1085,8 +1087,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstreams.pinguinradio.com%2
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.radionl.fm%2Fradionl
 #EXTINF:-1 tvg-logo="https://omroepeemsdelta.nl/wp-content/uploads/2020/06/cropped-Logo512-1.png" group-title="The Netherlands",Omroep Eemsdelta
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreams.radiomast.io%2F063fcf6f-4083-4c4e-85a8-31b0a709f40d
-#EXTINF:-1 tvg-logo="null" group-title="The Netherlands",Radio Veronica
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2F19993.live.streamtheworld.com%2FVERONICA_SC
 #EXTINF:-1 tvg-logo="https://postimg.cc/tYHwZ27g" group-title="The Netherlands",Alleen Klassiek
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FSERVICE06.mp3
 #EXTINF:-1 tvg-logo="https://piratenkanjers.nl/wp-content/uploads/2024/09/header.png" group-title="The Netherlands",Piratenkanjers
@@ -1295,6 +1295,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fd2e9xgjjdd9cr5.cloudfront
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fats.jammfm.nl%3A20080%2Fradio794%2F
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Netherlands",Q-Music Limburg
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fwww.mp3streams.nl%2Fzender%2Fqmusic-limburg%2Fstream%2F49-aac-64
+#EXTINF:-1 tvg-logo="https://www.riversideradio.nl/favicon.ico" group-title="The Netherlands",Riverside Radio
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.and-stuff.nl%3A8443%2FriversideMp3
 #EXTINF:-1 tvg-logo="https://www.deventerrtv.nl/own-files/drtv-512x512.png" group-title="The Netherlands",Deventer Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.deventerrtv.nl%3A8443%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Netherlands",Havenstad Radio
@@ -1343,8 +1345,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.40upradio.nl%2F40u
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplay.streamnerd.nl%2Fechobox%2Fechobox%2Ficecast.audio
 #EXTINF:-1 tvg-logo="https://thefinest.amsterdam/wp-content/uploads/2026/01/The_Finest_Amsterdam_1200x1200-1.png" group-title="The Netherlands",The Finest Amsterdam
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.thefinest.amsterdam%2Fhq
-#EXTINF:-1 tvg-logo="https://www.riversideradio.nl/favicon.ico" group-title="The Netherlands",Riverside Radio
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.and-stuff.nl%3A8443%2FriversideMp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Netherlands",SkyRadio Non-Stop
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FSKYRADIOAAC.aac
 #EXTINF:-1 tvg-logo="https://www.moonlight-radio.nl/digipal_uploads/headerdb/2002929616.jpg" group-title="The Netherlands",Moonlight-Radio
@@ -1403,6 +1403,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Feu.ah.fm%2Flive
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.viberadio.nl%2Fviberadio
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mCM5XC3qyr.png" group-title="The Netherlands",192 Radio Nederland
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fserver-27.stream-server.nl%3A8192%2F192radio
+#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Netherlands",Radio WORM
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Forigin.streamnerd.nl%2Fworm%2Fworm%2Ficecast.audio
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Netherlands",firma lomp en onbenullig
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.hostinggold.nl%2F8042%2Fstream
 #EXTINF:-1 tvg-logo="https://italo.nu/fantasy-logo.png" group-title="The Netherlands",Fantasy Radio - Italo Disco
@@ -1465,8 +1467,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fqxjr001.digiplay.nl%3A9188
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficecast.lokaleomroepzeewolde.nl%3A8443%2Fdrontenhigh
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Netherlands",Venlo Vintage
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream-10.pmteurope.com%3A8040%2Fstream
-#EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Netherlands",Radio WORM
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Forigin.streamnerd.nl%2Fworm%2Fworm%2Ficecast.audio
 #EXTINF:-1 tvg-logo="https://www.bnr.nl/favicon.ico" group-title="The Netherlands",BNR Niuewsradio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.bnr.nl%2Fbnr_mp3_128_01
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Netherlands",Free Radio Rotterdam
@@ -1719,6 +1719,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fserver-67.stream-server.n
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.radioseabreeze.nl%2F
 #EXTINF:-1 tvg-logo="null" group-title="The Netherlands",. Abdulbasit Abdulsamad
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradio.mp3islam.com%2Flisten%2Fabdulbasit%2Fradio.mp3
+#EXTINF:-1 tvg-logo="https://debatdirect.tweedekamer.nl/static/icons/apple-touch-icon.png" group-title="The Netherlands",Tweede Kamer
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flivestreaming.b67v2.tweedekamer.nl%2Flive%2Fplenairezaal%2Faudio%2Fprog_index.m3u8
 #EXTINF:-1 tvg-logo="https://favicons.teamtailor-cdn.com/icon?size=80..120..200&url=https%3a%2f%2f3heuvelland.nl%2f" group-title="The Netherlands",Radio 3Heuvelland
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fcaster04.streampakket.com%3A8115%2Fstream
 #EXTINF:-1 tvg-logo="https://norafm.nl/wp-content/uploads/2024/12/logo_kerst-150x150.png" group-title="The Netherlands",NoraFM - de Fijnste muziekmix
@@ -1789,6 +1791,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fradiostream.yoursafe.nl%2
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.glxy.radio%2FGLXY_OG
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Netherlands",The SID Station
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2F23.81.35.187%3A8144%2Fstream
+#EXTINF:-1 tvg-logo="https://www.npo3fm.nl/svg/npo_3fm_logo.svg" group-title="The Netherlands",Radio 3FM
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficecast.omroep.nl%2F3fm-bb-aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Netherlands",Samen1
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fserver-67.stream-server.nl%3A18752%2Fstream
 #EXTINF:-1 tvg-logo="https://a4.asurahosting.com/static/uploads/classics_radio/album_art.1770725396.png" group-title="The Netherlands",Classics Radio
@@ -1829,8 +1833,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstreams.radioerfgoed.nl%2
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fpiraten.fm%2Ftop%2F10
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Netherlands",1Zwolle
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.and-stuff.nl%3A8443%2Flive-1zwolle
-#EXTINF:-1 tvg-logo="https://debatdirect.tweedekamer.nl/static/icons/apple-touch-icon.png" group-title="The Netherlands",Tweede Kamer
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flivestreaming.b67v2.tweedekamer.nl%2Flive%2Fplenairezaal%2Faudio%2Fprog_index.m3u8
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Netherlands",Starlicht
 https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Flive.urkfm.nl%3A8000%2Furkfm.mp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Netherlands",Koekstad Radio
@@ -1893,8 +1895,6 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fsolid1.streamupsolutions.c
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.glindradio.nl%2F
 #EXTINF:-1 tvg-logo="https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-NL.png" group-title="The Netherlands",REPLAY NEWS - Nederlands
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Freplaynewsnl.ice.infomaniak.ch%2Freplaynewsnl-128.mp3
-#EXTINF:-1 tvg-logo="https://www.npo3fm.nl/svg/npo_3fm_logo.svg" group-title="The Netherlands",Radio 3FM
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Ficecast.omroep.nl%2F3fm-bb-aac
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Netherlands",Station Mooi Dat Kan
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fex52.voordeligstreamen.nl%3A8232%2Fstream
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Netherlands",Radio Joe
@@ -1959,6 +1959,8 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fserver-28.stream-server.n
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fserver6.radio-streams.net%2Fproxy%2Fradio416%2Fstream
 #EXTINF:-1 tvg-logo="https://piraten.fm/assets/stream.png" group-title="The Netherlands",Piraten.FM - 24
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fpiraten.fm%2Ftop%2F24
+#EXTINF:-1 tvg-logo="https://player.waterstadfm.nl/tmp/images/logo.1492004943.png" group-title="The Netherlands",Waterstad FM
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.waterstadfm.nl%2Fwaterstadfm
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Netherlands",GodenzonenFM
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Flive.godenzonenfm.nl%2Fmp3
 #EXTINF:-1 tvg-logo="https://cdn.nieuwsned.nl/07e1cd7dca89a1678042477183b7ac3f/files/cropped-cropped-logo-vvz-2024-blauw-rond.png" group-title="The Netherlands",VOORSTVELUWEZOOM
@@ -1975,6 +1977,8 @@ https://3bneoplay65.xyz/radio/stream?url=http%3A%2F%2Fstream.stream.delivery%2Fr
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Faudio.newsinternetradio.nl%2Fmp3
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Netherlands",PI2NOS
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.hobbyscoop.nl%2Fpi2nos
+#EXTINF:-1 tvg-logo="https://skyradio.nl/favicon.ico" group-title="The Netherlands",Skyradio
+https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fplayerservices.streamtheworld.com%2Fapi%2Flivestream-redirect%2FSKYRADIO.mp3
 #EXTINF:-1 tvg-logo="https://www.radioterranova.nl/bannerradioterranova.jpg" group-title="The Netherlands",Radio Terranova
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fserver-28.stream-server.nl%3A8914%2Fstream
 #EXTINF:-1 tvg-logo="https://piraten.fm/assets/stream.png" group-title="The Netherlands",Piraten.FM - 16
@@ -2073,8 +2077,6 @@ https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.hostbee.nl%3A7029%
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fpiraten.fm%2Ftop%2F21
 #EXTINF:-1 tvg-logo="https://nuradio.nl/wp-content/uploads/2025/07/NU.png" group-title="The Netherlands",NU Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fmscp2.live-streams.nl%3A8172%2Fnuradio
-#EXTINF:-1 tvg-logo="https://player.waterstadfm.nl/tmp/images/logo.1492004943.png" group-title="The Netherlands",Waterstad FM
-https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fstream.waterstadfm.nl%2Fwaterstadfm
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Netherlands",Grolloo Radio
 https://3bneoplay65.xyz/radio/stream?url=https%3A%2F%2Fuk1.streamingpulse.com%2Fssl%2Fgrollooradio
 #EXTINF:-1 tvg-logo="https://3bneoplay65.xyz/radio/logo.svg" group-title="The Netherlands",Omroep P&M
